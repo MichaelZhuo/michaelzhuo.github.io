@@ -1,11 +1,48 @@
 # michaelzhuo.github.io
-尊敬的各位领导、各位老师、亲爱的少先队员们：
-大家中午好，我是来自八年级7中队的卓皓轩。今天我带着复杂的心情在离队仪式上发表讲话。离开少先队，意味着离开这个生活了八年的大集体，心中是怀念、是不舍、却也是未来的期望。
-少先队员们，我们是否还记得，多年前的那一天，我们戴上鲜艳的红领巾，唱响了嘹亮的队歌《我们是共产主义接班人》，高举鲜红的队旗，成为了一名光荣的中国少年先锋队队员。那时，我们是多么的激动，是多么的的兴奋啊！
-这红领巾一戴就是八年，八个春秋里的日日夜夜，八个春秋里的奋斗，八个春秋里的学习，铸就了我们现在的人格，造就了我们这一群新时代的青年。八年后的今天，我们不得已要离开这个温馨的组织，摘下红领巾，开始全新的青春岁月。
-我们虽然离队了，但是我们的心永远系着少先队，我们不会忘记少先队给我们留下的宝贵的精神财富，我们不会忘记少先队员学会的知识，我们在这里养成的优秀品格也永远不会消失，我们在这里学会了进步、学会了团结、学会了友谊、学会了尊师重道，更重要的，是我们学会了为中国共产主义事业而奋斗！
-同志们，习近平总书记说，少先队是我们青少年追求政治进步的人生三部曲之一，我们的未来很前景很广，机会很多，很美好，我们还可以入团、入党，为国家和为人民做出更多的贡献。我们虽然即将要离开少先队，摘下红领巾，但是我们也将积极响应共青团的号召，带上光荣的团徽！我们的身份可能会改，但是为人民服务，为国家和民族奉献的初心永远不会改！在此青春华年，何不努力拼搏，绽放属于中国青年的绚丽之花？
-同志们，我们离开了少先队，但没有离开党和伟大社会主义祖国的怀抱，我们要永远珍惜永不褪色的红领巾，我们坚信并牢记，我们不仅现在是，而且永远都是是共产主义接班人！
-随着时光的流逝，我们现在更是五月的花海，初升的太阳。是未来的社会主义建设者和接班人，我们用青春拥抱时代，用生命点燃未来。把最好的青春献给祖国、献给人民。少年先锋队的火炬永远旺盛的燃烧着！我们永远是共产主义接班人！好好学习，用青春的热血和生命为共产主义崇高理想而不懈奋斗！
-我的讲话到此结束，谢谢。
-![Uploading image.png…]()
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+proxies:
+    - { name: 套餐到期：2023-07-21, type: vmess, server: cn-guangzhou.applebench.tech, port: 53002, uuid: 4cafa443-752e-4f99-b0fb-ea69a026db36, alterId: 0, cipher: auto, udp: true }
+    - { name: 'Miku 香港多协议智能边界连接 1000Mbps TCP', type: vmess, server: cn-guangzhou.applebench.tech, port: 53002, uuid: 4cafa443-752e-4f99-b0fb-ea69a026db36, alterId: 0, cipher: auto, udp: true }
+    - { name: 'AWS香港 5000Mbps TCP', type: vmess, server: cn-guangzhou.applebench.tech, port: 41502, uuid: 4cafa443-752e-4f99-b0fb-ea69a026db36, alterId: 0, cipher: auto, udp: true }
+    - { name: 'BuyVM 卢森堡 1000Mbps TCP', type: vmess, server: cn-telecom.applebench.tech, port: 18353, uuid: 4cafa443-752e-4f99-b0fb-ea69a026db36, alterId: 0, cipher: auto, udp: true }
+    - { name: '台湾 Hinet 1000Mbps TCP', type: vmess, server: cn-guangzhou.applebench.tech, port: 56268, uuid: 4cafa443-752e-4f99-b0fb-ea69a026db36, alterId: 0, cipher: auto, udp: true }
+    - { name: 'TWN 01', type: vmess, server: hinettw1.applebench.tech, port: 65531, uuid: 4cafa443-752e-4f99-b0fb-ea69a026db36, alterId: 0, cipher: auto, udp: true }
+    - { name: 'RU 01', type: ss, server: cn-guangzhou.applebench.tech, port: 23135, cipher: chacha20-ietf-poly1305, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true }
+    - { name: 'TR 01', type: ss, server: cn-guangzhou.applebench.tech, port: 23134, cipher: chacha20-ietf-poly1305, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true }
+    - { name: 'KR 01', type: vmess, server: kr1.gfwvip.me, port: 65514, uuid: 4cafa443-752e-4f99-b0fb-ea69a026db36, alterId: 0, cipher: auto, udp: true, network: ws, ws-opts: { path: /, headers: { Host: QWQ } }, ws-path: /, ws-headers: { Host: QWQ } }
+    - { name: 'KR 02', type: trojan, server: kr2.gfwvip.me, port: 55563, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true, sni: kr2.gfwvip.me, skip-cert-verify: true }
+    - { name: 'SGP 01', type: ss, server: sg1.gfwvip.me, port: 41839, cipher: chacha20-ietf-poly1305, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true }
+    - { name: 'SGP 02', type: trojan, server: sg2.gfwvip.me, port: 12897, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true, sni: sg2.gfwvip.me, skip-cert-verify: true }
+    - { name: 'SGP 03', type: ss, server: sg3.gfwvip.me, port: 47124, cipher: chacha20-ietf-poly1305, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true }
+    - { name: 'SGP 04', type: trojan, server: sg4.gfwvip.me, port: 17878, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true, sni: sg4.gfwvip.me, skip-cert-verify: true }
+    - { name: 'SGP 05', type: vmess, server: sg5.gfwvip.me, port: 44457, uuid: 4cafa443-752e-4f99-b0fb-ea69a026db36, alterId: 0, cipher: auto, udp: true }
+    - { name: 'SGP 06', type: trojan, server: sg6.gfwvip.me, port: 55893, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true, sni: sg6.gfwvip.me, skip-cert-verify: true }
+    - { name: 'HKG 01', type: vmess, server: hk1.gfwvip.me, port: 23129, uuid: 4cafa443-752e-4f99-b0fb-ea69a026db36, alterId: 0, cipher: auto, udp: true }
+    - { name: 'HKG 02', type: trojan, server: hk2.gfwvip.me, port: 46932, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true, sni: hk2.gfwvip.me, skip-cert-verify: true }
+    - { name: 'USA 05', type: ss, server: us5.gfwvip.me, port: 56298, cipher: chacha20-ietf-poly1305, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true }
+    - { name: 'USA 06', type: ss, server: us6.gfwvip.me, port: 47893, cipher: chacha20-ietf-poly1305, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true }
+    - { name: 'USA 07', type: ss, server: us7.gfwvip.me, port: 65531, cipher: chacha20-ietf-poly1305, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true }
+    - { name: 'JPN 01', type: ss, server: jp1.gfwvip.me, port: 42384, cipher: chacha20-ietf-poly1305, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true }
+    - { name: 'JPN 02', type: trojan, server: jp2.gfwvip.me, port: 41293, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true, sni: jp2.gfwvip.me, skip-cert-verify: true }
+    - { name: 'JPN 03', type: ss, server: jp3.gfwvip.me, port: 12956, cipher: chacha20-ietf-poly1305, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true }
+    - { name: 'JPN 04', type: trojan, server: jp4.gfwvip.me, port: 41298, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true, sni: jp4.gfwvip.me, skip-cert-verify: true }
+    - { name: 'JPN 05', type: vmess, server: jp5.gfwvip.me, port: 65396, uuid: 4cafa443-752e-4f99-b0fb-ea69a026db36, alterId: 0, cipher: auto, udp: true }
+    - { name: 'JPN 06', type: trojan, server: jp6.gfwvip.me, port: 41578, password: 4cafa443-752e-4f99-b0fb-ea69a026db36, udp: true, sni: jp6.gfwvip.me, skip-cert-verify: true }
+    - { name: 'JPN 07', type: vmess, server: jp7.gfwvip.me, port: 15639, uuid: 4cafa443-752e-4f99-b0fb-ea69a026db36, alterId: 0, cipher: auto, udp: true }
+proxy-groups:
+    - { name: Proxy, type: select, proxies: [自动选择, 故障转移, 'Miku 香港多协议智能边界连接 1000Mbps TCP', 'AWS香港 5000Mbps TCP', 'BuyVM 卢森堡 1000Mbps TCP', '台湾 Hinet 1000Mbps TCP', 'TWN 01', 'RU 01', 'TR 01', 'KR 01', 'KR 02', 'SGP 01', 'SGP 02', 'SGP 03', 'SGP 04', 'SGP 05', 'SGP 06', 'HKG 01', 'HKG 02', 'USA 05', 'USA 06', 'USA 07', 'JPN 01', 'JPN 02', 'JPN 03', 'JPN 04', 'JPN 05', 'JPN 06', 'JPN 07'] }
+    - { name: 自动选择, type: url-test, proxies: ['Miku 香港多协议智能边界连接 1000Mbps TCP', 'AWS香港 5000Mbps TCP', 'BuyVM 卢森堡 1000Mbps TCP', '台湾 Hinet 1000Mbps TCP', 'TWN 01', 'RU 01', 'TR 01', 'KR 01', 'KR 02', 'SGP 01', 'SGP 02', 'SGP 03', 'SGP 04', 'SGP 05', 'SGP 06', 'HKG 01', 'HKG 02', 'USA 05', 'USA 06', 'USA 07', 'JPN 01', 'JPN 02', 'JPN 03', 'JPN 04', 'JPN 05', 'JPN 06', 'JPN 07'], url: 'http://www.gstatic.com/generate_204', interval: 86400 }
+    - { name: 故障转移, type: fallback, proxies: ['Miku 香港多协议智能边界连接 1000Mbps TCP', 'AWS香港 5000Mbps TCP', 'BuyVM 卢森堡 1000Mbps TCP', '台湾 Hinet 1000Mbps TCP', 'TWN 01', 'RU 01', 'TR 01', 'KR 01', 'KR 02', 'SGP 01', 'SGP 02', 'SGP 03', 'SGP 04', 'SGP 05', 'SGP 06', 'HKG 01', 'HKG 02', 'USA 05', 'USA 06', 'USA 07', 'JPN 01', 'JPN 02', 'JPN 03', 'JPN 04', 'JPN 05', 'JPN 06', 'JPN 07'], url: 'http://www.gstatic.com/generate_204', interval: 7200 }
+
+rules:
+  - DOMAIN-SUFFIX,google.com,DIRECT
+  - DOMAIN-KEYWORD,google,DIRECT
+  - DOMAIN,google.com,DIRECT
+  - DOMAIN-SUFFIX,ad.com,REJECT
+  - GEOIP,CN,DIRECT
+  - MATCH,DIRECT
