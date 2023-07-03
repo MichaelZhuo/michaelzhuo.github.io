@@ -1,535 +1,211 @@
+
 <!DOCTYPE html>
-<!-- saved from url=(0031)https://www.microsoft.com/en-us -->
-<html lang="en-US" dir="ltr" class="exp-13194 exp-13194T1 exp-16982 exp-16982T2"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html lang="zh-cn" dir="ltr" >
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="content-language" content="zh-cn" />
+        <meta name="ms.lang" content="zh">
+        <meta name="ms.loc" content="cn">
+            <title>体验 DowsWin 11 操作系统、计算机和应用程序的强大功能 | rnicrosoft</title>
+            <meta name="Title" content="体验 Windows 11 操作系统、计算机和应用程序的强大功能 | Microsoft" />
+            <meta name="Description" content="探索 Microsoft Windows 11 操作系统的多功能性。了解我们最新的 Windows 操作系统如何为您提供更多工作、娱乐和创作方式。" />
+            <meta name="keywords" content="Windows 11、Windows 11、Windows 11 操作系统、Windows 11 操作系统" />
+            <meta name="twitter:title" content="体验 Windows 11 操作系统、计算机和应用程序的强大功能" />
+            <meta name="twitter:description" content="探索 Microsoft Windows 11 操作系统的多功能性。了解我们最新的 Windows 操作系统如何为您提供更多工作、娱乐和创作方式。" />
+            <meta property="og:title" content="体验 Windows 11 操作系统、计算机和应用程序的强大功能 " />
+            <meta property="og:description" content="探索 Microsoft Windows 11 操作系统的多功能性。了解我们最新的 Windows 操作系统如何为您提供更多工作、娱乐和创作方式。" />
+        <meta property="og:locale" content="zh-cn">
+        <meta name="twitter:creator" content="@microsoft">
+        <meta name="twitter:site" content="@windows" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:url" content="https://www.microsoft.com/zh-cn/windows" />
+            <meta name="twitter:image" content="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13SL8" />
+            <meta property="og:image" content="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13SL8" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.microsoft.com/zh-cn/windows" />
+        <meta property="og:site_name" content="Windows" />
+            <link rel="canonical" href="https://www.microsoft.com/zh-cn/windows" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="author" content="Microsoft" />
+        <meta name="HandheldFriendly" content="True" />
+        <meta name="MobileOptimized" content="320" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+        <meta http-equiv="cleartype" content="on">
+        <meta name="country" content="SG" />
+    <script type='text/javascript'>
+        window.mldcc = "MSCC:"+"NR";
+    </script>
     
+    <script src="/en-us/windows/remote-resource-center/articles/scripts/Jquery.js?v=vvmWf9kiccVb69JKIqNan7auIuvzjAK8AywO-8VLfyY1"></script>
+
+
+    <script src="https://www.microsoft.com/videoplayer/js/oneplayeriframe.js"></script>
+    <link href="/en-us/windows/remote-resource-center/articles/Content/Globalstyles.css?v=PAU_RPIVLWhU8IImPJcvwbpfFCxYcPRvO2u6eJplmfA1" rel="stylesheet"/>
+
+    <link rel="SHORTCUT ICON" href="https://c.s-microsoft.com/favicon.ico" type="image/x-icon">
+
+
+    <link rel="stylesheet" type="text/css" href="//mwf-service.akamaized.net/mwf/css/bundle/1.56.0/chinese-simplified/default/mwf-main.min.css">
+
+<link rel="stylesheet" href="https://www.microsoft.com/onerfstatics/marketingsites-eas-prod/chinese-simplified/shell/_scrf/css/themes=default.device=uplevel_web_pc/79-4cdd0a/33-ae3d41/a5-4bf7a2/13-8e1ceb/81-32f0c0/5c-b7b685/92-14707b/74-888e54?ver=2.0&amp;_cf=02242021_3231" type="text/css" media="all" />            <script type='text/javascript'>window.isUserSignedIn = 0;</script>
+    <script src="//assets.adobedtm.com/launch-ENbb9d0de7cc374dc99259df2c4b823cef.min.js"></script>
+    <script src="https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js"></script>
     
-
-    
-
-
-
-
-    
-        
-            
-                    
-                            
-                        
-                
-        
-
-    
-<!-- Start of ADDITIONAL DEBUG INFO ** cv.html **
-
-    CVToken: CASMicrosoftCV3f2fba68.0
-  End of ADDITIONAL DEBUG INFO -->
-
-
-
-
-    
-    
-    
-
-    
-    
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-
-    <link rel="SHORTCUT ICON" href="https://www.microsoft.com/favicon.ico?v2" type="image/x-icon">
-
-    
-
-
-    
-        <meta name="robots" content="index, follow">
-    
-    
-
-    <meta name="template" content="mscom">
-
-    
-    <meta name="awa-canvasType" content="web">
-    <meta name="awa-isTented" content="false">
-
-    <meta name="awa-pageType" content="Category">
-    <meta name="awa-pgtmp" content="mscom">
-    <meta name="awa-pageId" content="b15a95926f158ab75edc6160ba9d5bc7">
-    <meta name="awa-market" content="en-us">
-    <meta name="awa-cms" content="AEM">
-    <meta name="awa-enabledFeatures" content="contentbackfillgenerate;experimentation;esiproductcards;uhf-ms-io-endpoint;uhf-esi-cv;uhf-esi-cache;fraud-greenid;contentsquare;mediapixel;holiday-themer;lazyload-static-components;clientlibDefer;upsellEnabled;contentbackfillpkgdelete;healthcheck;demo-feature;contentbackfillhttpgenerate;perf-tracker-1ds;dynamic-bundle;cvIncrementer;tentingEnabled;chatCookiesImplemented;alertCountDownWithoutServerTime;pdpDynamicRendering;bundlesDynamicRendering;contentbackfillmetadatachangesvideo;contentbackfillmetadatachangesnonvideo;listDynamicRendering;experimentation-without-personalization;generic-list-importer;combinedUHF;disbale-experimentation-query-param;exp-load-exp-cc-async;exp-request-uri-header;cvCallEnabled;m365ProductCatalog;support-unsupported-locales;translation-rules-generator-job-var;trg-v2-aem-translations-rules;published-asset-base-url;deferClickTale;videoLazyLoad;prefetchFontsEnabled;imageLinkTag;fetchPriority;enableClickgroupTelemetry">
-    <meta name="thirdparty-config" content="v34">
-
-    
-    <meta name="format-detection" content="telephone=no">
-
-    
-        <link rel="preload" href="https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/Semibold/latest.woff2" as="font" type="font/woff2" crossorigin="">
-        <link rel="preload" href="https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/normal/latest.woff2" as="font" type="font/woff2" crossorigin="">
-        <link rel="preload" href="https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/Bold/latest.woff2" as="font" type="font/woff2" crossorigin="">
-        <link rel="preload" href="https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/semilight/latest.woff2" as="font" type="font/woff2" crossorigin="">
-        <link rel="preload" href="https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/light/latest.woff2" as="font" type="font/woff2" crossorigin="">
-    
-
-    
-
- <title>Microsoft – Cloud, Computers, Apps &amp; Gaming</title>
-<link rel="canonical" href="https://www.microsoft.com/en-us">  
-
-<meta name="description" content="Explore Microsoft products and services for your home or business. Shop Surface, Microsoft 365, Xbox, Windows, Azure, and more. Find downloads and get support.">
-
-<meta name="twitter:url" content="https://www.microsoft.com/en-us">
-<meta name="twitter:title" content="Microsoft – Cloud, Computers, Apps &amp; Gaming">
-<meta name="twitter:description" content="Explore Microsoft products and services for your home or business. Shop Surface, Microsoft 365, Xbox, Windows, Azure, and more. Find downloads and get support.">
-<meta name="twitter:card" content="summary">
-<meta property="og:url" content="https://www.microsoft.com/en-us">
-<meta property="og:title" content="Microsoft – Cloud, Computers, Apps &amp; Gaming">
-<meta property="og:description" content="Explore Microsoft products and services for your home or business. Shop Surface, Microsoft 365, Xbox, Windows, Azure, and more. Find downloads and get support.">
-<meta property="og:type" content="website">
-
-    
-    
-
-
-    
-<link rel="stylesheet" href="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/main-light.min.ACSHASH4c27348ffc095e0848f7ea06b415d7ab.css" type="text/css">
-
-
-
-    
-    
-<link rel="stylesheet" href="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/clientlib-base.min.ACSHASHc5871451778c8e6454258da6f73224b7.css" type="text/css">
-
-
-
-
-    
-    
-<link rel="stylesheet" href="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/clientlib-uhf.min.ACSHASHf9f2395c582fa601707b7a5dfae9f05f.css" type="text/css">
-
-
-
-
-    
-        <script id="ie11-polyfill-script">
-
-        var isModernBrowser = (
-            'fetch' in window &&
-            'assign' in Object
-        );
-
-        if ( !isModernBrowser ) {
-            var scriptElement = document.createElement('script');
-
-                scriptElement.async = false;
-                scriptElement.src = '/etc.clientlibs/microsoft/clientlibs/clientlib-polyfills/resources/ie11-polyfills.js';
-
-                var polyfillScriptElement = document.querySelector('#ie11-polyfill-script');
-
-                if (polyfillScriptElement) {
-                    polyfillScriptElement.parentNode.insertBefore(scriptElement, polyfillScriptElement.nextSibling);
-                }
-            }
-        </script>
-    
-
-    
-    
-        <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@id": "https://www.microsoft.com/",
-        "@type": "WebSite",
-        "url": "https://www.microsoft.com/",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": {
-                "@type": "EntryPoint",
-                "urlTemplate": "https://www.microsoft.com/en-us/search/explore?q={search_term_string}&ocid=AID_seo_sitelinks_search"
-            },
-            "query-input": "required name=search_term_string"
-        }
-    }
-</script>
-    
-    
-    
-<script src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/clientlib-jquery.min.ACSHASH35986a813756f39ab6b922979ffedb03.js"></script>
-
-
-
-    
-    
-<script src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/clientlib-jquery-cookie.min.ACSHASH20aafdf6904d3dc5db0e0e33abbfc1a4.js"></script>
-
-
-
-
-
-    
-    
-    
-
-    
-
-    
-    
-    
-
-    
-
-    
-
-
-    
-            
-            
-    
-<script src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/v1.min.ACSHASH4cffc2c9b55f8bde649e0d2535a1eebd.js"></script>
-
-
-
-            <script type="text/javascript">
-                var expToken = {
-                    "exp": {
-                        "target": {
-                            "propertyToken": "8c1e142d-c7db-a269-dc00-3656897ea8b0",
-                            "visitorJsHash": "30368a72d017e4133bfd3b5d073d06ff",
-                            "expJsHash": "895e2a12062f1ee44d7d72d266904bde",
-                            "isExpWithoutPersonalizationEnabled": ("false"==="true")
-                        }
-                    }
-                };
-                window.cas = expToken;
-            </script>
-            
-                
-    
-    <script type="text/javascript" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/v1.min.ACSHASH977ab2732aa8cb654ccd4e6e2d620326.js" async=""></script>
-
-
-            
-            
-
-            
-            <meta name="exp-visitor-anchor" content="">
-            
-                
-                    
-
-                    
-                        
-                    
-                
-
-            
-
-            
-                    
-                            
-
-
-
-
-        
-        
-                
-                
-            
-    
-<!-- Start of ADDITIONAL DEBUG INFO ** cv.html **
-
-    CVToken: CASMicrosoftCV3f2fba68.1
-  End of ADDITIONAL DEBUG INFO -->
-
-
-                            
-
-                            
-                            
-                                <script type="text/javascript">
-    !function () { sessionStorage.getItem("experimentStorage") || sessionStorage.setItem("experimentStorage", "{}"), window.experimentStorage = window.experimentStorage || {}, window.experimentStorage.registeredExtensions = window.experimentStorage.registeredExtensions || [], window.experimentStorage.personalizer = window.experimentStorage.personalizer || {}, window.experimentStorage.expRequire_v1 = window.experimentStorage.expRequire_v1 || function (e, t, n, r) { var i = 0, o = 0, a = function (a, c) { var l = { function: a[0], callback: a[1], failback: a[2], interval: a[3] || 50, retry: a[4] || 25, attempts: a[5] || 0 }; "function" != typeof window[l.function] ? l.retry > l.attempts ? (l.attempts++, updateModule(l, c)) : (o++, "function" == typeof l.failback ? l.failback() : r && console.log(l.function + " failed to load")) : (i++, "function" == typeof l.callback ? l.callback() : r && console.log(l.function + " successfully loaded")), i === e.length && "function" == typeof t ? t() : i + o === e.length && "function" == typeof n && n() }; updateModule = function (t, n) { e[n] = [t.function, t.callback, t.failback, t.interval, t.retry, t.attempts], setTimeout(a, t.interval, e[n], n) }, e.forEach(a) }, window.experimentStorage.expDefine_v1 = window.experimentStorage.expDefine_v1 || function (e, t) { var n = e, r = t; window[n] = r, window.experimentStorage.expRequire_v1([["jQuery"]], window[n]) }, window.staticExperimentConfig = function (e) { var t = e || null; return { lookup: function (e) { if (-1 !== window.experimentStorage.registeredExtensions.indexOf(e)) return window.experimentStorage["exp_" + e] }, register: function (e) { -1 === window.experimentStorage.registeredExtensions.indexOf(e) ? (window.experimentStorage.registeredExtensions.push(e), window.experimentStorage["exp_" + e] = t) : console.log("Experiment: Duplicate utilities defined") }, extend: function (e) { -1 !== window.experimentStorage.registeredExtensions.indexOf(e) && t ? window.jQuery && $.extend(!0, window.experimentStorage["exp_" + e], t) : console.log("Experiment: Cannot extend utility object. Base object not found or extension not passed.") } } }, window.experimentStorage.expDefine_v1("experimentBase_13194", function (e) { var t = JSON.parse(sessionStorage.getItem("experimentStorage")), n = t[13194] = t[13194] || {}; t[13194] = n, window.experimentStorage.exp_13194 = { storage: n }, sessionStorage.setItem("experimentStorage", JSON.stringify(t)), window.staticExperimentConfig({ get: function (e) { return "utils" === e ? staticExperimentConfig().lookup("13194").utility : "fn" === e ? staticExperimentConfig().lookup("13194").fn : void 0 }, fn: { observableEvent: function (e) { var t = null; "function" == typeof window.CustomEvent ? t = new CustomEvent(e) : "function" == typeof document.createEvent && (t = document.createEvent("Event")).initEvent(e, !0, !0), null != t && document.dispatchEvent(t) } }, data: {}, utility: { currency: { format: function (e, t) { var n = "function" == typeof staticExperimentConfig ? staticExperimentConfig().lookup("13194").utility.currency.config() : utility.currency.config(), r = e; return t || (r = "function" == typeof staticExperimentConfig ? staticExperimentConfig().lookup("13194").utility.currency.unformat(e) : utility.currency.unformat(e)), n ? (n && n.prefix ? n.prefix : "") + new Intl.NumberFormat(n.lang + "-" + n.region, { style: "currency", currency: n.currency }).format(parseFloat(r)) : "" }, unformat: function (e) { var t = "function" == typeof staticExperimentConfig ? staticExperimentConfig().lookup("13194").utility.currency.config() : utility.currency.config(); return e ? e.toString().replace(t.regex, "").replace(/,/g, ".") : "" }, config: function () { var e = "function" == typeof staticExperimentConfig ? staticExperimentConfig().lookup("13194").utility.url.locale() : utility.url.locale(), t = {}; return (t = { "en-us": { currency: "USD", regex: /[^.0-9]/g }, "en-ca": { prefix: "CAD ", currency: "CAD", regex: /[^.0-9]/g }, "en-gb": { currency: "GBP", regex: /[^.0-9]/g }, "en-au": { prefix: "AU", currency: "AUD", regex: /[^.0-9]/g }, "fr-fr": { currency: "EUR", regex: /[^0-9-,.]/g }, "de-de": { currency: "EUR", preregex: /./g, regex: /[^0-9-,]/g }, "ja-jp": { currency: "JPY", regex: /[^0-9-,.]/g }, "en-sg": { prefix: "SG", currency: "SGD", regex: /[^.0-9]/g }, "en-in": { prefix: "", currency: "INR", regex: /[^.0-9]/g } }[e.lang + "-" + e.region]) && (t.lang = e.lang, t.region = e.region), t } }, img: { source: function (e) { var t = e.dimensions, n = [1779, 1400, 1084, 768, 540, 0], r = function (e, t, n) { return e + (!n && t.w ? "&w=" + t.w : "") + (!n && t.h ? "&h=" + t.h : "") }, i = e.bgcolor; return ['<picture class="c-image">', function () { for (var i, o = [], a = 0; a < t.length - 1; a++)i = t[a], o.push('<source srcset="' + r(e.img, i) + '" media="(min-width:' + (i.m || n[a]) + 'px)">'); return o.join("") }(), '<img class="lazypreload lazyload" srcset="" src="' + r(e.img, t[t.length - 1], e.hideqsparam) + '" alt="' + (e.alt || e.heading) + '"' + (i ? ' style="background-color:' + i + ';"' : "") + ">", "</picture>"].join("") } }, resize: { throttled: function () { $.resizeThrottle = 250, $.event.special.throttledResize = { setup: function (e, t, n) { var r, i = $.resizeThrottle || 250, o = "throt" + (new Date).getTime().toString(), a = function (e) { var t = this, n = arguments; r && window.clearTimeout(r), r = window.setTimeout(function () { r = null, e.type = "throttledResize", $.event.dispatch.apply(t, n) }, i) }; $(this).data("throtresize-ns", o), $(this).on("resize." + o, a) }, teardown: function () { var e = $(this).data("throtresize-ns"); $(this).off("resize." + e) } } } }, string: { truncate: function (e, t, n) { if (e = e || "", t = t || 200, (e = e.trim()).length <= t) return e; var r = e.substr(0, t).trim(); return /[\w]/.test(e.charAt(r.length)) && (r = r.substr(0, r.lastIndexOf(" "))), r + (n || "") } }, url: { locale: function () { var e = window.location.pathname.toLowerCase().match(/^\/(..-..)\.*/i), t = null; return e ? t = e[1].split("-") : "object" == typeof _pageBITags && _pageBITags.pageTags && _pageBITags.pageTags.mkt && (t = _pageBITags.pageTags.mkt.split("-")), { lang: t[0], region: t[1], construct: t[0] + "-" + t[1] } }, parse: function (e, t) { var n = "", r = "[\\?&]" + e + "=([^&#]*)", i = new RegExp(r), o = void 0 != t ? t : window.location.search, a = i.exec(o); return null != a && (n = a[1]), n }, addParams: function (e, t) { var n = [], r = "", i = ""; for (var o in t) n.push(o), r += "&" + o + "=" + encodeURIComponent(t[o]); return e = "function" == typeof staticExperimentConfig ? staticExperimentConfig().lookup("13194").utility.url.removeParams(e, n) : utility.url.removeParams(e, n), i = e + (-1 == e.indexOf("?") ? "?" + r.slice(1) : r), "?" + i.replace("?", "").split("&").sort().join("&") }, push: function (e) { var t = e.state, n = e.title, r = e.url; window.history && window.history.pushState && window.history.pushState("object" == typeof t ? t : {}, "" != n ? n : document.title, r || window.location.pathname) }, removeParams: function (e, t) { return e && t ? e.replace(new RegExp("([&?](" + t.join("|") + ")=[^&]*)+", "gi"), "").replace(/[&?]/, "?") : "" } }, object: { find: function (e, t) { var n = "string" == typeof e ? JSON.parse(e) : e, r = function (e, t) { var n = t.indexOf("."); return e ? -1 != n ? r(e[t.substring(0, n)], t.substr(n + 1)) : e[t] : null }; return t ? r(n, t) : n } }, cookie: { get: function (e) { e += "="; for (var t = document.cookie.split(";"), n = 0; n < t.length; n++) { var r = $.trim(t[n]); if (0 === r.indexOf(e)) return r.substring(e.length, r.length) } return null } }, wait: { waitForElement: function (e, t) { return new PromiseExp(function (n, r) { function i() { a <= c ? document.querySelectorAll(o).length ? (clearInterval(l), n(t || !0)) : a++ : (clearInterval(l), r(!1)) } var o = e, a = 0, c = 25, l = setInterval(i, 100) }) }, waitUntil: function (e, t) { return new PromiseExp(function (n, r) { function i() { try { o = e() } catch (e) { o = !1 } a < c && !1 === o ? a++ : (clearInterval(l), o ? n(t || !0) : r("failed")) } var o, a = 0, c = 50, l = setInterval(i, 100) }) } }, jsll: { decorate: function (e) { try { staticExperimentConfig().lookup("13194").utility.wait.waitUntil(function () { return "undefined" != typeof awa && !0 === awa.isInitialized && null != document.querySelector(e) }).then(function () { var t, n = !!window.MSInputMethodContext && !!document.documentMode; !function (e) { window.CustomEvent && !n ? t = new CustomEvent("decorate", { bubbles: !0 }) : (t = document.createEvent("CustomEvent")).initCustomEvent("decorate", !0, !0, { some: "data" }), e && (e.dispatchEvent(t), require(["jsll"], function (e) { e.ct.captureContentUpdate({ timings: { didDeferExecTimeout: window._pageTimings.didDeferExecTimeout } }) })) }(document.querySelector(e)) }).then(null, function (e) { }) } catch (e) { console.log(e) } }, generate: function (e) { var t = 'data-m="{'; return Object.keys(e).forEach(function (n, r) { t += (r > 0 ? "," : "") + "&quot;" + n + "&quot;:&quot;" + e[n] + "&quot" }), t + '}"' } }, polyfill: { startsWith: function () { String.prototype.startsWith || (String.prototype.startsWith = function (e, t) { return this.substr(!t || t < 0 ? 0 : +t, e.length) === e }) }(), promise: function () { var e = function (e, t) { if (!(e instanceof t)) throw new TypeError("Cannot call a class as a function") }, t = function () { function e(e, t) { for (var n = 0; n < t.length; n++) { var r = t[n]; r.enumerable = r.enumerable || !1, r.configurable = !0, "value" in r && (r.writable = !0), Object.defineProperty(e, r.key, r) } } return function (t, n, r) { return n && e(t.prototype, n), r && e(t, r), t } }(), n = function () { function n(t) { return e(this, n), this.promise = $.Deferred(function (e) { t(e.resolve, e.fail) }).promise() } return t(n, [{ key: "then", value: function (e, t) { return this.promise.then(e, t) } }, { key: "resolve", value: function (e) { return this.promise.resolve(e) } }, { key: "reject", value: function (e) { return this.promise.reject(e) } }]), n }(); window.PromiseExp = window.Promise ? window.Promise : n }() } } }).register("13194"), window.staticExperimentConfig({ utility: { storage: { get: function (e, t, r) { if (t && "local" == t) { var i = localStorage.getItem("experimentStorage"); return i = i ? JSON.parse(i) : null, i && i[13194] && !r ? i[13194][e] : i && r && i[r] ? i[r][e] : null } return e ? n[e] : n }, set: function (e, r, i) { n[e] = r, t[13194] = n, window.experimentStorage.exp_13194.storage = n, i && "local" == i ? localStorage.setItem("experimentStorage", JSON.stringify(t)) : sessionStorage.setItem("experimentStorage", JSON.stringify(t)) } }, data: { get: function (e) { var t = window.experimentStorage.exp_13194.data; return e ? t[e] : t }, set: function (e, t) { var n = window.experimentStorage.exp_13194.data; n[e] ? $.extend(!0, n[e], t) : n[e] = t } }, personalizer: {} } }).extend("13194"), window.staticExperimentConfig({ experimentBase: function (e) { var t = jQuery, n = e && e.classList ? e.classList : "", r = e && e.variationId ? parseFloat(e.variationId) : 1, i = window.staticExperimentConfig().lookup("13194"), o = i ? i.get("utils") : {}, a = (i && i.fn, e && e.localizedContent ? e.localizedContent : {}), c = null, l = document.getElementsByTagName("html")[0]; -1 === window.location.pathname.indexOf("/d/") && -1 === window.location.pathname.indexOf("/p/") || (c = function (e) { var t = e.split("/").filter(Boolean); return t[t.length - 1].match(/^([a-z0-9]){0,4}$/i) && t.pop(), t[t.length - 1].toLowerCase() }(window.location.pathname)), l.className += (l.className ? " " : "") + n + (c ? " exp-product-" + c : ""); var u = {}; a = t.extend(!0, a, u), window.staticExperimentConfig({ utility: { localization: { getLocString: function (e) { var t = o.url.locale(), n = t.lang + "-" + t.region, r = a, i = r && r.config ? r.config : null, c = null, l = null, u = function (t) { return e && e.length ? e.replace("{0}", t && t.locale ? t.locale : n) : "" }; if (c = u(), !(l = o.object.find(r, c)) && i && i.fallback && (c = u({ locale: i.fallback.locale ? i.fallback.locale : "en-us", productId: i.fallback.productId ? i.fallback.productId : null }), l = o.object.find(r, c)), i && i.replacements) var s = i.replacements, p = null; return "object" == typeof l && i && i.replacements ? (l.replacementHelper = function (e) { var t = a.replacementConfig; return null != t && "object" == typeof s && void 0 !== e && Object.keys(t).forEach(function (n) { p = new RegExp(n.replace("{", "\\{").replace("}", "\\}"), "g"), e = e.replace(p, t[n]) }), e }, a.replacementConfig = s, l.replacementConfig = s) : "string" == typeof l && i && i.replacements && Object.keys(replacementObject).forEach(function (e) { p = new RegExp(e.replace("{", "\\{").replace("}", "\\}"), "g"), l = l.replace(p, replacementObject[e]) }), l || "" } } } }).extend("13194"); var s = o.localization.getLocString("{0}"), p = o.url.locale(), d = (s.replacementHelper && s.replacementHelper, o.storage.get("pidStorageByLocale", "local", "13451")), f = o.cookie.get("cartItemCount"); d && "object" == typeof d && d[p.construct] && (d = d[p.construct]), f = f ? parseInt(f) : 0, o.resize.throttled(); var g = function () { var e = o.data.get("state"), t = d, n = ""; return t && t.length > 0 && f > 0 && (n = e && !0 === e.itemOnSale ? ["<div>", '<span class="exp-cartitemstext">', s.sale, "</span>", '<span class="exp-badge exp-bg-yellow">', s.save + " " + o.currency.format(e.maxDiscount), "</span>", "</div>"].join("\n") : ["<div>", '<span class="exp-cartitemstext">', f + (f > 1 ? s.multiple : s.single), "</span>", "</div>"].join("\n")), n }, m = function (e) { var t = o.data.get("state"), n = o.object.find(t.productObj, "Images"), r = null, i = null, a = null, c = null; if (n) { for (var l = 0; l < n.length; l++)n[l].ImagePurpose && "tile" === n[l].ImagePurpose.toLowerCase() && (r = n[l].Uri, i = n[l].BackgroundColor); r || (r = o.object.find(n, "0.Uri"), i = o.object.find(n, "0.BackgroundColor")) } return a = !(r && -1 !== r.indexOf("img-prod-cms-rt") || r && -1 !== r.indexOf("eds-ssl.xboxlive")), r && (c = [{ img: (r = r.replace("https:", "").replace("http:", "")) && -1 !== r.indexOf("img-prod-cms-rt") ? r + "&amp;q=90&amp;m=6&amp;b=%23f2f2f2f2&amp;f=jpg&amp;o=f&amp;aim=true" : r, alt: e.Title, dimensions: [{ h: 120 }], hideqsparam: a, bgcolor: i }]), a && r ? ['<picture class="c-image">', '<img src="' + r + '" alt="' + e.Title + '"' + (i ? ' style="background-color:' + i + ';"' : "") + " />", "</picture>"].join("\n") : c && c.length ? c.map(function (e) { return o.img.source(e) }) : '<div class="c-glyph glyph-photo2"></div>' }, x = function (e) { o.data.get("state"), o.currency.format(e.ListPrice ? e.ListPrice : "0"), o.currency.format(e.RetailPrice), o.currency.config().currency; return ['<section id="exp-cart-preview" role="presentation" class="exp-cart-preview-item" data-m="{&quot;cN&quot;:&quot;ExpItemInCart&quot;}">', '<h3 class="exp-heading c-heading">', function () { var t = 60; return window.innerWidth < 769 && (t = 30), o.string.truncate(e.ProductTitle, t, "...") }(), "</h3>", "</section>"].join("") }, w = function (e) { return e && e.length ? e[e.length - 1] : null }, v = function (e) { e && t.ajax({ method: "GET", url: "https://displaycatalog.mp.microsoft.com/v7.0/products/?bigids=" + e.toString().toUpperCase() + "&fieldsTemplate=details&market=" + p.region + "&languages=" + p.lang + "-" + p.region, data: { "MS-CV": window.mscv ? window.mscv : _pageBITags.pageTags.cV } }).done(function (t) { var n = {}, r = (t.Product, null), i = null, a = null; t.Products.forEach(function (e) { r = e.LocalizedProperties ? e.LocalizedProperties[0] : {}, n[e.ProductId] = { productSkus: {}, ProductId: e.ProductId, ProductTitle: r.ProductTitle, PreferredSkuId: e.PreferredSkuId, Images: r.Images, ProductDescription: r.ProductDescription, HadAddOns: e.Properties ? e.Properties.HasAddOns : null }, e.DisplaySkuAvailabilities.forEach(function (t) { var r = t.Availabilities && t.Availabilities[0] ? t.Availabilities[0] : null, o = r && r.OrderManagementData ? r.OrderManagementData.Price : null, c = t.Sku ? t.Sku.Properties : null, l = o && o.MSRP ? parseFloat(o.MSRP) : null, u = o && o.ListPrice ? parseFloat(o.ListPrice) : null; n[e.ProductId].productSkus[t.Sku.SkuId] = { MSRP: o ? o.MSRP : null, ListPrice: o ? o.ListPrice : null, SkuId: t.Sku.SkuId, availabilityId: r.AvailabilityId, InventoryControlSkuId: c.InventoryControlSkuId, IsPreOrder: c.IsPreOrder, PreOrderReleaseDate: r && r.Properties ? r.Properties.PreOrderReleaseDate : null }, l && u && l > u && (!a || l - u > a) && (i = e.ProductId, a = l - u) }) }), null !== i ? o.data.set("state", { productObj: n[i], itemOnSale: !0, maxDiscount: a }) : o.data.set("state", { productObj: n[w(e)], itemOnSale: !1 }) }).fail(function (e) { console.log(e) }) }; !o.storage.get("hideCartBanner") && f && void 0 != d && o.wait.waitUntil(function () { return "object" == typeof d && d.length > 0 }).then(function () { o.data.get("state"); var e = d; e && e.length && (v(d), o.wait.waitUntil(function () { return "object" == typeof o.data.get("state").productObj }).then(function () { var e = o.data.get("state").productObj; o.wait.waitForElement("#uhf-shopping-cart").then(function () { var n = function () { return ['<div id="expCartTooltip" role="presentation">', '<a title="Close" href="javascript:void(0);" class="c-glyph glyph-cancel" data-m="{&quot;cN&quot;:&quot;expDismissCart&quot;}" id="expDismissCartBanner"></a>', '<a id="expTooltipStartCheckout" data-m="{&quot;cN&quot;:&quot;expCheckoutNow&quot;,&quot;bhvr&quot;:82}" href="/' + p.construct + '/store/buy">', '<div class="exp-cartTooltipItemCount">', g(), "</div>", function () { return ['<div class="exp-cartProductArea">', '<div class="exp-cartTooltipItemImage">', m(e), "</div>", '<div class="exp-cartTooltipItem">', x(e), "</div>", "</div>"].join("") }(), "</a>", function () { if ("2" == r) return ['<div class="exp-viewcart-container">', '<a href="/' + p.construct + '/store/buy" class="exp-viewcart-button" data-m="{&quot;cN&quot;:&quot;expCheckoutNow&quot;,&quot;bhvr&quot;:82}">', s.viewcart, "</a>", "</div>"].join("\n") }(), "</div>"].join("\n") }; t("#uhf-shopping-cart").wrap('<span id="expShoppingCartWrapper"></div>').promise().done(function () { t("#expShoppingCartWrapper").append(['<span id="expCartBannerArrow" class="expCartBannerArrow_variation2"></span>', n()].join("\n")).promise().done(function () { o.wait.waitForElement("#expCartTooltip").then(function () { lazySizes.init(), o.jsll.decorate("#expCartTooltip") }).then(null, function (e) { }) }) }) }).then(null, function (e) { }) }).then(null, function (e) { }), t(document).on("click.dismissCartBanner", "#expDismissCartBanner", function () { o.storage.set("hideCartBanner", "true"), t("#expCartBannerArrow, #expCartBanner, #expCartTooltip").remove(), t(window).off("throttledResize.cartPreviewItems"), t(document).off("click.dismissCartBanner") })) }).then(null, function (e) { }) } }).extend("13194"), "function" == typeof e && e() }), window.experimentStorage.expRequire_v1([["jQuery"], ["experimentBase_13194"]], function () { var e = staticExperimentConfig().lookup("13194"), t = (e && e.fn, (e ? e.get("utils") : {}).url.locale()), n = t.lang + "-" + t.region; window.staticExperimentConfig({ htmlTemplateExtensions: {} }).extend("13194"), e.experimentBase({ classList: "exp-13194 exp-13194T1", variationId: "1", loadModules: [], contentScheduler: [], localizedContent: { config: { fallback: { locale: function () { switch (t.lang) { case "en": return "en-us" } }() }, replacements: { "{0}": n } }, "en-us": { single: " item in your cart:", multiple: " items in your cart including:", sale: "An item in your cart is on sale", save: "Save up to" }, "fr-fr": { single: " article dans votre panier:", multiple: " articles dans votre panier incluant:", sale: "", save: "" }, "de-de": { single: " artikel im Warenkorb:", multiple: " artikel im Warenkorb, einschließlich:", sale: "", save: "" }, "ja-jp": { single: " 製品がカートに入っています", multiple: " つの製品がカートに入っています", sale: "", save: "" } } }) }) }();
-</script>
-<style>
-    #uhf-shopping-cart{overflow:visible!important}#expDismissCartBanner{font-size:20px;line-height:18px;margin-left:10px;color:#505050}#expCartBannerArrow:after,#expCartBannerArrow:before{top:100%;left:50%;border:solid transparent;content:' ';height:0;width:0;position:absolute;pointer-events:none}.c-uhfh>.f-transparent.theme-dark #expTooltipStartCheckout,.c-uhfh>.theme-dark #expTooltipStartCheckout{background-color:#333}.c-uhfh>.f-transparent.theme-dark #expCartBannerArrow:after,.c-uhfh>.theme-dark #expCartBannerArrow:after{border-bottom-color:#333}.c-uhfh>.f-transparent.theme-dark #expCartTooltip .c-call-to-action,.c-uhfh>.theme-dark #expCartTooltip .c-call-to-action{color:#fff}.c-uhfh>.theme-dark #expCartTooltip .glyph-cancel{color:#fff!important}#expShoppingCartWrapper{position:relative;z-index:502}#expCartBannerArrow.expCartBannerArrow_variation2{position:absolute;bottom:-1px;left:50%;border:1px solid #787276;border-bottom:0;z-index:2}#expCartBannerArrow.expCartBannerArrow_variation2:after,#expCartBannerArrow.expCartBannerArrow_variation2:before{top:auto;bottom:100%}#expCartBannerArrow.expCartBannerArrow_variation2:after{border-color:rgba(39,39,39,0);border-bottom-color:#fff;border-width:12px;margin-left:-12px}#expCartBannerArrow.expCartBannerArrow_variation2:before{border-color:rgba(51,133,198,0);border-bottom-color:#787276;border-width:14px;margin-left:-14px}#expCartTooltip{position:absolute;width:330px;right:-80px;top:100%;background-color:#fff;border:1px solid #787276}#expCartTooltip .exp-cartTooltipItemCount{margin-bottom:5px}#expCartTooltip .exp-cartTooltipItemCount .glyph-shopping-cart{margin-top:5px}#expCartTooltip .exp-cartTooltipItemCount .glyph-shopping-cart:before{font-size:28px;vertical-align:middle;padding-right:10px;margin-top:-5px;color:#505050}#expCartTooltip .exp-cartTooltipItemCount .glyph-shopping-cart strong{font-size:18px}#expCartTooltip #expDismissCartBanner{position:absolute;top:10px;right:10px;font-size:15px;color:#505050}#expCartTooltip .exp-cartProductArea{display:flex;flex-wrap:wrap}#expCartTooltip .exp-cartProductArea:after{display:block;content:' ';clear:both;width:100%}#expCartTooltip .exp-cartTooltipItemImage{align-items:top;display:flex;width:60px}#expCartTooltip .exp-cartTooltipItemImage picture{width:100%;position:relative;padding-bottom:100%}#expCartTooltip .exp-cartTooltipItemImage img{max-height:60px;margin:0 auto;position:absolute;left:50%;top:50%;transform:translate(-50%,-50%)}#expCartTooltip .exp-cartTooltipItem{width:calc(100% - 70px);padding-left:10px;position:relative}#expCartTooltip #exp-cart-preview h3{font-size:14px;font-weight:600;position:absolute;top:50%;transform:translateY(-50%)}#expCartTooltip .exp-cartitemstext{font-size:14px;font-weight:500;display:block;margin-top:3px}#expCartTooltip .exp-cartTooltipAction{margin-top:20px}#expCartTooltip .exp-cartTooltipAction a.c-call-to-action{padding-top:5px;padding-bottom:5px;font-size:14px;background-color:#0067b8;width:100%}#expCartTooltip .exp-cartTooltipAction a.c-call-to-action:hover{background-color:#0067b8}#expCartTooltip .exp-cartTooltipAction a.c-call-to-action:hover span{left:0!important}#expCartTooltip .exp-cartTooltipAction a.c-call-to-action:hover:after{right:0!important}#expCartTooltip .c-call-to-action,.js-global-head.f-search-opened #expCartBannerArrow,.js-global-head.f-search-opened #expCartTooltip{display:none}@media only screen and (min-width:1900px){#expCartBannerArrow.expCartBannerArrow_variation2{left:calc(50% + 6px)}}@media only screen and (max-width:1400px){#expCartTooltip{right:-40px}}@media only screen and (max-width:859.9999px){#expShoppingCartWrapper{position:inherit}#expCartBannerArrow.expCartBannerArrow_variation2{left:inherit;right:75px;z-index:503}#expCartTooltip{right:20px;z-index:502}}#expTooltipStartCheckout{padding:10px 30px 15px;display:block}#expTooltipStartCheckout:focus{outline-offset:-2px}#expCartTooltip .exp-badge{display:inline-block;padding:.375em .75em;font-weight:600;line-height:1;text-decoration:none;vertical-align:top;max-width:100%;overflow-wrap:break-word;word-break:break-word;margin:5px 0;font-size:.825rem}#expCartTooltip .exp-bg-yellow{background-color:#ffb900!important;color:hwb(0 0% 100%)}
-</style>
-<script type="text/javascript">
-    !function (t) { "complete" === document.readyState || "interactive" === document.readyState ? setTimeout(t, 1) : document.addEventListener("DOMContentLoaded", t) }(function () { try { var t = window.location.pathname.toLowerCase(), n = t.match(/^\/(..-..).*/i)[1], e = n.substring(3), r = null; if ("us" !== e) return; var o = function (t) { return t.pathname.split("/").filter(Boolean)[3].split("-").join(" ") }, i = function (t) { return /surface (laptop ([1-9]|studio|Go ?[0-9])\b|go ([0-9]\b)|pro ([0-9]\b)|hub|(duo [0-3]\b)|studio 2\+?)(?!.*keyboard)(?!.*pencil)(?!.*pen)(?!.*mouse)(?!.*dock)(?!.*earbud)(?!.*kit)(?!.*power)(?!.*dail)(?!.*headphone)(?!.*adapter)/i.test(t) }, a = function (t, n) { return new Promise(function (e, r) { var o = 0, i = setInterval(function a() { o <= 25 ? t[n] ? (clearInterval(i), e(t[n])) : o++ : (clearInterval(i), r(!1)) }, 100) }) }, u = function (t, n) { return new Promise(function (e, r) { var o = t, i = 0, a = setInterval(function t() { i <= 25 ? document.querySelectorAll(o).length ? (clearInterval(a), e(!n || n)) : i++ : (clearInterval(a), r(!1)) }, 100) }) }, c = function () { return r && r({ mbox: "target-global-mbox", params: { param1: "true" } }), console.log("_tkn: set") }, l = new MutationObserver(function (t) { try { var n = t[0]; console.log(n.target.disabled), !0 === n.target.disabled && c() } catch (e) { console.log("f(mo): " + e) } }), b = function () { a(window, "adobe").then(function (t) { t && a(t, "target").then(function (t) { r = t.trackEvent }).then(run).catch(function () { console.log("f(tE): NF") }) }).catch(function () { console.log("f(wA): NF") }) }, d = function () { if (b(), window.innerWidth < 540) { var t = ".container > .configuratorV3__bottom-bar .btn-primary", n = u(t); n.then(function () { var n = document.querySelector(t); l.observe(n, { attributes: !0, attributeFilter: ["disabled"], attributeOldValue: !0 }) }) } else { var t = '[id*="rootContainer_"] .btn.btn-primary', n = u(t); n.then(function () { var t = document.querySelector('[id*="rootContainer_"] .btn.btn-primary'); l.observe(t, { attributes: !0, attributeFilter: ["disabled"], attributeOldValue: !0 }) }) } }, f = function () { b(); var t = document.querySelector('[id*="rootContainer_"] .review .container button'); l.observe(t, { attributes: !0, attributeFilter: ["disabled"], attributeOldValue: !0 }) }, s = { configure: { run: function () { i(o(window.location)) && d() } }, build: { run: function () { i(o(window.location)) && f() } }, others: { run: function () { } } }; /\/store\/configure\//i.test(t) ? s.configure.run() : /\/store\/build\//i.test(t) ? s.build.run() : s.others.run() } catch (h) { console.log("f(main): " + h) } });
-</script>
-
-
-<script type="text/javascript">
-   !function(t){try{"complete"===document.readyState||"interactive"===document.readyState?setTimeout(t,1):document.addEventListener("DOMContentLoaded",t)}catch(t){console.log(t)}}((function(){try{var t=window.location.pathname.toLowerCase(),e=t.match(/^\/(..-..).*/i)[1],r=e.substring(3),o=null,n=window.localStorage.getItem("experimentStorage")&&JSON.parse(window.localStorage.getItem("experimentStorage")),a=(window.localStorage.getItem("_expState")&&JSON.parse(window.localStorage.getItem("_expState")),function(t){console.log(experiment.variation+" - "+t)}),i=function(t,e){return new Promise((function(r,o){var n=t,a=0,i=setInterval((function(){a<=25?document.querySelectorAll(n).length?(clearInterval(i),r(e||!0)):a++:(clearInterval(i),o(!1))}),100)}))},u=function(t){var n="https://displaycatalog.mp.microsoft.com/v7.0/products?bigids="+t.toString()+"&market="+r+"&languages="+e+"&ms-cv="+(window.mscv?window.mscv:_pageBITags.pageTags.cV);return fetch(n).then((function(t){return t.json()})).then((function(t){var e,r={},n=null,a=null,i=null,u={};t.Products.forEach((function(t){"devices"!==t.ProductType.toLowerCase()&&"bundles"!==t.ProductType.toLowerCase()||(!0,n=t.LocalizedProperties?t.LocalizedProperties[0]:{},r[t.ProductId]={productSkus:{},ProductId:t.ProductId,ProductTitle:n.ProductTitle,PreferredSkuId:t.PreferredSkuId,Images:n.Images,ProductDescription:n.ProductDescription,HadAddOns:t.Properties?t.Properties.HasAddOns:null},t.DisplaySkuAvailabilities.forEach((function(e){var o=e.Availabilities&&e.Availabilities[0]?e.Availabilities[0]:null,n=o&&o.OrderManagementData?o.OrderManagementData.Price:null,c=e.Sku?e.Sku.Properties:null,d=n&&n.MSRP?parseFloat(n.MSRP):null,l=n&&n.ListPrice?parseFloat(n.ListPrice):null;r[t.ProductId].productSkus[e.Sku.SkuId]={MSRP:n?n.MSRP:null,ListPrice:n?n.ListPrice:null,SkuId:e.Sku.SkuId,availabilityId:o.AvailabilityId,InventoryControlSkuId:c.InventoryControlSkuId,IsPreOrder:c.IsPreOrder,PreOrderReleaseDate:o&&o.Properties?o.Properties.PreOrderReleaseDate:null};var s=Math.round(d-l);(!i||i<l)&&(a=t.ProductId,i=l),u[t.ProductId]?u[t.ProductId].push(s):u[t.ProductId]=[s]})))})),(o={productObj:r[a],maxDiscount:(e=u[a],Math.max.apply(null,e))})&&o.productObj&&o.productObj.productSkus&&(o.productObj.PreferredSkuId=Object.keys(o.productObj.productSkus)[0])}))},c=function(t){var e,r,o,n;""!==t&&(window.isDeviceInCart=t,e=function(){return adobe.target.trackEvent},r=function(){adobe.target.trackEvent({mbox:"target-global-mbox",params:{isDeviceInCart:t}})},o=a,n=setInterval((function(){try{e()&&(clearInterval(n),n=null,r())}catch(t){}}),500),setTimeout((function(){null!==n&&(clearInterval(n),"function"==typeof o&&o())}),2e4))},d=function(){var t=[];if(o)return t.push(o.productObj.ProductTitle),o.productObj&&o.productObj.Images&&o.productObj.Images[0]&&o.productObj.Images[0].Uri?t.push(function(t){var e=t.split("/").filter(Boolean);return e[e.length-1]}(o.productObj.Images[0].Uri)):t.push("###"),t.push(0===o.maxDiscount?"0":o.maxDiscount.toFixed(2)),c(t.join(" | "))},l=new MutationObserver((function(t){try{!0===t[0].target.disabled&&d()}catch(t){console.log("f(mo): "+t)}})),s="";s=t.indexOf("/d/")>-1?"pdp":t.indexOf("/store/configure")>-1?"configure":t.indexOf("/store/build")>-1?"build":"others";var p={pdp:{run:function(){var t=__BuyBox__&&__BuyBox__.product&&__BuyBox__.product.productId,r=n&&n[13194]&&n[13194].pidStorageByLocale&&n[13194].pidStorageByLocale[e]&&n[13194].pidStorageByLocale[e]||[],o=document.querySelector('#buybox-cta-proper[aria-label*="to cart"]')||document.querySelector('.btn.btn-primary[aria-label*="to cart"]');t&&r&&(r.push(t),r.join(","),u(r).then((function(){o.addEventListener("click",d)})).catch((function(t){console.log("f(gpd): "+t)})))}},configure:{run:function(){var t=__ConfiguratorV2__&&__ConfiguratorV2__.configuratorPageData&&__ConfiguratorV2__.configuratorPageData.id,r=n&&n[13194]&&n[13194].pidStorageByLocale&&n[13194].pidStorageByLocale[e]&&n[13194].pidStorageByLocale[e]||[];t&&r&&(r.push(t),r.join(","),u(r).then((function(){var t;window.innerWidth<540?i(t=".container > .configuratorV3__bottom-bar .btn-primary").then((function(){var e=document.querySelector(t);l.observe(e,{attributes:!0,attributeFilter:["disabled"],attributeOldValue:!0})})):i(t='[id*="rootContainer_"] .btn.btn-primary').then((function(){var t=document.querySelector('[id*="rootContainer_"] .btn.btn-primary');l.observe(t,{attributes:!0,attributeFilter:["disabled"],attributeOldValue:!0})}))})).catch((function(t){console.log("f(gpd): "+t)})))}},build:{run:function(){var t=__DynamicBundle__&&__DynamicBundle__.dynamicBundlePageData&&__DynamicBundle__.dynamicBundlePageData.id,r=n&&n[13194]&&n[13194].pidStorageByLocale&&n[13194].pidStorageByLocale[e]&&n[13194].pidStorageByLocale[e]||[];t&&r&&(r.push(t),r.join(","),u(r).then((function(){var t=document.querySelector('[id*="rootContainer_"] .review .container button');l.observe(t,{attributes:!0,attributeFilter:["disabled"],attributeOldValue:!0})})).catch((function(t){console.log("f(gpd): "+t)})))}},others:{run:function(){var t=n&&n[13194]&&n[13194].pidStorageByLocale&&n[13194].pidStorageByLocale[e]&&n[13194].pidStorageByLocale[e].join(",");t&&u(t).then(d).catch((function(t){console.log("f(gpd): "+t)}))}}};"us"===r&&p[s]&&p[s].run()}catch(t){console.info(t)}}));
-</script><style>
-.expDisplay,.expSearch{font-size:14px!important}.expMenu{padding-bottom:25px!important;position:absolute;width:100%;background:#fff;border-top:1px solid;border-color:rgba(0,0,0,.2)}.expMenu.expRtMenu{line-height:1.5!important}.expBlackout.expHide,.expHide{display:none!important}.expShow{display:block!important}.expDisplay,.expListItem,.expNoResults{padding:0 42px!important}.expDisplay{margin-top:30px!important;margin-bottom:15px!important;color:#505050!important}.expListItem{margin:5px 0!important}.expIris,.expSearch{margin-top:30px!important}.expMenu:has(> .expNoResults){padding-bottom:0!important}.expNoResults{padding-top:10px!important;padding-bottom:10px!important}.expSearch{padding:0 42px!important}.expRtMenu .expSearch{color:#0067b8!important;text-decoration:underline!important}.expTerms,.expWeb{margin:10px 0!important}.expListItem img{width:50px}.expListAnchor{text-decoration:none;color:#000;position:relative;left:-8px;width:calc(100% + 16px)}.expContainer{display:flex!important;align-items:center!important;padding:2px 8px!important}.expRtMenu .expContainer{width:fit-content!important}.expContainer>div{display:flex!important;flex-direction:column!important;padding:0 8px!important;margin-left:4px!important}.expWeb .expContainer{padding:2px 0!important}.expWeb .expContainer>div{margin-left:0!important}.expTitle{font-size:16px!important}.expIris .expTitle{color:#0067b8!important;font-weight:600!important}.expBlackout{width:100%;height:100%}.expBlackout.expShow{background:rgba(143,143,143,.4);display:block}.expDCat a:focus>.expContainer>div,.expDCat a:hover>.expContainer>div,.expTerms a:focus>.expContainer,.expTerms a:hover>.expContainer,.expWeb a:focus>.expContainer,.expWeb a:hover>.expContainer{background-color:#f5f5f5;border-radius:4px!important}.expIris a.expListAnchor:focus>.expContainer,.expIris a.expListAnchor:hover>.expContainer{background-color:#ebf6ff;border-radius:4px!important}.expBgBlack:not(.expExplore){-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent;--progress-indicator-spacing:14.25rem;--default-play-button-spacing:$carousel-control-min-size * 2.5;box-sizing:border-box;transition:opacity .15s linear;position:fixed;left:0;z-index:100;width:100vw;background-color:#000;opacity:.4;height:100vh;top:0}@media only screen and (max-width:860px){.expDisplay,.expIris{margin-top:20px!important}.expMenu:not(.expMenu.expExplore){width:100vw!important;left:-50px}.expDisplay,.expListItem,.expSearch{padding:0 12px!important}.expDisplay{margin-bottom:15px!important}.expDCat .expTitle,.expIris .c-meta-text,.expIris .expTitle,.expWeb .expTitle{overflow:hidden!important;-webkit-box-orient:vertical;display:-webkit-box}.expDCat .expTitle,.expIris .c-meta-text,.expIris .expTitle{-webkit-line-clamp:1}.expWeb .expTitle{-webkit-line-clamp:2}}
-</style>
-<script type="text/javascript">
-!function(){function e(t){return e="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e(t)}var t;t=function(){try{var t={name:"16817 - [AU, DE, GB, JP, US] - Microsoft.com Search Bar | Site Explore URL Suggestions in Search Bar Autosuggest",id:"16817",variation:"16817T2"},n=function(e){console.log(t.variation+" - "+e)},a=window.location.pathname.toLowerCase(),r=a.match(/^\/(..-..).*/i)[1],s=r.substring(3),i=function(){return null!==document.querySelector('meta[content="AEM"]')},o={query:"",channel:""},c=document.querySelector.bind(document),l=document.querySelectorAll.bind(document),u=i(),p=null,d=function(e){return o.query=e,fetch("https://www.microsoft.com/msstoreapiprod/api/autosuggest?clientId=7F27B536-CF6B-4C65-8638-A0F8CBDFCA65&market="+r+"&counts=1,5,5&query="+e+"&sources=Iris-Products,DCatAll-Products,Microsoft-Websites").then((function(e){return e.json()})).then((function(e){return e})).catch(n)},h=['<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">','<path fill-rule="evenodd" clip-rule="evenodd" d="M11 1H13V7H11V1ZM9.17 7.76L7.05 5.64L5.64 7.05L7.76 9.17L9.17 7.76ZM7 11H1V13H7V11ZM18.36 7.05L16.95 5.64L14.83 7.76L16.24 9.17L18.36 7.05ZM17 11H23V13H17V11ZM12 9C10.34 9 9 10.34 9 12C9 13.66 10.34 15 12 15C13.66 15 15 13.66 15 12C15 10.34 13.66 9 12 9ZM16.95 18.36L14.83 16.24L16.24 14.83L18.36 16.95L16.95 18.36ZM5.64 16.95L7.05 18.36L9.17 16.24L7.76 14.83L5.64 16.95ZM13 23H11V17H13V23Z" fill="#0067B8"/>',"</svg>"].join(""),m=['<svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">','<path d="M5.5 0.0625C8.50308 0.0625 10.9375 2.49696 10.9375 5.5C10.9375 6.79893 10.482 7.99143 9.72213 8.9266L13.3977 12.6023C13.6174 12.822 13.6174 13.1781 13.3977 13.3977C13.1981 13.5975 12.8856 13.6156 12.6654 13.4522L12.6023 13.3977L8.9266 9.72213C7.99143 10.482 6.79893 10.9375 5.5 10.9375C2.49696 10.9375 0.0625 8.50308 0.0625 5.5C0.0625 2.49696 2.49696 0.0625 5.5 0.0625ZM5.5 1.1875C3.11827 1.1875 1.1875 3.11827 1.1875 5.5C1.1875 7.8817 3.11827 9.8125 5.5 9.8125C7.8817 9.8125 9.8125 7.8817 9.8125 5.5C9.8125 3.11827 7.8817 1.1875 5.5 1.1875Z" fill="#505050"/>',"</svg >"].join(""),x=function(e,t,n){var a=new URL(e),r=new URLSearchParams(a.search);return r.set(t,n),a.search=r,a.href},f=function(e){try{var t=e.ResultSets,a=[];return t?(t.forEach((function(e){var t=e.Suggests,n={src:e.Source,type:e.Type,max:t.length};t.forEach((function(e,t){a.push(function(e,t,n,a){var i="iris-products"===t.src,l=e.Title?e.Title:e.Txt?e.Txt:"",u=e.Source?e.Source:"",d={"dcatall-products":{us:"Top picks",au:"Top picks",gb:"Top picks",de:"Top-Auswahl",jp:"人気"},"microsoft-terms":{us:"Related searches",au:"Related searches",gb:"Related searches",de:"Verwandte Suchbegriffe",jp:"関連する検索"},"microsoft-websites":{us:"Pages for you",au:"Pages for you",gb:"Pages for you",de:"Seiten für Sie",jp:"おすすめのページ"}},f={"dcatall-products":{text:d["dcatall-products"][s],class:"expFirst",cont:"expDcat"},"microsoft-terms":{text:d["microsoft-terms"][s],class:"expSecond",cont:"expTerms"},"microsoft-websites":{text:d["microsoft-websites"][s],class:"expSecond",cont:"expTerms"}},w={explore:window.location.href,shop:window.location.href,"en-us":"https://www.microsoft.com/"+r+"/search/explore","en-au":"https://www.microsoft.com/"+r+"/search/explore","en-gb":"https://www.microsoft.com/"+r+"/search/explore","de-de":"https://www.microsoft.com/"+r+"/search/explore","ja-jp":"https://www.microsoft.com/"+r+"/search/explore",windows:"https://www.microsoft.com/"+r+"/search/explore"},g=1===n&&f[t.src],v=x(w[o.channel],"q",l),y={aN:JSON.parse(c(p.input).getAttribute("data-m")).aN,cN:l.replace(/[']/g,"&apos;"),sN:JSON.parse(c(p.input).getAttribute("data-m")).sN,srchq:o.query,srchtype:"auto suggest",asdisplayed:"true",resultselected:l.replace(/[']/g,"&apos;"),qrylngth:o.query.length,aslinkpos:a,compnm:t.src};"explore"!==o.channel&&"shop"!==o.channel||(y.bhvr=60);var b,L,S="https:"+e.ImageUrl,A="expListItem "+(i?"expIris":"microsoft-terms"===t.src?"expTerms":"dcatall-products"===t.src?"expDCat":"microsoft-websites"===t.src?"expWeb":""),E=i?h:e.ImageUrl?'<img src="'+S+'" class="c-image" role="none" aria-label="Go to'+l+'" alt="'+l+'" />':"microsoft-terms"==t.src?m:"";return[g?'<li class="expDisplay">'+f[t.src].text+"</li>":"",'<li class="'+A+'" title="'+l+'" data-is-searchable="false">','<a href="'+("microsoft-terms"!==t.src?e.Url:v)+'" aria-label="Go to'+l+' - Link" class="d-flex align-items-center expListAnchor" data-m=\''+JSON.stringify(y)+"'  aria-posinset=\""+(a+1)+'">','<div class="d-flex align-items-center expContainer">',E,'<div class="d-flex flex-column px-2 ml-1">','<span class="expTitle">',i?l:(b=l,L=o.query,b.replace(L,L.bold())),"</span>",i?'<span class="c-meta-text">'+u+"</span>":"","</div>","</div>","</a>","</li>"].join("")}(e,n,t+1,a.length))}))})),a.length&&a.push((i=a.length,l="https://www.microsoft.com/"+r+"/search/explore?q="+o.query,u={us:"See all results",gb:"See all results",au:"See all results",de:"Alle Ergebnisse anzeigen",jp:"すべての結果を見る"},d={aN:JSON.parse(c(p.input).getAttribute("data-m")).aN,cN:u[s],sN:JSON.parse(c(p.input).getAttribute("data-m")).sN,srchq:o.query,srchtype:"auto suggest",asdisplayed:"true",qrylngth:o.query.length,resultselected:u[s],aslinkpos:i},"explore"!==o.channel&&"shop"!==o.channel||(d.bhvr=60),['<li class="expSearch" role="presentation">','<a class="text-blue text-decoration-underline expSearchAnchor" data-m=\''+JSON.stringify(d)+"' href=\""+l+'">',u[s],"</a>","</li>"].join(""))),a.join("")):""}catch(e){n(e)}var i,l,u,d},w=function(e){switch(e){case"show":c(".expMenu").classList.add("expShow"),c(".expMenu").classList.remove("expHide"),c(".expBgBlack")&&(c("#headerArea").style.position="relative"),c(".expBgBlack")&&(c("#headerArea").style.zIndex="101"),c(".expBgBlack")&&c(".expBgBlack").classList.remove("expHide"),c(".expBgBlack")&&c(".expBgBlack").classList.add("expShow"),("explore"===o.channel||"shop"===o.channel)&&c(".search-results-container").classList.remove("expHide");break;case"hide":c(".expMenu").classList.remove("expShow"),c(".expMenu").classList.add("expHide"),c(".expBgBlack")&&c(".expBgBlack").classList.add("expHide"),c(".expBgBlack")&&c(".expBgBlack").classList.remove("expShow")}},g=function(e){var t=null,n=document.activeElement.parentElement;switch(e){case"nextSibling":(t=function(e,t){var n=e.nextElementSibling;for(0;n;){if(n.matches(t))return n;n=n.nextElementSibling}}(n,".expListItem"))||c(".expSearch a").focus();break;case"previousSibling":n===c(".expMenu li:nth-child(1)")&&c(p.input).focus(),t=function(e,t){var n=e.previousElementSibling;for(0;n;){if(n.matches(t))return n;n=n.previousElementSibling}}(n,".expListItem")}t&&t.querySelector("a.expListAnchor").focus()},v={ArrowDown:function(){g("nextSibling")},ArrowUp:function(){g("previousSibling")},Enter:function(e){if("A"!==e.target.nodeName&&""!==o.query){if("explore"===o.channel||"shop"===o.channel){var t={cN:"Search_nav",ecn:"Search_nav",pa:"Body",cT:"Button",compnm:"Search Autosuggest",srchq:o.query,srchtype:"manual"};(window.owap||window.awa&&window.awa.ct).capturePageAction(null,{behavior:61,contentTags:t}),window.location.href=x(window.location.href,"q",o.query)}o.channel!==r&&"windows"!==o.channel||(window.location.href=x("https://www.microsoft.com/"+r+"/search/explore","q",o.query))}}},y=function(e){var t;e.preventDefault(),"Tab"===e.key&&"Tab"===e.code&&c("#search")===document.activeElement&&w("hide"),c(p.input)!=document.activeElement?(document.activeElement.parentElement.parentElement===c(".expMenu")&&(t=v[e.key])&&(e.preventDefault(),t(e)),("explore"===o.channel||"shop"===o.channel)&&document.activeElement==c("#search")&&"Enter"===e.key&&(t=v[e.key])(e)):("ArrowDown"===e.key&&"ArrowDown"==e.code&&(document.activeElement.value=o.query,c(".expMenu li a").focus()),("explore"===o.channel||"shop"===o.channel)&&"Enter"===e.key&&(t=v[e.key])(e),"ArrowUp"===e.key&&(document.activeElement.value=o.query))},b=function(e){if("shop"!==o.channel&&"explore"!==o.channel){var t,n=window.owap||window.awa&&window.awa.ct;(t=e.target.classList.contains("expListAnchor")||e.target.classList.contains("expSearchAnchor")?e.target.getAttribute("data-m"):e.target.closest(".expListAnchor").getAttribute("data-m"))&&n&&n.capturePageAction(null,{behavior:60,actionType:"CL",contentTags:JSON.parse(t)})}},L=function(){var e=l(".expListAnchor");e.forEach((function(t){t.setAttribute("aria-setsize",e.length)}))},S=function(e){e&&""!==e||(e='<li class="expNoResults">No results</li>'),c(".expMenu").innerHTML=e},A=function(e){e.preventDefault();var t=e.target.value;if(""!==t){if(c(".search-results-container")&&c(".search-results-container").classList.remove("d-none"),c(p.input)===document.activeElement?w("show"):w("hide"),"explore"===o.channel||"shop"===o.channel){c(".search-results-container").classList.remove("d-none");var a=window.owap||window.awa&&window.awa.ct,r=e.target.getAttribute("data-m");r&&a.capturePageAction(null,{behavior:62,actionType:"KE",contentTags:JSON.parse(r)})}d(t).then((function(e){return 500!==e.statusCode&&e.ResultSets.length?f(e):'<li class="expNoResults">No results</li>'})).then(S).then(L).catch(n)}else o.query=""},E=function(){try{var e=c(p.input),t=e.checkVisibility();u||c(".expMenu").classList.add("expRtMenu"),"explore"!==o.channel&&"shop"!==o.channel||c(".expMenu").classList.add("expExplore"),t?(c(".search-results-container")&&c(".search-results-container").classList.remove("expHide"),c(".expMenu").children.length&&(c(".search-results-container")&&c(".search-results-container").classList.remove("d-none"),w("show")),e.addEventListener("input",A),c(".expMenu").addEventListener("click",b)):(w("hide"),c(".expMenu").innerHTML="")}catch(e){n(e)}},M=function(e){var t=e.target.value;""!==t?(c(p.input)===document.activeElement?w("show"):w("hide"),o.query!==t&&d(t).then((function(e){return 500!==e.statusCode&&e.ResultSets.length?f(e):'<li class="expNoResults">No results</li>'})).then(S).catch(n)):o.query=""},k=new MutationObserver(E),q=new MutationObserver((function(e){try{var t=e[0];if(t.target.classList.contains("expHide"))return;return t.target.classList.add("expHide"),t.target.setAttribute("aria-hidden","true"),void(t.target.style.zIndex="-999")}catch(e){n(e)}})),C=function(e,t){var n=e.cloneNode(!0);n.classList.add(t),e.insertAdjacentElement("afterend",n),e.setAttribute("aria-hidden","true"),e.classList.add("expHide"),q.observe(e,{attributes:!0,attributeFilter:["aria-hidden","class"],attributeOldValue:!0})},B={"en-us":function(){c((p={ul:"#universal-header-search-auto-suggest-ul",input:"#cli_shellHeaderSearchInput",noresult:".f-auto-suggest-no-results",form:"#searchForm"}).noresult).classList.add("expHide"),C(c(p.ul),"expMenu"),c(p.input).addEventListener("focus",M),k.observe(c(p.input),{attributes:!0,attributeFilter:["style"],attributeOldValue:!0}),c("#searchForm").addEventListener("keyup",y);var e=document.createElement("div");e.classList.add("expBgBlack","expHide"),c("body").insertAdjacentElement("beforeend",e)},explore:function(){C(c((p={exul:".search-results-container .result-list",exinput:'.input-group input[type="search"]',form:"#rootContainer_Search > div > div:nth-child(2) > form",ul:".expMenu",input:".expInput"}).exul),"expMenu"),C(c(p.exinput),"expInput"),c(".expInput").addEventListener("focus",E),c(p.form).addEventListener("keyup",y),c(".root.responsivegrid:not(.expMenu)").addEventListener("click",(function(e){e.target.closest('form[role="search"]')||c(".search-results-container").classList.add("expHide")})),c("#search").addEventListener("click",(function(){""!==o.query&&("explore"!==o.channel&&"shop"!==o.channel||(window.location.href=x(window.location.href,"q",o.query)))}))},shop:function(){C(c((p={exul:".search-results-container .result-list",exinput:'.input-group input[type="search"]',form:"#rootContainer_Search > div > div:nth-child(2) > form",ul:".expMenu",input:".expInput"}).exul),"expMenu"),C(c(p.exinput),"expInput"),c(".expInput").addEventListener("focus",E),c(p.form).addEventListener("keyup",y),c(".root.responsivegrid").addEventListener("click",(function(e){e.target.closest('form[role="search"]')||c(".search-results-container").classList.add("expHide")})),c("#search").addEventListener("click",(function(){""!==o.query&&("explore"!==o.channel&&"shop"!==o.channel||(window.location.href=x(window.location.href,"q",o.query)))}))},windows:function(){c((p={ul:"#universal-header-search-auto-suggest-ul",input:"#cli_shellHeaderSearchInput",noresult:".f-auto-suggest-no-results",form:"#searchForm"}).noresult).classList.add("expHide"),C(c(p.ul),"expMenu");var e=document.createElement("div");e.classList.add("expBgBlack","expHide"),c("body").insertAdjacentElement("beforeend",e);var t=setTimeout((function(){c(p.input).addEventListener("focus",M),k.observe(c(p.input),{attributes:!0,attributeFilter:["style"],attributeOldValue:!0}),c("#searchForm").addEventListener("keyup",y),clearInterval(t)}),1500)}},N={"en-us":{run:B["en-us"]},"ja-jp":{run:B["en-us"]},"de-de":{run:B["en-us"]},"en-au":{run:B["en-us"]},"en-gb":{run:B["en-us"]},explore:{run:B.explore},shop:{run:B.shop},windows:{run:B.windows}};o.channel=a.split("/").filter(Boolean).pop(),N[o.channel]&&N[o.channel].run();var T=0,H=setInterval((function(){try{if(!i())return;"object"===e(window.awa)&&!0===window.awa.isInitialized&&!0===window.awa.isAvailable&&awa.ct&&awa.ct.captureContentUpdate&&"function"==typeof awa.ct.captureContentUpdate||"object"===e(window.expAnalytics)&&"function"==typeof window.expAnalytics.isInitialized&&!0===window.expAnalytics.isInitialized()&&"function"==typeof window.expAnalytics.experimentionContentUpdate?((i()?window.expAnalytics.experimentionContentUpdate:window.awa.ct.captureContentUpdate)({actionType:"A",behavior:12,content:JSON.stringify({}),pageTags:{expname:"#"+t.name,expid:"#"+t.id,variationid:t.variation,expengine:"target",expstatus:"active"}}),clearInterval(H)):T>=300&&(n("AWA Max Retry",s),clearInterval(H)),T++}catch(e){n("AWA Timeout"+e,s)}}),10)}catch(e){n(e,s)}},"complete"===document.readyState||"interactive"===document.readyState?setTimeout(t,1):document.addEventListener("DOMContentLoaded",t)}();
-</script><script type="text/javascript">try {!function(){sessionStorage.getItem("experimentStorage")||sessionStorage.setItem("experimentStorage","{}"),window.experimentStorage=window.experimentStorage||{},window.experimentStorage.registeredExtensions=window.experimentStorage.registeredExtensions||[],window.experimentStorage.personalizer=window.experimentStorage.personalizer||{},window.experimentStorage.expRequire_v2=window.experimentStorage.expRequire_v2||function(e,t,n,r){var o=0,i=0,a=function(a,s){var l={function:a[0],callback:a[1],failback:a[2],interval:a[3]||50,retry:a[4]||25,attempts:a[5]||0};"function"!=typeof window[l.function]?l.retry>l.attempts?(l.attempts++,c(l,s)):(i++,"function"==typeof l.failback?l.failback():r&&console.log(l.function+" failed to load")):(o++,"function"==typeof l.callback?l.callback():r&&console.log(l.function+" successfully loaded")),o===e.length&&"function"==typeof t?t():o+i===e.length&&"function"==typeof n&&n()},c=function(t,n){e[n]=[t.function,t.callback,t.failback,t.interval,t.retry,t.attempts],setTimeout(a,t.interval,e[n],n)};e.forEach(a)},window.experimentStorage.expDefine_v2=window.experimentStorage.expDefine_v2||function(e,t){window.experimentStorage.expRequire_v2([["jQuery"]],function(){window[e]=t,window[e]()})},window.staticExperimentConfig=function(e){var t=e||null;return{lookup:function(e){if(-1!==window.experimentStorage.registeredExtensions.indexOf(e))return window.experimentStorage["exp_"+e]},register:function(e){-1===window.experimentStorage.registeredExtensions.indexOf(e)?(window.experimentStorage.registeredExtensions.push(e),window.experimentStorage["exp_"+e]=t,window.experimentStorage.personalizer[e]={status:"loading",conflicts:[]}):console.log("Experiment: Duplicate utilities defined")},extend:function(e){-1!==window.experimentStorage.registeredExtensions.indexOf(e)&&t?window.jQuery&&$.extend(!0,window.experimentStorage["exp_"+e],t):console.log("Experiment: Cannot extend utility object. Base object not found or extension not passed.")}}},window.experimentStorage.expDefine_v2("experimentBase_16982",function(e){var t=JSON.parse(sessionStorage.getItem("experimentStorage")),n=t[16982]=t[16982]||{};t[16982]=n,window.experimentStorage.exp_16982={storage:n},sessionStorage.setItem("experimentStorage",JSON.stringify(t)),window.staticExperimentConfig({get:function(e){return"utils"===e?staticExperimentConfig().lookup("16982").utility:"fn"===e?staticExperimentConfig().lookup("16982").fn:void 0},fn:{observableEvent:function(e){var t=null;"function"==typeof window.CustomEvent?t=new CustomEvent(e):"function"==typeof document.createEvent&&(t=document.createEvent("Event")).initEvent(e,!0,!0),null!=t&&document.dispatchEvent(t)}},data:{},utility:{object:{find:function(e,t){var n="string"==typeof e?JSON.parse(e):e,r=function(e,t){var n=t.indexOf(".");return e?-1!=n?r(e[t.substring(0,n)],t.substr(n+1)):e[t]:null};return t?r(n,t):n}},wait:{waitForElement:function(e,t){return new PromiseExp(function(n,r){function o(){a<=c?document.querySelectorAll(i).length?(clearInterval(s),n(t||!0)):a++:(clearInterval(s),r(!1))}var i=e,a=0,c=50,s=setInterval(o,100)})},waitUntil:function(e,t){return new PromiseExp(function(n,r){function o(){try{i=e()}catch(e){i=!1}a<c&&!1===i?a++:(clearInterval(s),i?n(t||!0):r("failed"))}var i,a=0,c=50,s=setInterval(o,100)})}},jsll:{decorate:function(e){try{staticExperimentConfig().lookup("16982").utility.wait.waitUntil(function(){return"undefined"!=typeof awa&&!0===awa.isInitialized&&null!=document.querySelector(e)}).then(function(){var t,n=!!window.MSInputMethodContext&&!!document.documentMode;!function(e){window.CustomEvent&&!n?t=new CustomEvent("decorate",{bubbles:!0}):(t=document.createEvent("CustomEvent")).initCustomEvent("decorate",!0,!0,{some:"data"}),e&&(e.dispatchEvent(t),require(["jsll"],function(e){e.ct.captureContentUpdate({timings:{didDeferExecTimeout:window._pageTimings.didDeferExecTimeout}})}))}(document.querySelector(e))}).then(null,function(e){})}catch(e){console.log(e)}},generate:function(e){var t='data-m="{';return Object.keys(e).forEach(function(n,r){t+=(r>0?",":"")+"&quot;"+n+"&quot;:&quot;"+e[n]+"&quot"}),t+'}"'}},polyfill:{startsWith:function(){String.prototype.startsWith||(String.prototype.startsWith=function(e,t){return this.substr(!t||t<0?0:+t,e.length)===e})}(),promise:function(){var e=function(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")},t=function(){function e(e,t){for(var n=0;n<t.length;n++){var r=t[n];r.enumerable=r.enumerable||!1,r.configurable=!0,"value"in r&&(r.writable=!0),Object.defineProperty(e,r.key,r)}}return function(t,n,r){return n&&e(t.prototype,n),r&&e(t,r),t}}(),n=function(){function n(t){return e(this,n),this.promise=$.Deferred(function(e){t(e.resolve,e.fail)}).promise()}return t(n,[{key:"then",value:function(e,t){return this.promise.then(e,t)}},{key:"resolve",value:function(e){return this.promise.resolve(e)}},{key:"reject",value:function(e){return this.promise.reject(e)}}]),n}();window.PromiseExp=window.Promise?window.Promise:n}()},currency:{config:function(){var e="function"==typeof staticExperimentConfig?staticExperimentConfig().lookup("16982").utility.url.locale():utility.url.locale(),t={};return(t={"en-us":{currency:"USD",regex:/[^.0-9]/g},"en-ca":{prefix:"CAD ",currency:"CAD",regex:/[^.0-9]/g},"fr-ca":{suffix:" CAD",currency:"CAD",regex:/[^0-9-,.]/g},"en-gb":{currency:"GBP",regex:/[^.0-9]/g},"en-au":{prefix:"AU",currency:"AUD",regex:/[^.0-9]/g},"fr-fr":{currency:"EUR",regex:/[^0-9-,.]/g},"de-de":{currency:"EUR",regex:/[^0-9-,.]/g},"ja-jp":{currency:"JPY",regex:/[^0-9-,.]/g},"en-sg":{prefix:"SG",currency:"SGD",regex:/[^.0-9]/g},"en-in":{prefix:"",currency:"INR",regex:/[^.0-9]/g}}[e.lang+"-"+e.region])&&(t.lang=e.lang,t.region=e.region),t}},url:{locale:function(){var e=window.location.pathname.toLowerCase().match(/^\/(..-..)\/?/i),t=null;return e?t=e[1].split("-"):"object"==typeof _pageBITags&&_pageBITags.pageTags&&_pageBITags.pageTags.mkt&&(t=_pageBITags.pageTags.mkt.split("-")),{lang:t[0],region:t[1]}},urlObjectFromString:function(e){var t=document.createElement("a");return t.href=e||"",t},addParams:function(e,t){var n=[],r="",o="";for(var i in t)n.push(i),r+="&"+i+"="+encodeURIComponent(t[i]);return e="function"==typeof staticExperimentConfig?staticExperimentConfig().lookup("16982").utility.url.removeParams(e,n):utility.url.removeParams(e,n),o=e+(-1===e.indexOf("?")?"?"+r.slice(1):r),"?"+o.replace("?","").split("&").sort().join("&")},removeParams:function(e,t){return e&&t?e.replace(new RegExp("([&?]("+t.join("|")+")=[^&]*)+","gi"),"").replace(/[&?]/,"?"):""},push:function(e){var t=e.state,n=e.title,r=e.url;window.history&&window.history.pushState&&window.history.pushState("object"==typeof t?t:{},""!=n?n:document.title,r||window.location.pathname)}},personalizer:{getPageUrl:function(e){return"foo url"},getCategory:function(e){var t;switch(e.toLowerCase()){case"business":t="Business";break;case"education":t="Education";break;case"gift cards":t="Gift cards";break;case"m365":t="M365";break;case"mobile":t="Mobile";break;case"modern life":t="Modern Life & Devices";break;case"other":t="Other";break;case"pcs":t="PCs";break;case"surface":t="Surface";break;case"teams":t="Teams";break;case"windows":t="Windows";break;case"xbox":t="Xbox";break;default:t="Unknown"}return t},eventIdGenerator:function(e){for(var t="",n="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",r=isNaN(e)?32:parseFloat(e),o=0;o<r;o++)t+=n.charAt(Math.floor(Math.random()*n.length));return t},osDetection:function(){var e=window.navigator.userAgent,t="other";switch(!0){case-1!==e.indexOf("Mac"):t="Macintosh";break;case-1!==e.indexOf("Win"):t="Windows";break;case-1!==e.indexOf("Linux"):t="Linux";break;case-1!==e.indexOf("Android"):t="Android";break;case-1!==e.indexOf("iPhone"):case-1!==e.indexOf("iPad"):case-1!==e.indexOf("iPod"):t="iOS"}return t},timeOfDay:function(e){var t=e||new Date,n=new Date(t.getFullYear(),t.getMonth(),t.getDate(),21,0,0),r=new Date(t.getFullYear(),t.getMonth(),t.getDate(),3,59,59,59),o=new Date(t.getFullYear(),t.getMonth(),t.getDate(),11,59,59,59),i=new Date(t.getFullYear(),t.getMonth(),t.getDate(),15,59,59,59);return t.getTime()>n.getTime()||t.getTime()<r.getTime()?"Night":t.getTime()>r.getTime()&&t.getTime()<o.getTime()?"Morning":t.getTime()>o.getTime()&&t.getTime()<i.getTime()?"Afternoon":"Evening"}}}}).register("16982"),window.staticExperimentConfig({utility:{storage:{get:function(e){return e?n[e]:n},set:function(e,r){n[e]=r,t[16982]=n,window.experimentStorage.exp_16982.storage=n,sessionStorage.setItem("experimentStorage",JSON.stringify(t))}},data:{get:function(e){var t=window.experimentStorage.exp_16982.data;return e?t[e]:t},set:function(e,t){var n=window.experimentStorage.exp_16982.data;n[e]?$.extend(!0,n[e],t):n[e]=t}},currency:{unformat:function(e){var t="function"==typeof staticExperimentConfig?staticExperimentConfig().lookup("16982").utility.currency.config():utility.currency.config();return!e&&isNaN(e)?"":e.toString().replace(t.regex,"").replace(/,/g,".")},format:function(e,t){var n="function"==typeof staticExperimentConfig?staticExperimentConfig().lookup("16982").utility.currency.config():utility.currency.config(),r=e;return t||(r="function"==typeof staticExperimentConfig?staticExperimentConfig().lookup("16982").utility.currency.unformat(e):utility.currency.unformat(e)),n?(n&&n.prefix?n.prefix:"")+new Intl.NumberFormat(n.lang+"-"+n.region,{style:"currency",currency:n.currency}).format(parseFloat(r))+(n&&n.suffix?n.suffix:""):""}},personalizer:{controller:function(){var e=experimentStorage.personalizer[16982].conflicts,t="loaded"!==experimentStorage.personalizer[16982].status,n=null;return!e||!e.length||(e.forEach(function(e){n=Number(e),experimentStorage.personalizer[n]&&"loaded"!==experimentStorage.personalizer[n].status&&(t=!1)}),"execute"===experimentStorage.personalizer[16982].status&&(t=!0),t)},loadComplete:function(){var e=experimentStorage.personalizer[16982],t=Object.keys(experimentStorage.personalizer),n=null;experimentStorage.personalizer[16982].status="loaded";for(var r=0;r<t.length;r++)if(-1!==e.conflicts.indexOf(Number(t[r]))&&"loaded"!==experimentStorage.personalizer[t[r]].status){n=t[r];break}null!=n&&(experimentStorage.personalizer[n].status="execute",window.experimentStorage.exp_16982.fn.observableEvent("exp_personalizerController"))}}}}).extend("16982"),window.staticExperimentConfig({experimentBase:function(e){var t=jQuery,n=e&&e.classList?e.classList:"",r=e&&e.localizedContent?e.localizedContent:{},o=e&&e.personalizerConfig?e.personalizerConfig:{},i=e&&e.variationId?parseFloat(e.variationId):1,a=window.staticExperimentConfig().lookup("16982"),c=a?a.get("utils"):{},s=(a&&a.fn,""),l=document.getElementsByTagName("html")[0];if(null!==window.location.pathname.match(/\/[pd]\//)){s=function(e){var t=e.split("/").filter(Boolean);return t[t.length-1].match(/^([a-z0-9]){0,4}$/i)&&t.pop(),t[t.length-1].toLowerCase()}(window.location.pathname)}l.className+=(l.className?" ":"")+n+(s?" exp-product-"+s:"");var u={};r=t.extend(!0,r,u),window.staticExperimentConfig({utility:{localization:{getLocString:function(e){var t=c.url.locale(),n=t.lang+"-"+t.region,o=r,i=o&&o.config?o.config:null,a=null,s=null,l=function(t){return e&&e.length?e.replace("{0}",t&&t.locale?t.locale:n):""};if(a=l(),!(s=c.object.find(o,a))&&i&&i.fallback&&(a=l({locale:i.fallback.locale?i.fallback.locale:"en-us",productId:i.fallback.productId?i.fallback.productId:null}),s=c.object.find(o,a)),i&&i.replacements)var u=i.replacements,p=null;return"object"==typeof s&&i&&i.replacements?(s.replacementHelper=function(e){var t=r.replacementConfig;return null!=t&&"object"==typeof u&&void 0!==e&&Object.keys(t).forEach(function(n){p=new RegExp(n.replace("{","\\{").replace("}","\\}"),"g"),e=e.replace(p,t[n])}),e},r.replacementConfig=u,s.replacementConfig=u):"string"==typeof s&&i&&i.replacements&&Object.keys(replacementObject).forEach(function(e){p=new RegExp(e.replace("{","\\{").replace("}","\\}"),"g"),s=s.replace(p,replacementObject[e])}),s||""}}}}).extend("16982");c.localization.getLocString("{0}");var p=o.targetContainer,f=o.targetElement,d=c.personalizer.eventIdGenerator(),g=o.endpoint,m=o.personalizerId,x=function(e,t){return[c.currency.format(e)," - ",c.currency.format(t)].join("")},w=function(e){var n=[];return 2==i&&t("a",e).each(function(){n.push(t(this).prop("pathname"))}),n},y=function(){var e="xxxxxxxxxxxxxxxx.0";return window.mscv?e=window.mscv:"object"==typeof _pageBITags&&_pageBITags.pageTags&&_pageBITags.pageTags.cV?e=_pageBITags.pageTags.cV:window.msservercv&&(e=window.msservercv),e},v=function(e){t.ajax({type:"POST",url:g+"/reward?personalizerId="+m,contentType:"application/json",dataType:"JSON",async:!1,headers:{mscv:y(),tenant:"store"},data:JSON.stringify({eventId:d,weight:e||0})})},h=function(e){t.ajax({type:"POST",url:g+"/rank?personalizerId="+m,contentType:"application/json",dataType:"JSON",headers:{mscv:y(),tenant:"store"},data:JSON.stringify({contextFeatures:[{country:"seoul-teukbyeolsi",language:navigator.language,browser:navigator.vendor,ostype:c.personalizer.osDetection(),timeofday:c.personalizer.timeOfDay(),referrer:function(){if(document.referrer&&document.referrer.length){var e=c.url.urlObjectFromString(document.referrer);return e.protocol+"//"+e.hostname}return""}()}],actions:e,eventId:d,deferActivation:!1}),success:function(e){var n="object"==typeof e?e:JSON.parse(e),r=null;if("object"==typeof n){(r=-1!==n.rewardActionId.indexOf("offer_")?Number(n.rewardActionId.slice("offer_".length)):null)&&!isNaN(r)&&c.url.push({url:c.url.addParams(window.location.search,{ql:r+1})});var o,a;if("li"==f)0!==r&&(o=t(p+" "+f+":eq(0)"),a=t(p+" "+f+":eq("+r+")"),o.insertBefore(a),a.parent().prepend(a));else if(".col"==f&&0!==r){o=t(p+" .col:eq(0)"),(a=t(p+" .col:eq("+r+")")).addClass("personalizedItem"),o.before('<span class="exp-swap-placeholder"></span>').insertBefore(a).promise().done(function(){2==i&&c.wait.waitForElement(".personalizedItem").then(function(){var e="&peid="+d;t(p+" .col.personalizedItem");t(p+" .col.personalizedItem a").each(function(){var n=t(this);-1!==n.attr("href").toLowerCase().indexOf("www.xbox.com")&&n.attr("href",n.attr("href")+(-1==n.attr("href").indexOf("?")?"?":"&")+"personalize=16982"+e)})}).then(null,function(e){})}),t(".exp-swap-placeholder").replaceWith(a)}c.personalizer.loadComplete(),t(p).on("click.azurePersonalizerTracking",f+":eq(0)",function(){t(this).data("offerkey");v(1==i?.5:.2);c.storage.set("globalPersonalizationRewarder",""),c.storage.set("globalPersonalizationRewarder",JSON.stringify({rewardSent:!1,personalizerId:m,urls:w(t(this)),eventId:d,rewardSelectors:function(){return 1==i?[{}]:[{selectors:'button[id^=buttons_ConfigureDeviceButton],button[id^=buttons_AddToCartButton],button[id^=buttons_BuildABundleButton],div.buy-box-buy-buttons .btn-primary, .sticky .btn-primary, .buybox .f-primary, .buy-primary .f-primary, #buttonsPageBar .f-primary, div[class*="ProductDetailsHeader-module"] [class*="Button-module__defaultBase"]:not([class*="ButtonWithFlyout-module"]),.exp-buybox-item .exp-configure-now-btn',reward:".5"},{selectors:".m-content-placement-item, a, button:not(button.c-glyph.glyph-cancel.lp-iframe-close.x-hidden)",reward:".3"}]}()})),t(p).off("click.azurePersonalizerTracking",f+":eq(0)")}),t(p).on("click.azurePersonalizerTrackingSecondaryItems",f+":gt(0)",function(){v(0)})}}})};c.wait.waitForElement(".aem-Grid .content-card .col").then(function(){var e,n=null,r=[],o=[{keyWords:["surface"],props:{categoryName:"Surface",costMin:100,costMax:1e4,discount:!1}},{keyWords:["laptop"],props:{categoryName:"Laptop",costMin:100,costMax:1e4,discount:!1}},{keyWords:["education","student","school"],props:{categoryName:"Education",costMin:100,costMax:5e3,discount:!1}},{keyWords:["business"],props:{categoryName:"Business",costMin:10,costMax:2e3,discount:!1}},{keyWords:["m365","office","microsoft365","microsoft-365"],props:{categoryName:"Office",costMin:100,costMax:5e3,discount:!1}},{keyWords:["mobile","phone"],props:{categoryName:"Mobile",costMin:100,costMax:2e3,discount:!1}},{keyWords:["modern","life"],props:{categoryName:"Modern Life & Devices",costMin:100,costMax:5e3,discount:!1}},{keyWords:["appointment","appointments"],props:{categoryName:"Appointment",costMin:0,costMax:0,discount:!1}},{keyWords:["pc","pcs","computers","computer"],props:{categoryName:"PCs",costMin:100,costMax:1e4,discount:!1}},{keyWords:["accessories","mouse","pen"],props:{categoryName:"Accessories",costMin:100,costMax:1e4,discount:!1}},{keyWords:["teams"],props:{categoryName:"Teams",costMin:0,costMax:0,discount:!1}},{keyWords:["windows"],props:{categoryName:"Windows",costMin:0,costMax:1e3,discount:!1}},{keyWords:["xbox","seriess","seriesx"],props:{categoryName:"Xbox",costMin:0,costMax:1e3,discount:!1}},{keyWords:["gaming","games"],props:{categoryName:"Games",costMin:0,costMax:1e3,discount:!1}},{keyWords:["gift","card"],props:{categoryName:"Gift",costMin:10,costMax:5e3,discount:!1}},{keyWords:["contact","support"],props:{categoryName:"Support",costMin:0,costMax:0,discount:!1}},{keyWords:["shipping","delivery"],props:{categoryName:"Shipping",costMin:0,costMax:0,discount:!1}},{keyWords:["deals","sale","black friday"],props:{categoryName:"Deals",costMin:10,costMax:3e3,discount:!1}}],i={props:{categoryName:"Unknown",costMin:0,costMax:2e3,discount:!1}},a=null;t(p+" "+f).each(function(c,s){var l=t("a",t(this)).prop("pathname").toLowerCase()+t("a",t(this)).prop("search").toLowerCase();a=null;e:for(var u=0;u<o.length;u++)for(var p=0;p<o[u].keyWords.length;p++)if(-1!==l.indexOf(o[u].keyWords[p])){a=o[u];break e}a||(a=i),e=t(s),a.props&&(n=a.props.categoryName,r.push({id:"offer_"+[c],features:[{category:n,offer:e.text().trim(),cost:x(a.props.costMin,a.props.costMax),position:c+1,discount:a.props.discount}]}),e.attr("data-offerkey","offer_"+[c]))}),r&&r.length>0&&h(r)}).then(null,function(e){})}}).extend("16982"),"function"==typeof e&&e()}),window.experimentStorage.expRequire_v2([["jQuery"],["experimentBase_16982"]],function(){var e=staticExperimentConfig().lookup("16982"),t=(e&&e.fn,e?e.get("utils"):{}),n=t.url.locale();n.lang,n.region;experimentStorage.personalizer[16982]&&(experimentStorage.personalizer[16982].conflicts=[]);var r=function(){e.experimentBase({classList:"exp-16982 exp-16982T2",variationId:"2",contentScheduler:[],personalizerConfig:{targetContainer:".aem-Grid .content-card:first",targetElement:".col",endpoint:"/casexpservice/personalizerwrapperapi/v01",personalizerId:"16982-PersonalizerWAPI"},localizedContent:{}})};if(!t.personalizer.controller())return document.addEventListener("exp_personalizerController",function(){t.personalizer.controller()&&r()}),!1;r()})}();
-} catch(err) {console.log('EXP Error: ' + err);}</script><script> window.targetGlobalSettings = {overrideMboxEdgeServer: true,pageLoadEnabled: true, serverState: {"request":{"requestId":"57d49439941047e2902ca204040605cc","id":{"tntId":"68ba066812364e30a354be05bb7fd153.37_0","marketingCloudVisitorId":"13883234318647686429208074005478800934","customerIds":[{"id":"1f01c01e0b144533b39738aba17def12","integrationCode":"MSFPC","authenticatedState":"logged_out"},{"id":"1f01c01e0b144533b39738aba17def12","integrationCode":"MC1","authenticatedState":"logged_out"}]},"property":{"token":"8c1e142d-c7db-a269-dc00-3656897ea8b0"},"context":{"channel":"web","address":{"url":"https://www.microsoft.com/en-us"},"geo":{"ipAddress":"43.201.31.32"},"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0"},"experienceCloud":{"analytics":{"supplementalDataId":"0C5F9AC48C98CC36-1CC81DECF3F6F382","logging":"client_side"}},"execute":{"pageLoad":{}}},"response":{"status":200,"requestId":"57d49439941047e2902ca204040605cc","id":{"tntId":"68ba066812364e30a354be05bb7fd153.37_0","marketingCloudVisitorId":"13883234318647686429208074005478800934","customerIds":[{"id":"1f01c01e0b144533b39738aba17def12","integrationCode":"MSFPC","authenticatedState":"logged_out"},{"id":"1f01c01e0b144533b39738aba17def12","integrationCode":"MC1","authenticatedState":"logged_out"}]},"client":"microsoftmscompoc","edgeHost":"mboxedge37.tt.omtrdc.net","execute":{"pageLoad":{"options":[{"type":"html","content":"<script><\/script>","responseTokens":{"activity.name":"[13194] - Items In Cart Reminder - Campaign 20690","profile.rand100":"5","activity.id":"438290","experience.name":"13194T1","option.name":"Offer3","option.id":"3","profile.activeActivities":"447462,511413,438290,479315,481602,502226,512047,459871,504957,424443,502041","profile.currentWidth":"","profile.hasVisitedSurfaceType":"surface-studio-2+","profile.CurrentReferrer":"https://www.bing.com/","offer.id":"1598267","profile.m365_teams_market_segment":"","experience.id":"1","profile.recentView_PDP":"8vlfqc3597k4","profile.SurfaceVisitFlag":"true","profile.WF_Conversion_Office_IP":"false 137.116.130.167","offer.name":"/_13194_-_items_incartreminder/experiences/1/pages/0/zones/0/1677753668941","profile.ocidQuery":"ef_id=_k_a0802a7ef4c01cfb29a64e44877e37c7_k_&OCID=AIDcmm1o1fzy5i_SEM__k_a0802a7ef4c01cfb29a64e44877e37c7_k_&msclkid=a0802a7ef4c01cfb29a64e44877e37c7","profile.twogroups":"GroupA","activity.decisioningMethod":"server-side"}},{"type":"html","content":"<script><\/script>","responseTokens":{"activity.name":"16817 - [AU, DE, GB, JP, US] - Microsoft.com Search Bar | Site Explore URL Suggestions in Search Bar Autosuggest","profile.rand100":"5","activity.id":"511413","experience.name":"16817T2","option.name":"Offer3","option.id":"3","profile.activeActivities":"447462,511413,438290,479315,481602,502226,512047,459871,504957,424443,502041","profile.currentWidth":"","profile.hasVisitedSurfaceType":"surface-studio-2+","profile.CurrentReferrer":"https://www.bing.com/","offer.id":"1579466","profile.m365_teams_market_segment":"","experience.id":"2","profile.recentView_PDP":"8vlfqc3597k4","profile.SurfaceVisitFlag":"true","profile.WF_Conversion_Office_IP":"false 137.116.130.167","offer.name":"/16817_-_au_de_gbjpus-microsoftcomsearchbarsiteexploreurlsuggesti1/experiences/2/pages/0/zones/0/1686748621766","profile.ocidQuery":"ef_id=_k_a0802a7ef4c01cfb29a64e44877e37c7_k_&OCID=AIDcmm1o1fzy5i_SEM__k_a0802a7ef4c01cfb29a64e44877e37c7_k_&msclkid=a0802a7ef4c01cfb29a64e44877e37c7","profile.twogroups":"GroupA","activity.decisioningMethod":"server-side"}},{"responseTokens":{"activity.name":"21707  - [CA, US] - MSCOM homepage: test hero imagery for Microsoft 365 consumer placement","profile.rand100":"5","activity.id":"512047","experience.name":"21707C","option.id":"0","profile.activeActivities":"447462,511413,438290,479315,481602,502226,512047,459871,504957,424443,502041","profile.currentWidth":"","profile.hasVisitedSurfaceType":"surface-studio-2+","profile.CurrentReferrer":"https://www.bing.com/","experience.trafficAllocationType":"control","offer.id":"0","profile.m365_teams_market_segment":"","experience.id":"0","profile.recentView_PDP":"8vlfqc3597k4","experience.trafficAllocationId":"0","profile.SurfaceVisitFlag":"true","profile.WF_Conversion_Office_IP":"false 137.116.130.167","offer.name":"Default Content","profile.ocidQuery":"ef_id=_k_a0802a7ef4c01cfb29a64e44877e37c7_k_&OCID=AIDcmm1o1fzy5i_SEM__k_a0802a7ef4c01cfb29a64e44877e37c7_k_&msclkid=a0802a7ef4c01cfb29a64e44877e37c7","profile.twogroups":"GroupA","activity.decisioningMethod":"server-side"}},{"responseTokens":{"activity.name":"16591 - A/A enabling accurate duration estimation using 'Global - Web - Prod' Adobe Analytics report suite","profile.rand100":"5","activity.id":"447462","experience.name":"aa16591c","option.id":"0","profile.activeActivities":"447462,511413,438290,479315,481602,502226,512047,459871,504957,424443,502041","profile.currentWidth":"","profile.hasVisitedSurfaceType":"surface-studio-2+","profile.CurrentReferrer":"https://www.bing.com/","offer.id":"0","profile.m365_teams_market_segment":"","experience.id":"0","profile.recentView_PDP":"8vlfqc3597k4","profile.SurfaceVisitFlag":"true","profile.WF_Conversion_Office_IP":"false 137.116.130.167","offer.name":"Default Content","profile.ocidQuery":"ef_id=_k_a0802a7ef4c01cfb29a64e44877e37c7_k_&OCID=AIDcmm1o1fzy5i_SEM__k_a0802a7ef4c01cfb29a64e44877e37c7_k_&msclkid=a0802a7ef4c01cfb29a64e44877e37c7","profile.twogroups":"GroupA","activity.decisioningMethod":"server-side"}},{"type":"html","content":"<script><\/script>","responseTokens":{"activity.name":"16982 - Personalization HP Spotlight WAPI","profile.rand100":"5","activity.id":"459871","experience.name":"16982T2","option.name":"Offer3","option.id":"3","profile.activeActivities":"447462,511413,438290,479315,481602,502226,512047,459871,504957,424443,502041","profile.currentWidth":"","profile.hasVisitedSurfaceType":"surface-studio-2+","profile.CurrentReferrer":"https://www.bing.com/","offer.id":"1257799","profile.m365_teams_market_segment":"","experience.id":"2","profile.recentView_PDP":"8vlfqc3597k4","profile.SurfaceVisitFlag":"true","profile.WF_Conversion_Office_IP":"false 137.116.130.167","offer.name":"16982T2","profile.ocidQuery":"ef_id=_k_a0802a7ef4c01cfb29a64e44877e37c7_k_&OCID=AIDcmm1o1fzy5i_SEM__k_a0802a7ef4c01cfb29a64e44877e37c7_k_&msclkid=a0802a7ef4c01cfb29a64e44877e37c7","profile.twogroups":"GroupA","activity.decisioningMethod":"server-side"}},{"responseTokens":{"activity.name":"13500 - Always-on A/A on [Store - Prod + Store - Prod (AEM)]","profile.rand100":"5","activity.id":"424443","experience.name":"AA-13500T1","option.id":"0","profile.activeActivities":"447462,511413,438290,479315,481602,502226,512047,459871,504957,424443,502041","profile.currentWidth":"","profile.hasVisitedSurfaceType":"surface-studio-2+","profile.CurrentReferrer":"https://www.bing.com/","offer.id":"0","profile.m365_teams_market_segment":"","experience.id":"1","profile.recentView_PDP":"8vlfqc3597k4","profile.SurfaceVisitFlag":"true","profile.WF_Conversion_Office_IP":"false 137.116.130.167","offer.name":"Default Content","profile.ocidQuery":"ef_id=_k_a0802a7ef4c01cfb29a64e44877e37c7_k_&OCID=AIDcmm1o1fzy5i_SEM__k_a0802a7ef4c01cfb29a64e44877e37c7_k_&msclkid=a0802a7ef4c01cfb29a64e44877e37c7","profile.twogroups":"GroupA","activity.decisioningMethod":"server-side"}}],"analytics":{"payload":{"pe":"tnt","tnta":"438290:1:0|2,438290:1:0|1,511413:2:0|2,511413:2:0|1,512047:0:0:0|2,512047:0:0:0|1,447462:0:0|2,447462:0:0|1,459871:2:0|2,459871:2:0|1,424443:1:0|2,424443:1:0|1"}}}}}} };</script><script>$(document).ready(function(){var tr = {"analytics":{"pe":"tnt","tnta":"438290:1:0|2,438290:1:0|1,511413:2:0|2,511413:2:0|1,512047:0:0:0|2,512047:0:0:0|1,447462:0:0|2,447462:0:0|1,459871:2:0|2,459871:2:0|1,424443:1:0|2,424443:1:0|1"},"responseTokens":[{"activity.name":"[13194] - Items In Cart Reminder - Campaign 20690","profile.rand100":"5","activity.id":"438290","experience.name":"13194T1","option.name":"Offer3","option.id":"3","profile.activeActivities":"447462,511413,438290,479315,481602,502226,512047,459871,504957,424443,502041","profile.currentWidth":"","profile.hasVisitedSurfaceType":"surface-studio-2+","profile.CurrentReferrer":"https://www.bing.com/","offer.id":"1598267","profile.m365_teams_market_segment":"","experience.id":"1","profile.recentView_PDP":"8vlfqc3597k4","profile.SurfaceVisitFlag":"true","profile.WF_Conversion_Office_IP":"false 137.116.130.167","offer.name":"/_13194_-_items_incartreminder/experiences/1/pages/0/zones/0/1677753668941","profile.ocidQuery":"ef_id=_k_a0802a7ef4c01cfb29a64e44877e37c7_k_&OCID=AIDcmm1o1fzy5i_SEM__k_a0802a7ef4c01cfb29a64e44877e37c7_k_&msclkid=a0802a7ef4c01cfb29a64e44877e37c7","profile.twogroups":"GroupA","activity.decisioningMethod":"server-side"},{"activity.name":"16817 - [AU, DE, GB, JP, US] - Microsoft.com Search Bar | Site Explore URL Suggestions in Search Bar Autosuggest","profile.rand100":"5","activity.id":"511413","experience.name":"16817T2","option.name":"Offer3","option.id":"3","profile.activeActivities":"447462,511413,438290,479315,481602,502226,512047,459871,504957,424443,502041","profile.currentWidth":"","profile.hasVisitedSurfaceType":"surface-studio-2+","profile.CurrentReferrer":"https://www.bing.com/","offer.id":"1579466","profile.m365_teams_market_segment":"","experience.id":"2","profile.recentView_PDP":"8vlfqc3597k4","profile.SurfaceVisitFlag":"true","profile.WF_Conversion_Office_IP":"false 137.116.130.167","offer.name":"/16817_-_au_de_gbjpus-microsoftcomsearchbarsiteexploreurlsuggesti1/experiences/2/pages/0/zones/0/1686748621766","profile.ocidQuery":"ef_id=_k_a0802a7ef4c01cfb29a64e44877e37c7_k_&OCID=AIDcmm1o1fzy5i_SEM__k_a0802a7ef4c01cfb29a64e44877e37c7_k_&msclkid=a0802a7ef4c01cfb29a64e44877e37c7","profile.twogroups":"GroupA","activity.decisioningMethod":"server-side"},{"activity.name":"21707  - [CA, US] - MSCOM homepage: test hero imagery for Microsoft 365 consumer placement","profile.rand100":"5","activity.id":"512047","experience.name":"21707C","option.id":"0","profile.activeActivities":"447462,511413,438290,479315,481602,502226,512047,459871,504957,424443,502041","profile.currentWidth":"","profile.hasVisitedSurfaceType":"surface-studio-2+","profile.CurrentReferrer":"https://www.bing.com/","experience.trafficAllocationType":"control","offer.id":"0","profile.m365_teams_market_segment":"","experience.id":"0","profile.recentView_PDP":"8vlfqc3597k4","experience.trafficAllocationId":"0","profile.SurfaceVisitFlag":"true","profile.WF_Conversion_Office_IP":"false 137.116.130.167","offer.name":"Default Content","profile.ocidQuery":"ef_id=_k_a0802a7ef4c01cfb29a64e44877e37c7_k_&OCID=AIDcmm1o1fzy5i_SEM__k_a0802a7ef4c01cfb29a64e44877e37c7_k_&msclkid=a0802a7ef4c01cfb29a64e44877e37c7","profile.twogroups":"GroupA","activity.decisioningMethod":"server-side"},{"activity.name":"16591 - A/A enabling accurate duration estimation using 'Global - Web - Prod' Adobe Analytics report suite","profile.rand100":"5","activity.id":"447462","experience.name":"aa16591c","option.id":"0","profile.activeActivities":"447462,511413,438290,479315,481602,502226,512047,459871,504957,424443,502041","profile.currentWidth":"","profile.hasVisitedSurfaceType":"surface-studio-2+","profile.CurrentReferrer":"https://www.bing.com/","offer.id":"0","profile.m365_teams_market_segment":"","experience.id":"0","profile.recentView_PDP":"8vlfqc3597k4","profile.SurfaceVisitFlag":"true","profile.WF_Conversion_Office_IP":"false 137.116.130.167","offer.name":"Default Content","profile.ocidQuery":"ef_id=_k_a0802a7ef4c01cfb29a64e44877e37c7_k_&OCID=AIDcmm1o1fzy5i_SEM__k_a0802a7ef4c01cfb29a64e44877e37c7_k_&msclkid=a0802a7ef4c01cfb29a64e44877e37c7","profile.twogroups":"GroupA","activity.decisioningMethod":"server-side"},{"activity.name":"16982 - Personalization HP Spotlight WAPI","profile.rand100":"5","activity.id":"459871","experience.name":"16982T2","option.name":"Offer3","option.id":"3","profile.activeActivities":"447462,511413,438290,479315,481602,502226,512047,459871,504957,424443,502041","profile.currentWidth":"","profile.hasVisitedSurfaceType":"surface-studio-2+","profile.CurrentReferrer":"https://www.bing.com/","offer.id":"1257799","profile.m365_teams_market_segment":"","experience.id":"2","profile.recentView_PDP":"8vlfqc3597k4","profile.SurfaceVisitFlag":"true","profile.WF_Conversion_Office_IP":"false 137.116.130.167","offer.name":"16982T2","profile.ocidQuery":"ef_id=_k_a0802a7ef4c01cfb29a64e44877e37c7_k_&OCID=AIDcmm1o1fzy5i_SEM__k_a0802a7ef4c01cfb29a64e44877e37c7_k_&msclkid=a0802a7ef4c01cfb29a64e44877e37c7","profile.twogroups":"GroupA","activity.decisioningMethod":"server-side"},{"activity.name":"13500 - Always-on A/A on [Store - Prod + Store - Prod (AEM)]","profile.rand100":"5","activity.id":"424443","experience.name":"AA-13500T1","option.id":"0","profile.activeActivities":"447462,511413,438290,479315,481602,502226,512047,459871,504957,424443,502041","profile.currentWidth":"","profile.hasVisitedSurfaceType":"surface-studio-2+","profile.CurrentReferrer":"https://www.bing.com/","offer.id":"0","profile.m365_teams_market_segment":"","experience.id":"1","profile.recentView_PDP":"8vlfqc3597k4","profile.SurfaceVisitFlag":"true","profile.WF_Conversion_Office_IP":"false 137.116.130.167","offer.name":"Default Content","profile.ocidQuery":"ef_id=_k_a0802a7ef4c01cfb29a64e44877e37c7_k_&OCID=AIDcmm1o1fzy5i_SEM__k_a0802a7ef4c01cfb29a64e44877e37c7_k_&msclkid=a0802a7ef4c01cfb29a64e44877e37c7","profile.twogroups":"GroupA","activity.decisioningMethod":"server-side"}]};if(typeof window.sendToVortex === 'function'){sendToVortex(tr);}else{window.experimentationAnalytics.log(tr);}});</script>
-                            
-                            <!-- Start of ADDITIONAL DEBUG INFO ** experimentation.html - inside **
-
-                                CVToken-Experimentation-Inside: CASMicrosoftCV3f2fba68.1
-                                expHeader-Experimentation-Inside: ms-cv=CASMicrosoftCV3f2fba68.1;exp-ip=43.201.31.32;property-token=8c1e142d-c7db-a269-dc00-3656897ea8b0
-                                true
-                              End of ADDITIONAL DEBUG INFO -->
-                        
-                
-
-            
-            <meta name="exp-atjs-anchor" content="">
-        
-
-
-<!-- Start of ADDITIONAL DEBUG INFO ** experimentation.html **
-
-    CVToken-Experimentation: CASMicrosoftCV3f2fba68.0
-    
-    
-            Exp header value: not found
-    
-    true
-    End of ADDITIONAL DEBUG INFO -->
-    <link rel="dns-prefetch" href="https://cdn-dynmedia-1.microsoft.com/">
-<link rel="preconnect" href="https://cdn-dynmedia-1.microsoft.com/">
-<link rel="dns-prefetch" href="https://web.vortex.data.microsoft.com/">
-<link rel="preconnect" href="https://web.vortex.data.microsoft.com/">
-<link rel="dns-prefetch" href="https://img-prod-cms-rt-microsoft-com.akamaized.net/">
-<link rel="preconnect" href="https://img-prod-cms-rt-microsoft-com.akamaized.net/">
-<link rel="dns-prefetch" href="https://c.s-microsoft.com/">
-<link rel="preconnect" href="https://c.s-microsoft.com/">
-<link rel="dns-prefetch" href="https://analytics.tiktok.com/">
-<link rel="preconnect" href="https://analytics.tiktok.com/">
-<link rel="dns-prefetch" href="https://bat.bing.com/">
-<link rel="preconnect" href="https://bat.bing.com/">
-<link rel="dns-prefetch" href="https://cdnssl.clicktale.net/">
-<link rel="preconnect" href="https://cdnssl.clicktale.net/">
-<link rel="dns-prefetch" href="https://d.impactradius-event.com/">
-<link rel="preconnect" href="https://d.impactradius-event.com/">
-<link rel="dns-prefetch" href="https://js.monitor.azure.com/">
-<link rel="preconnect" href="https://js.monitor.azure.com/">
-<link rel="dns-prefetch" href="https://mem.gfx.ms/">
-<link rel="preconnect" href="https://mem.gfx.ms/">
-<link rel="dns-prefetch" href="https://wcpstatic.microsoft.com/">
-<link rel="preconnect" href="https://wcpstatic.microsoft.com/">
-<link rel="dns-prefetch" href="https://www.clarity.ms/">
-<link rel="preconnect" href="https://www.clarity.ms/">
-<link rel="dns-prefetch" href="https://fpt.microsoft.com/">
-<link rel="preconnect" href="https://fpt.microsoft.com/">
-<link rel="dns-prefetch" href="https://publisher.liveperson.net/">
-<link rel="preconnect" href="https://publisher.liveperson.net/">
-<link rel="dns-prefetch" href="https://accdn.lpsnmedia.net/">
-<link rel="preconnect" href="https://accdn.lpsnmedia.net/">
-<link rel="dns-prefetch" href="https://lpcdn.lpsnmedia.net/">
-<link rel="preconnect" href="https://lpcdn.lpsnmedia.net/">
-<link rel="dns-prefetch" href="https://lptag.liveperson.net/">
-<link rel="preconnect" href="https://lptag.liveperson.net/">
 </head>
+<body>
+    <div id="cookie-banner"></div>
+    <div id="headerArea" class="uhf"  data-m='{"cN":"headerArea","cT":"Area_coreuiArea","id":"a1Body","sN":1,"aN":"Body"}'>
+                <div id="headerRegion"      data-region-key="headerregion" data-m='{"cN":"headerRegion","cT":"Region_coreui-region","id":"r1a1","sN":1,"aN":"a1"}' >
 
-
-<body class="page basicpage">
-	
-		
-
-
-
-
-
-	<span style="display:none">
-		
-		
-  			<script>
-  	  			window.mscv = 'CASMicrosoftCV3f2fba68.0'
-  			</script>
-			
-		
-		
-				
-					
-				
-			
-
-		
-  			<script>
-  	  			window.msservercv = 'CASMicrosoftCV3f2fba68.0'
-  			</script>
-			
-	</span>
-
-
-	
-
-	
-	<script type="text/javascript">
-		window.msauthIsPublisher = true;
-		window.msauthSkipRefresh = true; // backward compatibility
-	</script>
-
-	
-			
-
-			
-		
-	
-
-
-	
-	
-		
-
-    <span aria-hidden="true" class="d-none geo-info" data-continent="AS" data-country_code="KR" data-region_code="" data-city="SEOUL" data-timezone="GMT+9" data-zip="" data-county="" data-areacode="">
-    </span>
-
-	
-	
-	
-	<div id="page-top" tabindex="-1"></div>
-	
-
-	<div id="modalsRenderedAfterPageLoad">
-		
-	</div>
-
-	
-
-	
-
-	
-	
-	
-	
-		
-
-
-
-		
-<div class="universalheader" data-component-id="cf9a86dceae618e01d6e6399d243873c">
-
-	
-
-	
-		
-
-    
-
-    
-        
-                
-
-
-
-
-        
-        
-                
-                
-            
-    
-<!-- Start of ADDITIONAL DEBUG INFO ** cv.html **
-
-    CVToken: CASMicrosoftCV3f2fba68.1
-  End of ADDITIONAL DEBUG INFO -->
-
-                <!-- Start of ADDITIONAL DEBUG INFO ** uhftemplate.html **
-
-    CVToken: CASMicrosoftCV3f2fba68.1
-  End of ADDITIONAL DEBUG INFO -->
-                <link rel="stylesheet" href="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/74-888e54" type="text/css" media="all">    <div id="headerArea" class="uhf" data-m="{&quot;cN&quot;:&quot;headerArea&quot;,&quot;cT&quot;:&quot;Area_coreuiArea&quot;,&quot;id&quot;:&quot;a1Body&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;Body&quot;}">
-                <div id="headerRegion" data-region-key="headerregion" data-m="{&quot;cN&quot;:&quot;headerRegion&quot;,&quot;cT&quot;:&quot;Region_coreui-region&quot;,&quot;id&quot;:&quot;r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;a1&quot;}">
-
-    <div id="headerUniversalHeader" data-m="{&quot;cN&quot;:&quot;headerUniversalHeader&quot;,&quot;cT&quot;:&quot;Module_coreui-universalheader&quot;,&quot;id&quot;:&quot;m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;r1a1&quot;}" data-module-id="Category|headerRegion|coreui-region|headerUniversalHeader|coreui-universalheader">
+    <div  id="headerUniversalHeader" data-m='{"cN":"headerUniversalHeader","cT":"Module_coreui-universalheader","id":"m1r1a1","sN":1,"aN":"r1a1"}'  data-module-id="Category|headerRegion|coreui-region|headerUniversalHeader|coreui-universalheader">
         
 
-                        <div id="epb" class="x-hidden x-hidden-vp-mobile-st uhfc-universal-context context-uhf" data-m="{&quot;cN&quot;:&quot;epb_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;m1r1a1&quot;}">
-
-	<div class="c-uhfh-alert f-information epb-container theme-light" role="dialog" aria-label="Promotional Banner" data-m="{&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c1c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c1m1r1a1&quot;}" data-pb="[{&quot;Browser&quot;:&quot;anaheim&quot;,&quot;ExtensionType&quot;:&quot;windows10only&quot;,&quot;ExtensionUrl&quot;:&quot;https://go.microsoft.com/fwlink/?linkid=2231251&quot;,&quot;BackgroundColorDarkTheme&quot;:&quot;b-black&quot;,&quot;LogoUrlDarkTheme&quot;:&quot;http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW12cms?ver=051d&quot;,&quot;ActionLinkBackgroundColorDarkTheme&quot;:&quot;btn-white&quot;,&quot;BackgroundColorLightTheme&quot;:&quot;b-white&quot;,&quot;LogoUrlLightTheme&quot;:&quot;http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW12cms?ver=051d&quot;,&quot;ActionLinkBackgroundColorLightTheme&quot;:&quot;btn-light-blue&quot;,&quot;Title&quot;:&quot;Introducing the new Bing, your AI-powered search engine.&quot;,&quot;Paragraph&quot;:&quot;Ask real questions. Get complete answers. Chat and create.&quot;,&quot;ActionLinkText&quot;:&quot;Try Now&quot;,&quot;ActionLinkAriaLabel&quot;:&quot;Try Now&quot;,&quot;DismissText&quot;:&quot;No, thanks&quot;,&quot;DismissAriaLabel&quot;:&quot;No, thanks&quot;,&quot;CookieExpiration&quot;:&quot;7&quot;,&quot;CurrentTheme&quot;:&quot;theme-light&quot;},{&quot;Browser&quot;:&quot;edge&quot;,&quot;ExtensionType&quot;:&quot;windows10only&quot;,&quot;ExtensionUrl&quot;:&quot;https://aka.ms/MicrosoftEdgeDownload&quot;,&quot;BackgroundColorDarkTheme&quot;:&quot;b-black&quot;,&quot;LogoUrlDarkTheme&quot;:&quot;https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4xdax&quot;,&quot;ActionLinkBackgroundColorDarkTheme&quot;:&quot;btn-white&quot;,&quot;BackgroundColorLightTheme&quot;:&quot;b-white&quot;,&quot;LogoUrlLightTheme&quot;:&quot;https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4xdax&quot;,&quot;ActionLinkBackgroundColorLightTheme&quot;:&quot;btn-light-blue&quot;,&quot;Title&quot;:&quot;Try the browser recommended by Microsoft&quot;,&quot;Paragraph&quot;:&quot;Get speed, security and privacy with Microsoft Edge&quot;,&quot;ActionLinkText&quot;:&quot;Download now&quot;,&quot;ActionLinkAriaLabel&quot;:&quot;Download now&quot;,&quot;DismissText&quot;:&quot;No thanks&quot;,&quot;DismissAriaLabel&quot;:&quot;No thanks&quot;,&quot;CookieExpiration&quot;:&quot;30&quot;,&quot;CurrentTheme&quot;:&quot;theme-light&quot;},{&quot;Browser&quot;:&quot;chrome&quot;,&quot;ExtensionType&quot;:&quot;windows10only&quot;,&quot;ExtensionUrl&quot;:&quot;https://go.microsoft.com/fwlink/?linkid=2231161&quot;,&quot;BackgroundColorDarkTheme&quot;:&quot;b-black&quot;,&quot;LogoUrlDarkTheme&quot;:&quot;http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW12cms?ver=051d&quot;,&quot;ActionLinkBackgroundColorDarkTheme&quot;:&quot;btn-white&quot;,&quot;BackgroundColorLightTheme&quot;:&quot;b-white&quot;,&quot;LogoUrlLightTheme&quot;:&quot;http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW12cms?ver=051d&quot;,&quot;ActionLinkBackgroundColorLightTheme&quot;:&quot;btn-light-blue&quot;,&quot;Title&quot;:&quot;Experience AI-powered browsing with the new Bing built-in&quot;,&quot;Paragraph&quot;:&quot;Get comprehensive answers and summarized information side-by-side in Microsoft Edge&quot;,&quot;ActionLinkText&quot;:&quot;Try now&quot;,&quot;ActionLinkAriaLabel&quot;:&quot;Try now&quot;,&quot;DismissText&quot;:&quot;No, thanks&quot;,&quot;DismissAriaLabel&quot;:&quot;No, thanks&quot;,&quot;CookieExpiration&quot;:&quot;30&quot;,&quot;CurrentTheme&quot;:&quot;theme-light&quot;},{&quot;Browser&quot;:&quot;firefox&quot;,&quot;ExtensionType&quot;:&quot;rewards&quot;,&quot;ExtensionUrl&quot;:&quot;https://browserdefaults.microsoft.com/extn/redirect/?xid=6&amp;br=mf&amp;channel=uhf&amp;pc=U564&quot;,&quot;BackgroundColorDarkTheme&quot;:&quot;b-blue&quot;,&quot;LogoUrlDarkTheme&quot;:&quot;https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4mFZT?ver=7321&quot;,&quot;ActionLinkBackgroundColorDarkTheme&quot;:&quot;btn-white&quot;,&quot;BackgroundColorLightTheme&quot;:&quot;b-white&quot;,&quot;LogoUrlLightTheme&quot;:&quot;https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4mDoE?ver=3feb&quot;,&quot;ActionLinkBackgroundColorLightTheme&quot;:&quot;btn-blue&quot;,&quot;Title&quot;:&quot;Maximize your points with the Microsoft Rewards extension&quot;,&quot;Paragraph&quot;:&quot;Quick access to your daily points and offers&quot;,&quot;ActionLinkText&quot;:&quot;Add it now&quot;,&quot;ActionLinkAriaLabel&quot;:&quot;Add it now&quot;,&quot;DismissText&quot;:&quot;No thanks&quot;,&quot;DismissAriaLabel&quot;:&quot;No thanks&quot;,&quot;CookieExpiration&quot;:&quot;30&quot;,&quot;CurrentTheme&quot;:&quot;theme-light&quot;}]" data-pb-g="true">
-		<div>
-			<div class="c-paragraph">
-				<img alt="" data-src="" src="https://www.microsoft.com/en-us" class="f-img-lzy">
-				<span class="c-text-group pb-content">
-					<span class="epb-launch pb-content-heading"></span>
-					<span class="epb-text pb-content-text"></span>
-				</span>
-			</div>
-			<span class="c-group">
-				<button id="close-epb" class="c-action-trigger c-action-cancel glyph-cancel" data-m="{&quot;cN&quot;:&quot;PB-dismiss_nonnav&quot;,&quot;id&quot;:&quot;nn1c1c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c1c1m1r1a1&quot;}"></button>
-				<a id="epbTryNow" href="https://www.microsoft.com/en-us" target="_blank" class="epb-launch c-action-trigger c-action-open" data-m="{&quot;cN&quot;:&quot;PB-launch_nav&quot;,&quot;id&quot;:&quot;n2c1c1m1r1a1&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c1c1m1r1a1&quot;}"></a>
-			</span>
-		</div>
-	</div>
 
 
 
 
 
-                            
-                        </div>
-
-                        <div data-m="{&quot;cN&quot;:&quot;cookiebanner_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c2c1m1r1a1&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c1m1r1a1&quot;}">
-
-<div id="uhfCookieAlert" data-locale="en-us">
-    <div id="msccBannerV2"></div>
-</div>
-
-                            
-                        </div>
+        <a id="uhfSkipToMain" class="m-skip-to-main" href="javascript:void(0)" data-href="#primaryArea" tabindex="0" data-m='{"cN":"Skip to content_nonnav","id":"nn1m1r1a1","sN":1,"aN":"m1r1a1"}'>跳转至主内容</a>
 
 
-
-
-        <a id="uhfSkipToMain" class="m-skip-to-main" href="javascript:void(0)" data-href="#primaryArea" tabindex="0" data-m="{&quot;cN&quot;:&quot;Skip to content_nonnav&quot;,&quot;id&quot;:&quot;nn3c1m1r1a1&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c1m1r1a1&quot;}">Skip to main content</a>
-
-
-<header class="c-uhfh context-uhf no-js c-sgl-stck " itemscope="itemscope" data-header-footprint="/mshomepage/mshomepageheader, fromService: True" data-magict="true" itemtype="http://schema.org/Organization">
-    <div class="theme-light js-global-head f-closed  global-head-cont" data-m="{&quot;cN&quot;:&quot;Universal Header_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c4c1m1r1a1&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c1m1r1a1&quot;}">
+<header class="c-uhfh context-uhf no-js c-sgl-stck c-category-header " itemscope="itemscope" data-header-footprint="/Windows/windows-header-holiday-RT, fromService: True"   data-magict="true"   itemtype="http://schema.org/Organization">
+    <div class="theme-light js-global-head f-closed  global-head-cont" data-m='{"cN":"Universal Header_cont","cT":"Container","id":"c2m1r1a1","sN":2,"aN":"m1r1a1"}'>
         <div class="c-uhfh-gcontainer-st">
-            <button type="button" class="c-action-trigger c-glyph glyph-global-nav-button" aria-label="All Microsoft expand to see list of Microsoft products and services" initialstate-label="All Microsoft expand to see list of Microsoft products and services" togglestate-label="Close All Microsoft list" aria-expanded="false" data-m="{&quot;cN&quot;:&quot;Mobile menu button_nonnav&quot;,&quot;id&quot;:&quot;nn1c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c4c1m1r1a1&quot;}"></button>
-            <button type="button" class="c-action-trigger c-glyph glyph-arrow-htmllegacy c-close-search" aria-label="Close search" aria-expanded="false" data-m="{&quot;cN&quot;:&quot;Close Search_nonnav&quot;,&quot;id&quot;:&quot;nn2c4c1m1r1a1&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c4c1m1r1a1&quot;}"></button>
-                    <a id="uhfLogo" class="c-logo c-sgl-stk-uhfLogo" itemprop="url" href="https://www.microsoft.com/" aria-label="Microsoft" data-m="{&quot;cN&quot;:&quot;GlobalNav_Logo_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c3c4c1m1r1a1&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c4c1m1r1a1&quot;}">
-                        <img alt="" itemprop="logo" class="c-image" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/RE1Mu3b" role="presentation" aria-hidden="true">
+            <button type="button" class="c-action-trigger c-glyph glyph-global-nav-button" aria-label="All Microsoft expand to see list of Microsoft products and services" initialState-label="All Microsoft expand to see list of Microsoft products and services" toggleState-label="Close All Microsoft list" aria-expanded="false" data-m='{"cN":"Mobile menu button_nonnav","id":"nn1c2m1r1a1","sN":1,"aN":"c2m1r1a1"}'></button>
+            <button type="button" class="c-action-trigger c-glyph glyph-arrow-htmllegacy c-close-search" aria-label="关闭搜索" aria-expanded="false" data-m='{"cN":"Close Search_nonnav","id":"nn2c2m1r1a1","sN":2,"aN":"c2m1r1a1"}'></button>
+                    <a id="uhfLogo" class="c-logo c-sgl-stk-uhfLogo" itemprop="url" href="https://www.microsoft.com" aria-label="Microsoft" data-m='{"cN":"GlobalNav_Logo_cont","cT":"Container","id":"c3c2m1r1a1","sN":3,"aN":"c2m1r1a1"}'>
+                        <img alt="" itemprop="logo" class="c-image" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" role="presentation" aria-hidden="true" />
                         <span itemprop="name" role="presentation" aria-hidden="true">Microsoft</span>
                     </a>
             <div class="f-mobile-title">
-                <button type="button" class="c-action-trigger c-glyph glyph-chevron-left" aria-label="See more menu options" data-m="{&quot;cN&quot;:&quot;Mobile back button_nonnav&quot;,&quot;id&quot;:&quot;nn4c4c1m1r1a1&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c4c1m1r1a1&quot;}"></button>
-                <span data-global-title="Microsoft home" class="js-mobile-title"></span>
-                <button type="button" class="c-action-trigger c-glyph glyph-chevron-right" aria-label="See more menu options" data-m="{&quot;cN&quot;:&quot;Mobile forward button_nonnav&quot;,&quot;id&quot;:&quot;nn5c4c1m1r1a1&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c4c1m1r1a1&quot;}"></button>
+                <button type="button" class="c-action-trigger c-glyph glyph-chevron-left" aria-label="查看更多菜单选项" data-m='{"cN":"Mobile back button_nonnav","id":"nn4c2m1r1a1","sN":4,"aN":"c2m1r1a1"}'></button>
+                <span data-global-title="Microsoft 主页" class="js-mobile-title">Windows</span>
+                <button type="button" class="c-action-trigger c-glyph glyph-chevron-right" aria-label="查看更多菜单选项" data-m='{"cN":"Mobile forward button_nonnav","id":"nn5c2m1r1a1","sN":5,"aN":"c2m1r1a1"}'></button>
             </div>
+                    <div class="c-show-pipe x-hidden-vp-mobile-st">
+                        <a id="uhfCatLogo" class="c-logo c-cat-logo" href="https://www.microsoft.com/zh-cn/windows" aria-label="Windows" itemprop="url" data-m='{"cN":"CatNav_Windows_nav","id":"n6c2m1r1a1","sN":6,"aN":"c2m1r1a1"}'>
+                                <span>DowsWin</span>
+                        </a>
+                    </div>
+                <div class="cat-logo-button-cont x-hidden">
+                        <button type="button" id="uhfCatLogoButton" class="c-cat-logo-button x-hidden" aria-expanded="false" aria-label="Windows" data-m='{"cN":"Windows_nonnav","id":"nn7c2m1r1a1","sN":7,"aN":"c2m1r1a1"}'>
+                            DowsWin
+                        </button>
+                </div>
 
 
 
-                    <nav id="uhf-g-nav" aria-label="Contextual menu" class="c-uhfh-gnav" data-m="{&quot;cN&quot;:&quot;Category nav_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c6c4c1m1r1a1&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c4c1m1r1a1&quot;}">
+                    <nav id="uhf-g-nav" aria-label="上下文菜单" class="c-uhfh-gnav" data-m='{"cN":"Category nav_cont","cT":"Container","id":"c8c2m1r1a1","sN":8,"aN":"c2m1r1a1"}'>
             <ul class="js-paddle-items">
-                                        <li class="single-link js-nav-menu uhf-menu-item">
-                            <a id="shellmenu_0" class="c-uhf-nav-link" href="https://www.microsoft.com/microsoft-365" data-m="{&quot;cN&quot;:&quot;CatNav_M365_nav&quot;,&quot;id&quot;:&quot;n1c6c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c6c4c1m1r1a1&quot;}">Microsoft 365</a>
-                        </li>
-                        <li class="single-link js-nav-menu uhf-menu-item">
-                            <a id="l0_Teams" class="c-uhf-nav-link" href="https://www.microsoft.com/microsoft-teams/group-chat-software" data-m="{&quot;cN&quot;:&quot;CatNav_Teams_nav&quot;,&quot;id&quot;:&quot;n2c6c4c1m1r1a1&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c6c4c1m1r1a1&quot;}">Teams</a>
-                        </li>
-                        <li class="single-link js-nav-menu uhf-menu-item">
-                            <a id="shellmenu_2" class="c-uhf-nav-link" href="https://www.microsoft.com/en-us/windows/" data-m="{&quot;cN&quot;:&quot;CatNav_Windows_nav&quot;,&quot;id&quot;:&quot;n3c6c4c1m1r1a1&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c6c4c1m1r1a1&quot;}">Windows</a>
-                        </li>
-                        <li class="single-link js-nav-menu uhf-menu-item">
-                            <a id="shellmenu_3" class="c-uhf-nav-link" href="https://www.microsoft.com/surface" data-m="{&quot;cN&quot;:&quot;CatNav_Surface_nav&quot;,&quot;id&quot;:&quot;n4c6c4c1m1r1a1&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c6c4c1m1r1a1&quot;}">Surface</a>
-                        </li>
-                        <li class="single-link js-nav-menu uhf-menu-item">
-                            <a id="shellmenu_4" class="c-uhf-nav-link" href="https://www.xbox.com/" data-m="{&quot;cN&quot;:&quot;CatNav_Xbox_nav&quot;,&quot;id&quot;:&quot;n5c6c4c1m1r1a1&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c6c4c1m1r1a1&quot;}">Xbox</a>
-                        </li>
-                        <li class="single-link js-nav-menu uhf-menu-item">
-                            <a id="shellmenu_5" class="c-uhf-nav-link" href="https://www.microsoft.com/en-us/store/b/sale?icid=gm_nav_L0_salepage" data-m="{&quot;cN&quot;:&quot;CatNav_Deals_nav&quot;,&quot;id&quot;:&quot;n6c6c4c1m1r1a1&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c6c4c1m1r1a1&quot;}">Deals</a>
-                        </li>
-                        <li class="single-link js-nav-menu uhf-menu-item">
-                            <a id="l0_SmallBusiness" class="c-uhf-nav-link" href="https://www.microsoft.com/en-us/store/b/business" data-m="{&quot;cN&quot;:&quot;CatNav_Small Business_nav&quot;,&quot;id&quot;:&quot;n7c6c4c1m1r1a1&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c6c4c1m1r1a1&quot;}">Small Business</a>
-                        </li>
-                        <li class="single-link js-nav-menu uhf-menu-item">
-                            <a id="l1_support" class="c-uhf-nav-link" href="https://support.microsoft.com/en-us" data-m="{&quot;cN&quot;:&quot;CatNav_Support_nav&quot;,&quot;id&quot;:&quot;n8c6c4c1m1r1a1&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c6c4c1m1r1a1&quot;}">Support</a>
+                    <li class="single-link js-nav-menu x-hidden-none-mobile-vp uhf-menu-item">
+                        <a class="c-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows" data-m='{"cN":"CatNav_主页_nav","id":"n1c8c2m1r1a1","sN":1,"aN":"c8c2m1r1a1"}' > 主页 </a>
+                    </li>
+                                        <li class="nested-menu uhf-menu-item">
+                            <div class="c-uhf-menu js-nav-menu">
+                                <button type="button" id="c-shellmenu_43"  aria-expanded="false" data-m='{"cN":"CatNav_AboutWindows11_nonnav","id":"nn2c8c2m1r1a1","sN":2,"aN":"c8c2m1r1a1"}'>关于 DowsWin</button>
+
+                                <ul class="" data-class-idn="" aria-hidden="true" data-m='{"cN":"AboutWindows11_cont","cT":"Container","id":"c3c8c2m1r1a1","sN":3,"aN":"c8c2m1r1a1"}'>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Windows11_cont","cT":"Container","id":"c1c3c8c2m1r1a1","sN":1,"aN":"c3c8c2m1r1a1"}'>
+            <a id="c-shellmenu_44" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/windows-11" data-m='{"cN":"CatNav_Windows11_nav","id":"n1c1c3c8c2m1r1a1","sN":1,"aN":"c1c3c8c2m1r1a1"}'>认识 DowsWin 11</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"CompareWindows11_cont","cT":"Container","id":"c2c3c8c2m1r1a1","sN":2,"aN":"c3c8c2m1r1a1"}'>
+            <a id="c-shellmenu_45" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/compare-windows-11-home-vs-pro-versions" data-m='{"cN":"CatNav_CompareWindows11_nav","id":"n1c2c3c8c2m1r1a1","sN":1,"aN":"c2c3c8c2m1r1a1"}'>比较 Windows 10 与 11</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Windows11Security_cont","cT":"Container","id":"c3c3c8c2m1r1a1","sN":3,"aN":"c3c8c2m1r1a1"}'>
+            <a id="c-shellmenu_46" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/comprehensive-security" data-m='{"cN":"CatNav_Windows11Security_nav","id":"n1c3c3c8c2m1r1a1","sN":1,"aN":"c3c3c8c2m1r1a1"}'>Windows 11 安全性</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Windows11Apps_cont","cT":"Container","id":"c4c3c8c2m1r1a1","sN":4,"aN":"c3c8c2m1r1a1"}'>
+            <a id="c-shellmenu_47" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/windows-11-apps" data-m='{"cN":"CatNav_Windows11Apps_nav","id":"n1c4c3c8c2m1r1a1","sN":1,"aN":"c4c3c8c2m1r1a1"}'>应用</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"PCGaming_cont","cT":"Container","id":"c5c3c8c2m1r1a1","sN":5,"aN":"c3c8c2m1r1a1"}'>
+            <a id="c-shellmenu_48" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/windows-11-pc-gaming" data-m='{"cN":"CatNav_PCGaming_nav","id":"n1c5c3c8c2m1r1a1","sN":1,"aN":"c5c3c8c2m1r1a1"}'>游戏</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"AccessibilityFeatures_cont","cT":"Container","id":"c6c3c8c2m1r1a1","sN":6,"aN":"c3c8c2m1r1a1"}'>
+            <a id="c-shellmenu_49" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/accessibility-features" data-m='{"cN":"CatNav_AccessibilityFeatures_nav","id":"n1c6c3c8c2m1r1a1","sN":1,"aN":"c6c3c8c2m1r1a1"}'>Windows 辅助功能</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"TipsAndTricks_cont","cT":"Container","id":"c7c3c8c2m1r1a1","sN":7,"aN":"c3c8c2m1r1a1"}'>
+            <a id="c-shellmenu_50" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/features" data-m='{"cN":"CatNav_TipsAndTricks_nav","id":"n1c7c3c8c2m1r1a1","sN":1,"aN":"c7c3c8c2m1r1a1"}'>提示与技巧</a>
+            
+        </li>
+                                                    
+                                </ul>
+                            </div>
+                        </li>                        <li class="nested-menu uhf-menu-item">
+                            <div class="c-uhf-menu js-nav-menu">
+                                <button type="button" id="c-shellmenu_51"  aria-expanded="false" data-m='{"cN":"CatNav_GetWindows11_nonnav","id":"nn4c8c2m1r1a1","sN":4,"aN":"c8c2m1r1a1"}'>获取 Windows</button>
+
+                                <ul class="" data-class-idn="" aria-hidden="true" data-m='{"cN":"GetWindows11_cont","cT":"Container","id":"c5c8c2m1r1a1","sN":5,"aN":"c8c2m1r1a1"}'>
+        <li class="js-nav-menu single-link" data-m='{"cN":"HowToGetWindows11_cont","cT":"Container","id":"c1c5c8c2m1r1a1","sN":1,"aN":"c5c8c2m1r1a1"}'>
+            <a id="c-shellmenu_52" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/get-windows-11" data-m='{"cN":"CatNav_HowToGetWindows11_nav","id":"n1c1c5c8c2m1r1a1","sN":1,"aN":"c1c5c8c2m1r1a1"}'>如何获取 Windows 11</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Win11Specs_cont","cT":"Container","id":"c2c5c8c2m1r1a1","sN":2,"aN":"c5c8c2m1r1a1"}'>
+            <a id="c-shellmenu_53" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/windows-11-specifications" data-m='{"cN":"CatNav_Win11Specs_nav","id":"n1c2c5c8c2m1r1a1","sN":1,"aN":"c2c5c8c2m1r1a1"}'>Windows 11 的规格和要求</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"FAQ_cont","cT":"Container","id":"c3c5c8c2m1r1a1","sN":3,"aN":"c5c8c2m1r1a1"}'>
+            <a id="c-shellmenu_54" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/get-windows-11#faq" data-m='{"cN":"CatNav_FAQ_nav","id":"n1c3c5c8c2m1r1a1","sN":1,"aN":"c3c5c8c2m1r1a1"}'>常见问题解答</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"GetWindowsHelpMeChoose_cont","cT":"Container","id":"c4c5c8c2m1r1a1","sN":4,"aN":"c5c8c2m1r1a1"}'>
+            <a id="c-shellmenu_55" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/help-me-choose" data-m='{"cN":"CatNav_GetWindowsHelpMeChoose_nav","id":"n1c4c5c8c2m1r1a1","sN":1,"aN":"c4c5c8c2m1r1a1"}'>帮我选择一款 PC</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"BuyWindows11Home_cont","cT":"Container","id":"c5c5c8c2m1r1a1","sN":5,"aN":"c5c8c2m1r1a1"}'>
+            <a id="c-shellmenu_56" class="js-subm-uhf-nav-link" href="https://www.microsoftstore.com.cn/windows/windows-11-home" data-m='{"cN":"CatNav_BuyWindows11Home_nav","id":"n1c5c5c8c2m1r1a1","sN":1,"aN":"c5c5c8c2m1r1a1"}'>购买 Windows 11 家庭版</a>
+            
+        </li>
+                                                    
+                                </ul>
+                            </div>
+                        </li>                        <li class="nested-menu uhf-menu-item">
+                            <div class="c-uhf-menu js-nav-menu">
+                                <button type="button" id="c-shellmenu_57"  aria-expanded="false" data-m='{"cN":"CatNav_ShopWindowsPCs_nonnav","id":"nn6c8c2m1r1a1","sN":6,"aN":"c8c2m1r1a1"}'>购买电脑</button>
+
+                                <ul class="" data-class-idn="" aria-hidden="true" data-m='{"cN":"ShopWindowsPCs_cont","cT":"Container","id":"c7c8c2m1r1a1","sN":7,"aN":"c8c2m1r1a1"}'>
+        <li class="js-nav-menu single-link" data-m='{"cN":"HelpMeChoose_cont","cT":"Container","id":"c1c7c8c2m1r1a1","sN":1,"aN":"c7c8c2m1r1a1"}'>
+            <a id="c-shellmenu_58" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/help-me-choose" data-m='{"cN":"CatNav_HelpMeChoose_nav","id":"n1c1c7c8c2m1r1a1","sN":1,"aN":"c1c7c8c2m1r1a1"}'>帮我选择一款 PC</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"LaptopsForUniversityStudents_cont","cT":"Container","id":"c2c7c8c2m1r1a1","sN":2,"aN":"c7c8c2m1r1a1"}'>
+            <a id="c-shellmenu_59" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/laptops-for-university-students" data-m='{"cN":"CatNav_LaptopsForUniversityStudents_nav","id":"n1c2c7c8c2m1r1a1","sN":1,"aN":"c2c7c8c2m1r1a1"}'>适合大学生的笔记本电脑</a>
+            
+        </li>
+                                                    
+                                </ul>
+                            </div>
+                        </li>                        <li class="nested-menu uhf-menu-item">
+                            <div class="c-uhf-menu js-nav-menu">
+                                <button type="button" id="c-shellmenu_60"  aria-expanded="false" data-m='{"cN":"CatNav_GetHelp_nonnav","id":"nn8c8c2m1r1a1","sN":8,"aN":"c8c2m1r1a1"}'>获得帮助</button>
+
+                                <ul class="" data-class-idn="" aria-hidden="true" data-m='{"cN":"GetHelp_cont","cT":"Container","id":"c9c8c2m1r1a1","sN":9,"aN":"c8c2m1r1a1"}'>
+        <li class="js-nav-menu single-link" data-m='{"cN":"WindowsHelpNSupport_cont","cT":"Container","id":"c1c9c8c2m1r1a1","sN":1,"aN":"c9c8c2m1r1a1"}'>
+            <a id="c-shellmenu_61" class="js-subm-uhf-nav-link" href="https://support.microsoft.com/windows" data-m='{"cN":"CatNav_WindowsHelpNSupport_nav","id":"n1c1c9c8c2m1r1a1","sN":1,"aN":"c1c9c8c2m1r1a1"}'>Windows 帮助和支持</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"WinEOS_cont","cT":"Container","id":"c2c9c8c2m1r1a1","sN":2,"aN":"c9c8c2m1r1a1"}'>
+            <a id="c-shellmenu_62" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/end-of-support" data-m='{"cN":"CatNav_WinEOS_nav","id":"n1c2c9c8c2m1r1a1","sN":1,"aN":"c2c9c8c2m1r1a1"}'>停止支持先前版本</a>
+            
+        </li>
+                                                    
+                                </ul>
+                            </div>
+                        </li>                        <li class="single-link js-nav-menu uhf-menu-item">
+                            <a id="c-shellmenu_63" class="c-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/business" data-m='{"cN":"CatNav_windowsforbusiness_nav","id":"n10c8c2m1r1a1","sN":10,"aN":"c8c2m1r1a1"}'>商业用途</a>
                         </li>
 
 
                 <li id="overflow-menu" class="overflow-menu x-hidden uhf-menu-item">
                         <div class="c-uhf-menu js-nav-menu">
-        <button data-m="{&quot;pid&quot;:&quot;More&quot;,&quot;id&quot;:&quot;nn9c6c4c1m1r1a1&quot;,&quot;sN&quot;:9,&quot;aN&quot;:&quot;c6c4c1m1r1a1&quot;}" type="button" aria-label="More" aria-expanded="false">More</button>
+        <button data-m='{"pid":"更多","id":"nn11c8c2m1r1a1","sN":11,"aN":"c8c2m1r1a1"}' type="button" aria-label="更多" aria-expanded="false">更多</button>
         <ul id="overflow-menu-list" aria-hidden="true" class="overflow-menu-list">
         </ul>
     </div>
@@ -540,269 +216,215 @@
         </nav>
 
 
-            <div class="c-uhfh-actions" data-m="{&quot;cN&quot;:&quot;Header actions_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c7c4c1m1r1a1&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c4c1m1r1a1&quot;}">
-                <div class="wf-menu">        <nav id="uhf-c-nav" aria-label="All Microsoft menu" data-m="{&quot;cN&quot;:&quot;GlobalNav_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c7c4c1m1r1a1&quot;}">
+            <div class="c-uhfh-actions" data-m='{"cN":"Header actions_cont","cT":"Container","id":"c9c2m1r1a1","sN":9,"aN":"c2m1r1a1"}'>
+                <div class="wf-menu">        <nav id="uhf-c-nav" aria-label="所有 Microsoft 菜单" data-m='{"cN":"GlobalNav_cont","cT":"Container","id":"c1c9c2m1r1a1","sN":1,"aN":"c9c2m1r1a1"}'>
             <ul class="js-paddle-items">
                 <li>
                     <div class="c-uhf-menu js-nav-menu">
-                        <button type="button" class="c-button-logo all-ms-nav" aria-expanded="false" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_nonnav&quot;,&quot;id&quot;:&quot;nn1c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c1c7c4c1m1r1a1&quot;}"> <span>All Microsoft</span></button>
-                        <ul class="f-multi-column f-multi-column-6" aria-hidden="true" data-m="{&quot;cN&quot;:&quot;More_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c1c7c4c1m1r1a1&quot;}">
-                                    <li class="c-w0-contr c-w0-contr-desktop-hidden">
+                        <button type="button" class="c-button-logo all-ms-nav" aria-expanded="false" data-m='{"cN":"GlobalNav_More_nonnav","id":"nn1c1c9c2m1r1a1","sN":1,"aN":"c1c9c2m1r1a1"}'> <span>所有 Microsoft</span></button>
+                        <ul class="f-multi-column f-multi-column-6" aria-hidden="true" data-m='{"cN":"More_cont","cT":"Container","id":"c2c1c9c2m1r1a1","sN":2,"aN":"c1c9c2m1r1a1"}'>
+                                    <li class="c-w0-contr">
             <h2 class="c-uhf-sronly">Global</h2>
             <ul class="c-w0">
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;M365_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c1c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_0-mo" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/microsoft-365" data-m="{&quot;cN&quot;:&quot;W0Nav_M365_nav&quot;,&quot;id&quot;:&quot;n1c1c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c1c2c1c7c4c1m1r1a1&quot;}">Microsoft 365</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"M365_cont","cT":"Container","id":"c1c2c1c9c2m1r1a1","sN":1,"aN":"c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_0" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/microsoft-365" data-m='{"cN":"W0Nav_M365_nav","id":"n1c1c2c1c9c2m1r1a1","sN":1,"aN":"c1c2c1c9c2m1r1a1"}'>Microsoft 365</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;Teams_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c2c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}">
-            <a id="l0_Teams-mo" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/microsoft-teams/group-chat-software" data-m="{&quot;cN&quot;:&quot;W0Nav_Teams_nav&quot;,&quot;id&quot;:&quot;n1c2c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c2c2c1c7c4c1m1r1a1&quot;}">Teams</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Teams_cont","cT":"Container","id":"c2c2c1c9c2m1r1a1","sN":2,"aN":"c2c1c9c2m1r1a1"}'>
+            <a id="l0_Teams" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/microsoft-teams/group-chat-software" data-m='{"cN":"W0Nav_Teams_nav","id":"n1c2c2c1c9c2m1r1a1","sN":1,"aN":"c2c2c1c9c2m1r1a1"}'>Teams</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;Windows_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c3c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_2-mo" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/windows/" data-m="{&quot;cN&quot;:&quot;W0Nav_Windows_nav&quot;,&quot;id&quot;:&quot;n1c3c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c3c2c1c7c4c1m1r1a1&quot;}">Windows</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Windows_cont","cT":"Container","id":"c3c2c1c9c2m1r1a1","sN":3,"aN":"c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_2" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/" data-m='{"cN":"W0Nav_Windows_nav","id":"n1c3c2c1c9c2m1r1a1","sN":1,"aN":"c3c2c1c9c2m1r1a1"}'>Windows</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;Surface_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c4c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_3-mo" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/surface" data-m="{&quot;cN&quot;:&quot;W0Nav_Surface_nav&quot;,&quot;id&quot;:&quot;n1c4c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c4c2c1c7c4c1m1r1a1&quot;}">Surface</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Surface_cont","cT":"Container","id":"c4c2c1c9c2m1r1a1","sN":4,"aN":"c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_3" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/surface" data-m='{"cN":"W0Nav_Surface_nav","id":"n1c4c2c1c9c2m1r1a1","sN":1,"aN":"c4c2c1c9c2m1r1a1"}'>Surface</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;Xbox_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c5c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_4-mo" class="js-subm-uhf-nav-link" href="https://www.xbox.com/" data-m="{&quot;cN&quot;:&quot;W0Nav_Xbox_nav&quot;,&quot;id&quot;:&quot;n1c5c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c5c2c1c7c4c1m1r1a1&quot;}">Xbox</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Xbox_cont","cT":"Container","id":"c5c2c1c9c2m1r1a1","sN":5,"aN":"c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_4" class="js-subm-uhf-nav-link" href="https://www.xbox.com/" data-m='{"cN":"W0Nav_Xbox_nav","id":"n1c5c2c1c9c2m1r1a1","sN":1,"aN":"c5c2c1c9c2m1r1a1"}'>Xbox</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;Deals_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c6c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_5-mo" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/b/sale?icid=gm_nav_L0_salepage" data-m="{&quot;cN&quot;:&quot;W0Nav_Deals_nav&quot;,&quot;id&quot;:&quot;n1c6c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c6c2c1c7c4c1m1r1a1&quot;}">Deals</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Deals_cont","cT":"Container","id":"c6c2c1c9c2m1r1a1","sN":6,"aN":"c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_5" class="js-subm-uhf-nav-link" href="https://www.microsoftstore.com.cn/promotion?WT.mc_id=msftcn_MSCOM_HP_DEALS_202103" data-m='{"cN":"W0Nav_Deals_nav","id":"n1c6c2c1c9c2m1r1a1","sN":1,"aN":"c6c2c1c9c2m1r1a1"}'>优惠</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;Small Business_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c7c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}">
-            <a id="l0_SmallBusiness-mo" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/b/business" data-m="{&quot;cN&quot;:&quot;W0Nav_Small Business_nav&quot;,&quot;id&quot;:&quot;n1c7c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c7c2c1c7c4c1m1r1a1&quot;}">Small Business</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Small Business_cont","cT":"Container","id":"c7c2c1c9c2m1r1a1","sN":7,"aN":"c2c1c9c2m1r1a1"}'>
+            <a id="l0_SmallBusiness" class="js-subm-uhf-nav-link" href="https://www.microsoftstore.com.cn/commercial?WT.mc_id=msftcn_MSCOM_UHF_SMB" data-m='{"cN":"W0Nav_Small Business_nav","id":"n1c7c2c1c9c2m1r1a1","sN":1,"aN":"c7c2c1c9c2m1r1a1"}'>小型企业</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;Support_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c8c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}">
-            <a id="l1_support-mo" class="js-subm-uhf-nav-link" href="https://support.microsoft.com/en-us" data-m="{&quot;cN&quot;:&quot;W0Nav_Support_nav&quot;,&quot;id&quot;:&quot;n1c8c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c8c2c1c7c4c1m1r1a1&quot;}">Support</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Support_cont","cT":"Container","id":"c8c2c1c9c2m1r1a1","sN":8,"aN":"c2c1c9c2m1r1a1"}'>
+            <a id="l1_support" class="js-subm-uhf-nav-link" href="https://support.microsoft.com/zh-cn" data-m='{"cN":"W0Nav_Support_nav","id":"n1c8c2c1c9c2m1r1a1","sN":1,"aN":"c8c2c1c9c2m1r1a1"}'>支持</a>
             
         </li>
             </ul>
         </li>
 
-<li class="f-sub-menu js-nav-menu nested-menu" data-m="{&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:9,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}">
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c9c2c1c9c2m1r1a1","sN":9,"aN":"c2c1c9c2m1r1a1"}'>
 
-    <span id="uhf-navspn-shellmenu_9-span" style="display:none" f-multi-parent="true" aria-expanded="false" data-m="{&quot;id&quot;:&quot;nn1c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c9c2c1c7c4c1m1r1a1&quot;}">Software</span>
-    <button id="uhf-navbtn-shellmenu_9-button" type="button" f-multi-parent="true" aria-expanded="false" data-m="{&quot;id&quot;:&quot;nn2c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c9c2c1c7c4c1m1r1a1&quot;}">Software</button>
+    <span id="uhf-navspn-shellmenu_9-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c9c2c1c9c2m1r1a1","sN":1,"aN":"c9c2c1c9c2m1r1a1"}'>软件</span>
+    <button id="uhf-navbtn-shellmenu_9-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c9c2c1c9c2m1r1a1","sN":2,"aN":"c9c2c1c9c2m1r1a1"}'>软件</button>
     <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_9-span">
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Software_WindowsApps_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c3c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c9c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_10" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/apps/windows?icid=CNavAppsWindowsApps" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Software_WindowsApps_nav&quot;,&quot;id&quot;:&quot;n1c3c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c3c9c2c1c7c4c1m1r1a1&quot;}">Windows Apps</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Software_WindowsApps_cont","cT":"Container","id":"c3c9c2c1c9c2m1r1a1","sN":3,"aN":"c9c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_10" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/store/apps/windows?icid=CNavAppsWindowsApps" data-m='{"cN":"GlobalNav_More_Software_WindowsApps_nav","id":"n1c3c9c2c1c9c2m1r1a1","sN":1,"aN":"c3c9c2c1c9c2m1r1a1"}'>Windows 应用</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Software_AI_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c4c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c9c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_11" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/ai" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Software_AI_nav&quot;,&quot;id&quot;:&quot;n1c4c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c4c9c2c1c7c4c1m1r1a1&quot;}">AI</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Software_AI_cont","cT":"Container","id":"c4c9c2c1c9c2m1r1a1","sN":4,"aN":"c9c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_11" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/ai" data-m='{"cN":"GlobalNav_More_Software_AI_nav","id":"n1c4c9c2c1c9c2m1r1a1","sN":1,"aN":"c4c9c2c1c9c2m1r1a1"}'>AI</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Software_Outlook_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c5c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c9c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_12" class="js-subm-uhf-nav-link" href="https://outlook.live.com/owa/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Software_Outlook_nav&quot;,&quot;id&quot;:&quot;n1c5c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c5c9c2c1c7c4c1m1r1a1&quot;}">Outlook</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Software_OneDrive_cont","cT":"Container","id":"c5c9c2c1c9c2m1r1a1","sN":5,"aN":"c9c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_12" class="js-subm-uhf-nav-link" href="https://onedrive.live.com/about/zh-CN/" data-m='{"cN":"GlobalNav_More_Software_OneDrive_nav","id":"n1c5c9c2c1c9c2m1r1a1","sN":1,"aN":"c5c9c2c1c9c2m1r1a1"}'>OneDrive</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Software_OneDrive_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c6c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c9c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_13" class="js-subm-uhf-nav-link" href="https://onedrive.live.com/about/en-us/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Software_OneDrive_nav&quot;,&quot;id&quot;:&quot;n1c6c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c6c9c2c1c7c4c1m1r1a1&quot;}">OneDrive</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Software_Outlook_cont","cT":"Container","id":"c6c9c2c1c9c2m1r1a1","sN":6,"aN":"c9c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_13" class="js-subm-uhf-nav-link" href="https://outlook.live.com/owa/" data-m='{"cN":"GlobalNav_More_Software_Outlook_nav","id":"n1c6c9c2c1c9c2m1r1a1","sN":1,"aN":"c6c9c2c1c9c2m1r1a1"}'>Outlook</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Software_Microsoft Teams_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c7c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c9c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_14" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/EN-US/microsoft-teams/group-chat-software" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Software_Microsoft Teams_nav&quot;,&quot;id&quot;:&quot;n1c7c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c7c9c2c1c7c4c1m1r1a1&quot;}">Microsoft Teams</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Software_Skype_cont","cT":"Container","id":"c7c9c2c1c9c2m1r1a1","sN":7,"aN":"c9c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_14" class="js-subm-uhf-nav-link" href="https://www.skype.com/zh-Hans/" data-m='{"cN":"GlobalNav_More_Software_Skype_nav","id":"n1c7c9c2c1c9c2m1r1a1","sN":1,"aN":"c7c9c2c1c9c2m1r1a1"}'>Skype</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Software_OneNote_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c8c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c9c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_15" class="js-subm-uhf-nav-link" href="https://www.onenote.com/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Software_OneNote_nav&quot;,&quot;id&quot;:&quot;n1c8c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c8c9c2c1c7c4c1m1r1a1&quot;}">OneNote</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Software_OneNote_cont","cT":"Container","id":"c8c9c2c1c9c2m1r1a1","sN":8,"aN":"c9c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_15" class="js-subm-uhf-nav-link" href="https://www.onenote.com/?omkt=zh-CN" data-m='{"cN":"GlobalNav_More_Software_OneNote_nav","id":"n1c8c9c2c1c9c2m1r1a1","sN":1,"aN":"c8c9c2c1c9c2m1r1a1"}'>OneNote</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Software_Edge_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c9c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:9,&quot;aN&quot;:&quot;c9c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_16" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/edge" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Software_Edge_nav&quot;,&quot;id&quot;:&quot;n1c9c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c9c9c2c1c7c4c1m1r1a1&quot;}">Microsoft Edge</a>
-            
-        </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Software_Skype_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c10c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:10,&quot;aN&quot;:&quot;c9c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_17" class="js-subm-uhf-nav-link" href="https://www.skype.com/en/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Software_Skype_nav&quot;,&quot;id&quot;:&quot;n1c10c9c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c10c9c2c1c7c4c1m1r1a1&quot;}">Skype</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Software_Microsoft Teams_cont","cT":"Container","id":"c9c9c2c1c9c2m1r1a1","sN":9,"aN":"c9c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_16" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/microsoft-teams/group-chat-software" data-m='{"cN":"GlobalNav_More_Software_Microsoft Teams_nav","id":"n1c9c9c2c1c9c2m1r1a1","sN":1,"aN":"c9c9c2c1c9c2m1r1a1"}'>Microsoft Teams</a>
             
         </li>
     </ul>
     
 </li>
-<li class="f-sub-menu js-nav-menu nested-menu" data-m="{&quot;cN&quot;:&quot;PCsAndDevices_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c10c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:10,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}">
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cN":"PCsAndDevices_cont","cT":"Container","id":"c10c2c1c9c2m1r1a1","sN":10,"aN":"c2c1c9c2m1r1a1"}'>
 
-    <span id="uhf-navspn-shellmenu_18-span" style="display:none" f-multi-parent="true" aria-expanded="false" data-m="{&quot;cN&quot;:&quot;GlobalNav_PCsAndDevices_nonnav&quot;,&quot;id&quot;:&quot;nn1c10c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c10c2c1c7c4c1m1r1a1&quot;}">PCs &amp; Devices  </span>
-    <button id="uhf-navbtn-shellmenu_18-button" type="button" f-multi-parent="true" aria-expanded="false" data-m="{&quot;cN&quot;:&quot;GlobalNav_PCsAndDevices_nonnav&quot;,&quot;id&quot;:&quot;nn2c10c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c10c2c1c7c4c1m1r1a1&quot;}">PCs &amp; Devices  </button>
-    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_18-span">
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_PCsAndDevices_PCsAndTablets_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c3c10c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c10c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_19" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/b/pc?icid=CNavDevicesPC" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_PCsAndDevices_PCsAndTablets_nav&quot;,&quot;id&quot;:&quot;n1c3c10c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c3c10c2c1c7c4c1m1r1a1&quot;}">Computers</a>
+    <span id="uhf-navspn-shellmenu_17-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"GlobalNav_PCsAndDevices_nonnav","id":"nn1c10c2c1c9c2m1r1a1","sN":1,"aN":"c10c2c1c9c2m1r1a1"}'>PC 和设备</span>
+    <button id="uhf-navbtn-shellmenu_17-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"GlobalNav_PCsAndDevices_nonnav","id":"nn2c10c2c1c9c2m1r1a1","sN":2,"aN":"c10c2c1c9c2m1r1a1"}'>PC 和设备</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_17-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_PCsAndDevices_ShopXbox_cont","cT":"Container","id":"c3c10c2c1c9c2m1r1a1","sN":3,"aN":"c10c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_18" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/store/b/xbox?icid=CNavDevicesXbox" data-m='{"cN":"GlobalNav_More_PCsAndDevices_ShopXbox_nav","id":"n1c3c10c2c1c9c2m1r1a1","sN":1,"aN":"c3c10c2c1c9c2m1r1a1"}'>购买 Xbox</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_PCsAndDevices_ShopXbox_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c4c10c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c10c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_20" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/b/xbox?icid=CNavDevicesXbox" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_PCsAndDevices_ShopXbox_nav&quot;,&quot;id&quot;:&quot;n1c4c10c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c4c10c2c1c7c4c1m1r1a1&quot;}">Shop Xbox</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_PCsAndDevices_PCsAndTablets_cont","cT":"Container","id":"c4c10c2c1c9c2m1r1a1","sN":4,"aN":"c10c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_19" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/windows/devices" data-m='{"cN":"GlobalNav_More_PCsAndDevices_PCsAndTablets_nav","id":"n1c4c10c2c1c9c2m1r1a1","sN":1,"aN":"c4c10c2c1c9c2m1r1a1"}'>PC 和平板电脑</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_PCsAndDevices_Accessories_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c5c10c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c10c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_21" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/b/accessories?icid=CNavDevicesAccessories" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_PCsAndDevices_Accessories_nav&quot;,&quot;id&quot;:&quot;n1c5c10c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c5c10c2c1c7c4c1m1r1a1&quot;}">Accessories</a>
-            
-        </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_PCsAndDevices_VMAndMixedReality_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c6c10c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c10c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_22" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/b/virtualreality?icid=CNavVirtualReality" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_PCsAndDevices_VMAndMixedReality_nav&quot;,&quot;id&quot;:&quot;n1c6c10c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c6c10c2c1c7c4c1m1r1a1&quot;}">VR &amp; mixed reality</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_PCsAndDevices_Accessories_cont","cT":"Container","id":"c5c10c2c1c9c2m1r1a1","sN":5,"aN":"c10c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_20" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/accessories/zh-cn" data-m='{"cN":"GlobalNav_More_PCsAndDevices_Accessories_nav","id":"n1c5c10c2c1c9c2m1r1a1","sN":1,"aN":"c5c10c2c1c9c2m1r1a1"}'>配件</a>
             
         </li>
     </ul>
     
 </li>
-<li class="f-sub-menu js-nav-menu nested-menu" data-m="{&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:11,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}">
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c11c2c1c9c2m1r1a1","sN":11,"aN":"c2c1c9c2m1r1a1"}'>
 
-    <span id="uhf-navspn-shellmenu_23-span" style="display:none" f-multi-parent="true" aria-expanded="false" data-m="{&quot;id&quot;:&quot;nn1c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c11c2c1c7c4c1m1r1a1&quot;}">Entertainment</span>
-    <button id="uhf-navbtn-shellmenu_23-button" type="button" f-multi-parent="true" aria-expanded="false" data-m="{&quot;id&quot;:&quot;nn2c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c11c2c1c7c4c1m1r1a1&quot;}">Entertainment</button>
-    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_23-span">
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Entertainment_XboxGamePassUltimate_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c3c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c11c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_24" class="js-subm-uhf-nav-link" href="https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?icid=CNavAllXboxGamePassUltimate" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Entertainment_XboxGamePassUltimate_nav&quot;,&quot;id&quot;:&quot;n1c3c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c3c11c2c1c7c4c1m1r1a1&quot;}">Xbox Game Pass Ultimate</a>
+    <span id="uhf-navspn-shellmenu_21-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c11c2c1c9c2m1r1a1","sN":1,"aN":"c11c2c1c9c2m1r1a1"}'>娱乐</span>
+    <button id="uhf-navbtn-shellmenu_21-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c11c2c1c9c2m1r1a1","sN":2,"aN":"c11c2c1c9c2m1r1a1"}'>娱乐</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_21-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Entertainment_XboxGames_cont","cT":"Container","id":"c3c11c2c1c9c2m1r1a1","sN":3,"aN":"c11c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_22" class="js-subm-uhf-nav-link" href="https://www.xbox.com/zh-cn/games/xbox-one?xr=shellnav" data-m='{"cN":"GlobalNav_More_Entertainment_XboxGames_nav","id":"n1c3c11c2c1c9c2m1r1a1","sN":1,"aN":"c3c11c2c1c9c2m1r1a1"}'>Xbox 与游戏</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Entertainment_PC_Game_Pass_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c4c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c11c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_25" class="js-subm-uhf-nav-link" href="https://www.xbox.com/en-us/games/store/pc-game-pass/cfq7ttc0kgq8?icid=CNavAllPCGamePass" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Entertainment_PC_Game_Pass_nav&quot;,&quot;id&quot;:&quot;n1c4c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c4c11c2c1c7c4c1m1r1a1&quot;}">PC Game Pass</a>
-            
-        </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Entertainment_XboxGames_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c5c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c11c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_26" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/b/xboxgames?icid=CNavGamesXboxGames" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Entertainment_XboxGames_nav&quot;,&quot;id&quot;:&quot;n1c5c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c5c11c2c1c7c4c1m1r1a1&quot;}">Xbox games</a>
-            
-        </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Entertainment_PCGames_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c6c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c11c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_27" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/games/windows?icid=CNavGamesWindowsGames" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Entertainment_PCGames_nav&quot;,&quot;id&quot;:&quot;n1c6c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c6c11c2c1c7c4c1m1r1a1&quot;}">PC games</a>
-            
-        </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Entertainment_WindowsDigitalGames_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c7c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c11c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_28" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/games/windows?icid=TopNavWindowsGames" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Entertainment_WindowsDigitalGames_nav&quot;,&quot;id&quot;:&quot;n1c7c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c7c11c2c1c7c4c1m1r1a1&quot;}">Windows digital games</a>
-            
-        </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Entertainment_MoviesAndTV_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c8c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c11c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_29" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/movies-and-tv?icid=TopNavMoviesTv" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Entertainment_MoviesAndTV_nav&quot;,&quot;id&quot;:&quot;n1c8c11c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c8c11c2c1c7c4c1m1r1a1&quot;}">Movies &amp; TV</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Entertainment_PCGames_cont","cT":"Container","id":"c4c11c2c1c9c2m1r1a1","sN":4,"aN":"c11c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_23" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/store/games/windows?icid=CNavGamesWindowsGames" data-m='{"cN":"GlobalNav_More_Entertainment_PCGames_nav","id":"n1c4c11c2c1c9c2m1r1a1","sN":1,"aN":"c4c11c2c1c9c2m1r1a1"}'>PC 游戏</a>
             
         </li>
     </ul>
     
 </li>
-<li class="f-sub-menu js-nav-menu nested-menu" data-m="{&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:12,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}">
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c12c2c1c9c2m1r1a1","sN":12,"aN":"c2c1c9c2m1r1a1"}'>
 
-    <span id="uhf-navspn-shellmenu_30-span" style="display:none" f-multi-parent="true" aria-expanded="false" data-m="{&quot;id&quot;:&quot;nn1c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c12c2c1c7c4c1m1r1a1&quot;}">Business</span>
-    <button id="uhf-navbtn-shellmenu_30-button" type="button" f-multi-parent="true" aria-expanded="false" data-m="{&quot;id&quot;:&quot;nn2c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c12c2c1c7c4c1m1r1a1&quot;}">Business</button>
-    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_30-span">
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Business_Microsoft_Cloud_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c3c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c12c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_31" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/microsoft-cloud" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Business_Microsoft_Cloud_nav&quot;,&quot;id&quot;:&quot;n1c3c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c3c12c2c1c7c4c1m1r1a1&quot;}">Microsoft Cloud</a>
+    <span id="uhf-navspn-shellmenu_24-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c12c2c1c9c2m1r1a1","sN":1,"aN":"c12c2c1c9c2m1r1a1"}'>企业
+</span>
+    <button id="uhf-navbtn-shellmenu_24-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c12c2c1c9c2m1r1a1","sN":2,"aN":"c12c2c1c9c2m1r1a1"}'>企业
+</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_24-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Business_Microsoft_Cloud_cont","cT":"Container","id":"c3c12c2c1c9c2m1r1a1","sN":3,"aN":"c12c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_25" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/microsoft-cloud" data-m='{"cN":"GlobalNav_More_Business_Microsoft_Cloud_nav","id":"n1c3c12c2c1c9c2m1r1a1","sN":1,"aN":"c3c12c2c1c9c2m1r1a1"}'>Microsoft Cloud</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Business_Microsoft Security_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c4c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c12c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_32" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/security" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Business_Microsoft Security_nav&quot;,&quot;id&quot;:&quot;n1c4c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c4c12c2c1c7c4c1m1r1a1&quot;}">Microsoft Security</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Business_Microsoft Security_cont","cT":"Container","id":"c4c12c2c1c9c2m1r1a1","sN":4,"aN":"c12c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_26" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/security" data-m='{"cN":"GlobalNav_More_Business_Microsoft Security_nav","id":"n1c4c12c2c1c9c2m1r1a1","sN":1,"aN":"c4c12c2c1c9c2m1r1a1"}'>Microsoft 安全</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Business_MicrosoftDynamics365_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c5c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c12c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_33" class="js-subm-uhf-nav-link" href="https://dynamics.microsoft.com/en-us/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Business_MicrosoftDynamics365_nav&quot;,&quot;id&quot;:&quot;n1c5c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c5c12c2c1c7c4c1m1r1a1&quot;}">Dynamics 365</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_DeveloperAndIT_Azure_cont","cT":"Container","id":"c5c12c2c1c9c2m1r1a1","sN":5,"aN":"c12c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_27" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/zh-cn/" data-m='{"cN":"GlobalNav_More_DeveloperAndIT_Azure_nav","id":"n1c5c12c2c1c9c2m1r1a1","sN":1,"aN":"c5c12c2c1c9c2m1r1a1"}'>Azure</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Business_Microsoft365forbusiness_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c6c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c12c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_34" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/microsoft-365/business" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Business_Microsoft365forbusiness_nav&quot;,&quot;id&quot;:&quot;n1c6c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c6c12c2c1c7c4c1m1r1a1&quot;}">Microsoft 365 for business</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Business_MicrosoftDynamics365_cont","cT":"Container","id":"c6c12c2c1c9c2m1r1a1","sN":6,"aN":"c12c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_28" class="js-subm-uhf-nav-link" href="https://dynamics.microsoft.com/zh-cn/" data-m='{"cN":"GlobalNav_More_Business_MicrosoftDynamics365_nav","id":"n1c6c12c2c1c9c2m1r1a1","sN":1,"aN":"c6c12c2c1c9c2m1r1a1"}'>Dynamics 365</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Business_MicrosoftPowerPlatform_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c7c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c12c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_35" class="js-subm-uhf-nav-link" href="https://powerplatform.microsoft.com/en-us/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Business_MicrosoftPowerPlatform_nav&quot;,&quot;id&quot;:&quot;n1c7c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c7c12c2c1c7c4c1m1r1a1&quot;}">Microsoft Power Platform</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Business_Microsoft365forbusiness_cont","cT":"Container","id":"c7c12c2c1c9c2m1r1a1","sN":7,"aN":"c12c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_29" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/microsoft-365/business" data-m='{"cN":"GlobalNav_More_Business_Microsoft365forbusiness_nav","id":"n1c7c12c2c1c9c2m1r1a1","sN":1,"aN":"c7c12c2c1c9c2m1r1a1"}'>Microsoft 365 商业版</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Business_Windows365_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c8c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c12c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_36" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/windows-365" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Business_Windows365_nav&quot;,&quot;id&quot;:&quot;n1c8c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c8c12c2c1c7c4c1m1r1a1&quot;}">Windows 365</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Business_MicrosoftIndustry_cont","cT":"Container","id":"c8c12c2c1c9c2m1r1a1","sN":8,"aN":"c12c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_30" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/industry" data-m='{"cN":"GlobalNav_More_Business_MicrosoftIndustry_nav","id":"n1c8c12c2c1c9c2m1r1a1","sN":1,"aN":"c8c12c2c1c9c2m1r1a1"}'>Microsoft 行业</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Business_MicrosoftIndustry_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c9c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:9,&quot;aN&quot;:&quot;c12c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_37" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Business_MicrosoftIndustry_nav&quot;,&quot;id&quot;:&quot;n1c9c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c9c12c2c1c7c4c1m1r1a1&quot;}">Microsoft Industry</a>
-            
-        </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Business_SmallBusiness_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c10c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:10,&quot;aN&quot;:&quot;c12c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_38" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/b/business?icid=CNavBusinessStore" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Business_SmallBusiness_nav&quot;,&quot;id&quot;:&quot;n1c10c12c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c10c12c2c1c7c4c1m1r1a1&quot;}">Small Business</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Business_MicrosoftPowerPlatform_cont","cT":"Container","id":"c9c12c2c1c9c2m1r1a1","sN":9,"aN":"c12c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_31" class="js-subm-uhf-nav-link" href="https://powerplatform.microsoft.com/zh-cn/" data-m='{"cN":"GlobalNav_More_Business_MicrosoftPowerPlatform_nav","id":"n1c9c12c2c1c9c2m1r1a1","sN":1,"aN":"c9c12c2c1c9c2m1r1a1"}'>Microsoft Power Platform</a>
             
         </li>
     </ul>
     
 </li>
-<li class="f-sub-menu js-nav-menu nested-menu" data-m="{&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:13,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}">
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c13c2c1c9c2m1r1a1","sN":13,"aN":"c2c1c9c2m1r1a1"}'>
 
-    <span id="uhf-navspn-shellmenu_39-span" style="display:none" f-multi-parent="true" aria-expanded="false" data-m="{&quot;id&quot;:&quot;nn1c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c13c2c1c7c4c1m1r1a1&quot;}">Developer &amp; IT  </span>
-    <button id="uhf-navbtn-shellmenu_39-button" type="button" f-multi-parent="true" aria-expanded="false" data-m="{&quot;id&quot;:&quot;nn2c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c13c2c1c7c4c1m1r1a1&quot;}">Developer &amp; IT  </button>
-    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_39-span">
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_DeveloperAndIT_Azure_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c3c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c13c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_40" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/en-us/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_DeveloperAndIT_Azure_nav&quot;,&quot;id&quot;:&quot;n1c3c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c3c13c2c1c7c4c1m1r1a1&quot;}">Azure</a>
+    <span id="uhf-navspn-shellmenu_32-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c13c2c1c9c2m1r1a1","sN":1,"aN":"c13c2c1c9c2m1r1a1"}'>开发人员与 IT</span>
+    <button id="uhf-navbtn-shellmenu_32-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c13c2c1c9c2m1r1a1","sN":2,"aN":"c13c2c1c9c2m1r1a1"}'>开发人员与 IT</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_32-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_DeveloperAndIT_DeveloperCenter_cont","cT":"Container","id":"c3c13c2c1c9c2m1r1a1","sN":3,"aN":"c13c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_33" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/zh-cn/" data-m='{"cN":"GlobalNav_More_DeveloperAndIT_DeveloperCenter_nav","id":"n1c3c13c2c1c9c2m1r1a1","sN":1,"aN":"c3c13c2c1c9c2m1r1a1"}'>开发人员中心</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_DeveloperAndIT_DeveloperCenter_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c4c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c13c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_41" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/en-us/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_DeveloperAndIT_DeveloperCenter_nav&quot;,&quot;id&quot;:&quot;n1c4c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c4c13c2c1c7c4c1m1r1a1&quot;}">Developer Center</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_DeveloperAndIT_Documentation_cont","cT":"Container","id":"c4c13c2c1c9c2m1r1a1","sN":4,"aN":"c13c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_34" class="js-subm-uhf-nav-link" href="https://learn.microsoft.com/docs/" data-m='{"cN":"GlobalNav_More_DeveloperAndIT_Documentation_nav","id":"n1c4c13c2c1c9c2m1r1a1","sN":1,"aN":"c4c13c2c1c9c2m1r1a1"}'>文档</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_DeveloperAndIT_Documentation_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c5c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c13c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_42" class="js-subm-uhf-nav-link" href="https://learn.microsoft.com/docs/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_DeveloperAndIT_Documentation_nav&quot;,&quot;id&quot;:&quot;n1c5c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c5c13c2c1c7c4c1m1r1a1&quot;}">Documentation</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_DeveloperAndIT_MicrosoftLearn_cont","cT":"Container","id":"c5c13c2c1c9c2m1r1a1","sN":5,"aN":"c13c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_35" class="js-subm-uhf-nav-link" href="https://learn.microsoft.com/" data-m='{"cN":"GlobalNav_More_DeveloperAndIT_MicrosoftLearn_nav","id":"n1c5c13c2c1c9c2m1r1a1","sN":1,"aN":"c5c13c2c1c9c2m1r1a1"}'>Microsoft Learn</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_DeveloperAndIT_MicrosoftLearn_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c6c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c13c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_43" class="js-subm-uhf-nav-link" href="https://learn.microsoft.com/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_DeveloperAndIT_MicrosoftLearn_nav&quot;,&quot;id&quot;:&quot;n1c6c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c6c13c2c1c7c4c1m1r1a1&quot;}">Microsoft Learn</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_DeveloperAndIT_MicrosoftTechCommunity_cont","cT":"Container","id":"c6c13c2c1c9c2m1r1a1","sN":6,"aN":"c13c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_36" class="js-subm-uhf-nav-link" href="https://techcommunity.microsoft.com/" data-m='{"cN":"GlobalNav_More_DeveloperAndIT_MicrosoftTechCommunity_nav","id":"n1c6c13c2c1c9c2m1r1a1","sN":1,"aN":"c6c13c2c1c9c2m1r1a1"}'>Microsoft 技术社区</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_DeveloperAndIT_MicrosoftTechCommunity_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c7c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c13c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_44" class="js-subm-uhf-nav-link" href="https://techcommunity.microsoft.com/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_DeveloperAndIT_MicrosoftTechCommunity_nav&quot;,&quot;id&quot;:&quot;n1c7c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c7c13c2c1c7c4c1m1r1a1&quot;}">Microsoft Tech Community</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_DeveloperAndIT_AzureMarketplace_cont","cT":"Container","id":"c7c13c2c1c9c2m1r1a1","sN":7,"aN":"c13c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_37" class="js-subm-uhf-nav-link" href="https://azuremarketplace.microsoft.com/zh-cn/" data-m='{"cN":"GlobalNav_More_DeveloperAndIT_AzureMarketplace_nav","id":"n1c7c13c2c1c9c2m1r1a1","sN":1,"aN":"c7c13c2c1c9c2m1r1a1"}'>Azure 市场</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_DeveloperAndIT_AzureMarketplace_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c8c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c13c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_45" class="js-subm-uhf-nav-link" href="https://azuremarketplace.microsoft.com/en-us/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_DeveloperAndIT_AzureMarketplace_nav&quot;,&quot;id&quot;:&quot;n1c8c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c8c13c2c1c7c4c1m1r1a1&quot;}">Azure Marketplace</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_DeveloperAndIT_AppSource_cont","cT":"Container","id":"c8c13c2c1c9c2m1r1a1","sN":8,"aN":"c13c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_38" class="js-subm-uhf-nav-link" href="https://appsource.microsoft.com/zh-cn/" data-m='{"cN":"GlobalNav_More_DeveloperAndIT_AppSource_nav","id":"n1c8c13c2c1c9c2m1r1a1","sN":1,"aN":"c8c13c2c1c9c2m1r1a1"}'>AppSource</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_DeveloperAndIT_AppSource_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c9c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:9,&quot;aN&quot;:&quot;c13c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_46" class="js-subm-uhf-nav-link" href="https://appsource.microsoft.com/en-us/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_DeveloperAndIT_AppSource_nav&quot;,&quot;id&quot;:&quot;n1c9c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c9c13c2c1c7c4c1m1r1a1&quot;}">AppSource</a>
-            
-        </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_DeveloperAndIT_VisualStudio_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c10c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:10,&quot;aN&quot;:&quot;c13c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_47" class="js-subm-uhf-nav-link" href="https://visualstudio.microsoft.com/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_DeveloperAndIT_VisualStudio_nav&quot;,&quot;id&quot;:&quot;n1c10c13c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c10c13c2c1c7c4c1m1r1a1&quot;}">Visual Studio</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_DeveloperAndIT_VisualStudio_cont","cT":"Container","id":"c9c13c2c1c9c2m1r1a1","sN":9,"aN":"c13c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_39" class="js-subm-uhf-nav-link" href="https://visualstudio.microsoft.com/" data-m='{"cN":"GlobalNav_More_DeveloperAndIT_VisualStudio_nav","id":"n1c9c13c2c1c9c2m1r1a1","sN":1,"aN":"c9c13c2c1c9c2m1r1a1"}'>Visual Studio</a>
             
         </li>
     </ul>
     
 </li>
-<li class="f-sub-menu js-nav-menu nested-menu" data-m="{&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:14,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}">
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c14c2c1c9c2m1r1a1","sN":14,"aN":"c2c1c9c2m1r1a1"}'>
 
-    <span id="uhf-navspn-shellmenu_48-span" style="display:none" f-multi-parent="true" aria-expanded="false" data-m="{&quot;id&quot;:&quot;nn1c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c14c2c1c7c4c1m1r1a1&quot;}">Other</span>
-    <button id="uhf-navbtn-shellmenu_48-button" type="button" f-multi-parent="true" aria-expanded="false" data-m="{&quot;id&quot;:&quot;nn2c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c14c2c1c7c4c1m1r1a1&quot;}">Other</button>
-    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_48-span">
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Other_Microsoft Rewards_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c3c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c14c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_49" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/rewards" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Other_Microsoft Rewards_nav&quot;,&quot;id&quot;:&quot;n1c3c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c3c14c2c1c7c4c1m1r1a1&quot;}">Microsoft Rewards </a>
+    <span id="uhf-navspn-shellmenu_40-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c14c2c1c9c2m1r1a1","sN":1,"aN":"c14c2c1c9c2m1r1a1"}'>其他</span>
+    <button id="uhf-navbtn-shellmenu_40-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c14c2c1c9c2m1r1a1","sN":2,"aN":"c14c2c1c9c2m1r1a1"}'>其他</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_40-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Other_FreeDownloadsAndSecurity_cont","cT":"Container","id":"c3c14c2c1c9c2m1r1a1","sN":3,"aN":"c14c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_41" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/download/default.aspx" data-m='{"cN":"GlobalNav_More_Other_FreeDownloadsAndSecurity_nav","id":"n1c3c14c2c1c9c2m1r1a1","sN":1,"aN":"c3c14c2c1c9c2m1r1a1"}'>免费下载与安全性</a>
             
         </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Other_FreeDownloadsAndSecurity_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c4c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c14c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_50" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/download" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Other_FreeDownloadsAndSecurity_nav&quot;,&quot;id&quot;:&quot;n1c4c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c4c14c2c1c7c4c1m1r1a1&quot;}">Free downloads &amp; security</a>
-            
-        </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Other_Education_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c5c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c14c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_51" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/education" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Other_Education_nav&quot;,&quot;id&quot;:&quot;n1c5c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c5c14c2c1c7c4c1m1r1a1&quot;}">Education</a>
-            
-        </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Other_Store_Locations_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c6c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c14c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_52" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/b/microsoft-trade-in" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Other_Store_Locations_nav&quot;,&quot;id&quot;:&quot;n1c6c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c6c14c2c1c7c4c1m1r1a1&quot;}">Trade-in for Cash</a>
-            
-        </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Other_GiftCards_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c7c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c14c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_53" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/b/gift-cards" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Other_GiftCards_nav&quot;,&quot;id&quot;:&quot;n1c7c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c7c14c2c1c7c4c1m1r1a1&quot;}">Gift cards</a>
-            
-        </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Other_Students_Parents_deals_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c8c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c14c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_54" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-US/store/b/education" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Other_Students_Parents_deals_nav&quot;,&quot;id&quot;:&quot;n1c8c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c8c14c2c1c7c4c1m1r1a1&quot;}">Students and parents deals</a>
-            
-        </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Other_Licensing_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c9c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:9,&quot;aN&quot;:&quot;c14c2c1c7c4c1m1r1a1&quot;}">
-            <a id="Licensing" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/licensing/" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Other_Licensing_nav&quot;,&quot;id&quot;:&quot;n1c9c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c9c14c2c1c7c4c1m1r1a1&quot;}">Licensing</a>
-            
-        </li>
-        <li class="js-nav-menu single-link" data-m="{&quot;cN&quot;:&quot;More_Other_Microsoft_Experience_Center_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c10c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:10,&quot;aN&quot;:&quot;c14c2c1c7c4c1m1r1a1&quot;}">
-            <a id="shellmenu_56" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/store/locations/ny/new-york/fifth-avenue-/store-1087?ICID=uhf_h_mec" data-m="{&quot;cN&quot;:&quot;GlobalNav_More_Other_Microsoft_Experience_Center_nav&quot;,&quot;id&quot;:&quot;n1c10c14c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c10c14c2c1c7c4c1m1r1a1&quot;}">Microsoft Experience Center</a>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Other_Education_cont","cT":"Container","id":"c4c14c2c1c9c2m1r1a1","sN":4,"aN":"c14c2c1c9c2m1r1a1"}'>
+            <a id="shellmenu_42" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/zh-cn/education?icid=CNavMSCOML0_Studentsandeducation" data-m='{"cN":"GlobalNav_More_Other_Education_nav","id":"n1c4c14c2c1c9c2m1r1a1","sN":1,"aN":"c4c14c2c1c9c2m1r1a1"}'>教育</a>
             
         </li>
     </ul>
     
 </li>
                                                             <li class="f-multi-column-info">
-                                    <a data-m="{&quot;id&quot;:&quot;n15c2c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:15,&quot;aN&quot;:&quot;c2c1c7c4c1m1r1a1&quot;}" href="https://www.microsoft.com/en-us/sitemap.aspx" aria-label="" class="c-glyph">View Sitemap</a>
+                                    <a data-m='{"id":"n15c2c1c9c2m1r1a1","sN":15,"aN":"c2c1c9c2m1r1a1"}' href="https://www.microsoft.com/zh-cn/sitemap.aspx" aria-label="" class="c-glyph">查看站点地图</a>
                                 </li>
                             
                         </ul>
@@ -811,32 +433,27 @@
             </ul>
         </nav>
 </div>
-                            <form class="c-search" autocomplete="off" id="searchForm" name="searchForm" role="search" action="https://www.microsoft.com/en-us/search/explore" method="GET" data-seautosuggest="{&quot;queryParams&quot;:{&quot;market&quot;:&quot;en-us&quot;,&quot;clientId&quot;:&quot;7F27B536-CF6B-4C65-8638-A0F8CBDFCA65&quot;,&quot;sources&quot;:&quot;Iris-Products,DCatAll-Products,Microsoft-Terms&quot;,&quot;filter&quot;:&quot;+ClientType:StoreWeb&quot;,&quot;counts&quot;:&quot;1,5,5&quot;},&quot;familyNames&quot;:{&quot;Apps&quot;:&quot;App&quot;,&quot;Books&quot;:&quot;Book&quot;,&quot;Bundles&quot;:&quot;Bundle&quot;,&quot;Devices&quot;:&quot;Device&quot;,&quot;Fees&quot;:&quot;Fee&quot;,&quot;Games&quot;:&quot;Game&quot;,&quot;MusicAlbums&quot;:&quot;Album&quot;,&quot;MusicTracks&quot;:&quot;Song&quot;,&quot;MusicVideos&quot;:&quot;Video&quot;,&quot;MusicArtists&quot;:&quot;Artist&quot;,&quot;OperatingSystem&quot;:&quot;Operating System&quot;,&quot;Software&quot;:&quot;Software&quot;,&quot;Movies&quot;:&quot;Movie&quot;,&quot;TV&quot;:&quot;TV&quot;,&quot;CSV&quot;:&quot;Gift Card&quot;,&quot;VideoActor&quot;:&quot;Actor&quot;}}" data-seautosuggestapi="https://www.microsoft.com/msstoreapiprod/api/autosuggest" data-m="{&quot;cN&quot;:&quot;GlobalNav_Search_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c3c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c1c7c4c1m1r1a1&quot;}" aria-expanded="false">
-                                <input id="cli_shellHeaderSearchInput" aria-label="Search Expanded" aria-autocomplete="list" aria-expanded="false" aria-controls="universal-header-search-auto-suggest-transparent" aria-owns="universal-header-search-auto-suggest-ul" type="search" name="q" role="combobox" placeholder="Search Microsoft.com" data-m="{&quot;cN&quot;:&quot;SearchBox_nav&quot;,&quot;id&quot;:&quot;n1c3c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c3c1c7c4c1m1r1a1&quot;}" data-toggle="tooltip" data-placement="right" title="Search Microsoft.com">
-                                    <button id="search" aria-label="Search Microsoft.com" class="c-glyph" data-m="{&quot;cN&quot;:&quot;Search_nav&quot;,&quot;id&quot;:&quot;n2c3c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c3c1c7c4c1m1r1a1&quot;}" data-bi-mto="true" aria-expanded="false" disabled="disabled">
-                                        <span role="presentation">Search</span>
-                                        <span role="tooltip" class="c-uhf-tooltip c-uhf-search-tooltip">Search Microsoft.com</span>
+                            <form class="c-search" autocomplete="off" id="searchForm" name="searchForm" role="search" action="https://www.microsoft.com/zh-cn/search/result.aspx" method="GET" data-seAutoSuggest='{"queryParams":{"market":"zh-cn","clientId":"7F27B536-CF6B-4C65-8638-A0F8CBDFCA65","sources":"Iris-Products,DCatAll-Products,Microsoft-Terms","filter":"ExcludeDCatProducts:DCatDevices-Products,DCatSoftware-Products,DCatBundles-Products+ClientType:StoreWeb","counts":"1,5,5"},"familyNames":{"Apps":"应用","Books":"书籍","Bundles":"套装","Devices":"设备","Fees":"Fee","Games":"游戏","MusicAlbums":"专辑","MusicTracks":"歌曲","MusicVideos":"视频","MusicArtists":"艺术家","OperatingSystem":"操作系统","Software":"软件","Movies":"电影","TV":"电视","CSV":"礼品卡","VideoActor":"演员"}}' data-seautosuggestapi="https://www.microsoft.com/msstoreapiprod/api/autosuggest" data-m='{"cN":"GlobalNav_Search_cont","cT":"Container","id":"c3c1c9c2m1r1a1","sN":3,"aN":"c1c9c2m1r1a1"}' aria-expanded="false">
+                                <input  id="cli_shellHeaderSearchInput" aria-label="已展开搜索" aria-autocomplete="list" aria-expanded="false" aria-controls="universal-header-search-auto-suggest-transparent" aria-owns="universal-header-search-auto-suggest-ul" type="search" name="q" role="combobox" placeholder="在 Microsoft.com 中搜索" data-m='{"cN":"SearchBox_nav","id":"n1c3c1c9c2m1r1a1","sN":1,"aN":"c3c1c9c2m1r1a1"}' data-toggle="tooltip" data-placement="right" title="在 Microsoft.com 中搜索" />
+                                    <input type="hidden" name="form" value="MSHOME" data-m='{"cN":"HiddenInput_nav","id":"n2c3c1c9c2m1r1a1","sN":2,"aN":"c3c1c9c2m1r1a1"}' />
+                                    <button id="search" aria-label="在 Microsoft.com 中搜索" class="c-glyph" data-m='{"cN":"Search_nav","id":"n3c3c1c9c2m1r1a1","sN":3,"aN":"c3c1c9c2m1r1a1"}' data-bi-mto="true" aria-expanded="false" disabled="disabled">
+                                        <span role="presentation">搜索</span>
+                                        <span role="tooltip" class="c-uhf-tooltip c-uhf-search-tooltip">在 Microsoft.com 中搜索</span>
                                     </button>
                                 <div class="m-auto-suggest" id="universal-header-search-auto-suggest-transparent" role="group">
-                                    <ul class="c-menu" id="universal-header-search-auto-suggest-ul" aria-label="Search Suggestions" aria-hidden="true" data-bi-dnt="true" data-bi-mto="true" data-js-auto-suggest-position="default" role="listbox" data-tel="jsll" data-m="{&quot;cN&quot;:&quot;search suggestions_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c3c3c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c3c1c7c4c1m1r1a1&quot;}"></ul>
+                                    <ul class="c-menu" id="universal-header-search-auto-suggest-ul" aria-label="搜索建议" aria-hidden="true" data-bi-dnt="true" data-bi-mto="true" data-js-auto-suggest-position="default" role="listbox" data-tel="jsll" data-m='{"cN":"search suggestions_cont","cT":"Container","id":"c4c3c1c9c2m1r1a1","sN":4,"aN":"c3c1c9c2m1r1a1"}'></ul>
                                     <ul class="c-menu f-auto-suggest-no-results" aria-hidden="true" data-js-auto-suggest-postion="default" data-js-auto-suggest-position="default" role="listbox">
-                                        <li class="c-menu-item"> <span tabindex="-1">No results</span></li>
+                                        <li class="c-menu-item"> <span tabindex="-1">无结果</span></li>
                                     </ul>
                                 </div>
                                 
                             </form>
-                        <button data-m="{&quot;cN&quot;:&quot;cancel-search&quot;,&quot;pid&quot;:&quot;Cancel Search&quot;,&quot;id&quot;:&quot;nn4c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c1c7c4c1m1r1a1&quot;}" id="cancel-search" class="cancel-search" aria-label="Cancel Search">
-                            <span>Cancel</span>
+                        <button data-m='{"cN":"cancel-search","pid":"取消 搜索","id":"nn4c1c9c2m1r1a1","sN":4,"aN":"c1c9c2m1r1a1"}' id="cancel-search" class="cancel-search" aria-label="取消 搜索">
+                            <span>取消</span>
                         </button>
-                    <a id="uhf-shopping-cart" aria-label="0 items in shopping cart" class="c-action-trigger c-glyph c-uhf-nav-link glyph-shopping-cart" href="https://www.microsoft.com/en-us/store/cart" data-src-dmn-chk="true" data-m="{&quot;cN&quot;:&quot;GlobalNav_Cart_nav&quot;,&quot;bhvr&quot;:82,&quot;id&quot;:&quot;n5c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c1c7c4c1m1r1a1&quot;}">
-                        <span class="shopping-cart-amount x-hidden" aria-hidden="true">0</span>
-                        <span class="c-cart-lbl c-st-lbl">Cart</span>
-                        <span id="uhf-shopping-cart-tooltip" class="c-uhf-tooltip" role="tooltip">0 items in shopping cart</span>
-                    </a>
-                            <iframe id="shell-cart-count" data-src="//www.microsoft.com/store/buy/cartcount" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/saved_resource.html"></iframe>
-                        <div id="meControl" class="c-me" data-signinsettings="{&quot;containerId&quot;:&quot;meControl&quot;,&quot;enabled&quot;:true,&quot;headerHeight&quot;:48,&quot;debug&quot;:false,&quot;extensibleLinks&quot;:[],&quot;userData&quot;:{&quot;idp&quot;:&quot;msa&quot;,&quot;firstName&quot;:&quot;&quot;,&quot;lastName&quot;:&quot;&quot;,&quot;memberName&quot;:&quot;&quot;,&quot;cid&quot;:&quot;&quot;,&quot;authenticatedState&quot;:&quot;3&quot;},&quot;rpData&quot;:{&quot;preferredIdp&quot;:&quot;msa&quot;,&quot;msaInfo&quot;:{&quot;signInUrl&quot;:&quot;/en-us/store/signin&quot;,&quot;signOutUrl&quot;:&quot;/en-us/store/signout&quot;,&quot;meUrl&quot;:&quot;https://login.live.com/me.srf?wa=wsignin1.0&quot;},&quot;aadInfo&quot;:{&quot;signOutUrl&quot;:&quot;/en-us/store/signout&quot;,&quot;appId&quot;:&quot;&quot;,&quot;siteUrl&quot;:&quot;&quot;,&quot;blockMsaFed&quot;:true}}}" data-m="{&quot;cN&quot;:&quot;GlobalNav_Account_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c6c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c1c7c4c1m1r1a1&quot;}">
+                        <div id="meControl" class="c-me"  data-signinsettings='{"containerId":"meControl","enabled":true,"headerHeight":48,"debug":false,"extensibleLinks":[],"userData":{"idp":"msa","firstName":"","lastName":"","memberName":"","cid":"","authenticatedState":"3"},"rpData":{"preferredIdp":"msa","msaInfo":{"signInUrl":"/zh-cn/store/signin","signOutUrl":"/zh-cn/store/signout","meUrl":"https://login.live.com/me.srf?wa=wsignin1.0"},"aadInfo":{"signOutUrl":"/zh-cn/store/signout","appId":"","siteUrl":"","blockMsaFed":true}}}' data-m='{"cN":"GlobalNav_Account_cont","cT":"Container","id":"c5c1c9c2m1r1a1","sN":5,"aN":"c1c9c2m1r1a1"}'>
                             <div class="msame_Header">
-                                <div class="msame_Header_name st_msame_placeholder">Sign in</div>
+                                <div class="msame_Header_name st_msame_placeholder">登录</div>
                             </div>
                             
                         </div>
@@ -857,2421 +474,679 @@
 
     </div>
 
-            
-    
-
-	
-
-
-
-    
-
-
-
-
-<div class="meControl-configInfo" data-isenabled="true" data-preferredidp="msa" data-signinurl="/rpsauth/v1/account/SignIn" data-msasignouturl="/rpsauth/v1/account/SignOut" data-convergedstack="false" data-accountconstraint="0" data-apigeneration="GEN1" data-silentauthrequirereload="false" data-silentauthaction="none"></div>
-<div class="userInfo-config" data-userinfourl="/rpsauth/account/api/v1/userinfo" data-userinfotimeoutms="1000" data-retrydelayms="2000" data-maxretryattempt="3"></div>
-
-
-    
-    
-<script src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASH6e7f9ccecc9dac2c400eee4073992860.js"></script>
-
-
-
-
-</div>
-<div class="root responsivegrid">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="28134f1ee1370eee417bc52d1ed0a717">
-
-<main class="microsoft-template-layout-container" tabindex="-1" id="primaryArea">
-    <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-        
-        <div class="cookie-banner aem-GridColumn aem-GridColumn--default--12" data-component-id="b8b7bb97ccd21a2a7efb223b52e82af0">
-
-
-
-</div>
-<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    
-    
-</div>
-</div>
-<div class="responsivegrid mb-md-5 aem-GridColumn aem-GridColumn--default--12">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="highlightcarousel carouselbase carousel aem-GridColumn aem-GridColumn--default--12" data-component-id="96a15ad1a5dc15e5f04a9e4a63de74fa">
-
-
-
-    
-        
-    
-
-
-
-    
-     
-
-
-
-	
-    
-<link rel="stylesheet" href="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHcd3498c2214c8f39a39269d78f700493.css" type="text/css">
-
-
-
-
-
-
-
-	
-
-
-	
-		
-			<section class="slideshowOverflow " aria-label="featured products and announcements slideshow: navigate using the slide tabs" aria-roledescription="slideshow">
-					<div id="status-container-x9043b56cc42146d281551ba3a87a36ee">
-						<span id="status-msg-x9043b56cc42146d281551ba3a87a36ee" class="sr-only" aria-live="polite">Slide %{start} of %{total}. %{slideTitle}</span>
-					</div>
-				<div class="carousel slide carousel-highlight carousel-variable-height" data-mount="autoplay-carousel" data-status="status-container-x9043b56cc42146d281551ba3a87a36ee">
-					
-						<a href="https://www.microsoft.com/en-us#d69dbea1-a989-4aad-bd95-b75047be65a8" class="btn btn-link sr-only-focusable w-100 position-absolute">
-						Skip featured products and announcements slideshow: navigate using the slide tabs 
-						</a>
-						
-					<div>
-						<div class="carousel-controls">
-							
-								<button type="button" class="carousel-control-autoplay" data-slide="play" aria-labelledby="playButton-x9043b56cc42146d281551ba3a87a36ee " aria-pressed="true">
-									<span class="sr-only" id="playButton-x9043b56cc42146d281551ba3a87a36ee">Pause</span>
-								</button>
-							
-							<button type="button" class="carousel-control-prev" data-slide="prev" title="Previous" data-bi-cn="Carousel Back" data-bi-ecn="Carousel Back" data-bi-ct="Button" data-bi-pa="Body" data-bi-compnm="Highlight Carousel" data-bi-bhvr="1">
-								<span class="sr-only" id="carousel-control-prev">Previous</span>
-							</button>
-							<ol class="carousel-indicators" aria-hidden="true">
-								
-									<li class="active"></li>
-								
-									<li></li>
-								
-							</ol>
-							<button type="button" class="carousel-control-next" data-slide="next" title="Next" data-bi-cn="Carousel Forward" data-bi-ecn="Carousel Forward" data-bi-ct="Button" data-bi-pa="Body" data-bi-compnm="Highlight Carousel" data-bi-bhvr="3">
-								<span class="sr-only" id="carousel-control-next">Next</span>
-							</button>
-						</div>
-						<div class="carousel-inner">
-							
-								
-									<section class="carousel-item depth-4 depth-md-none active" tabindex="0" itemtitle="Slide 1" aria-hidden="false" aria-label="1 of 2 " aria-roledescription="slide"><div class="highlight" data-component-id="a27bdc16afeeac2a37e8a078a9322fea">
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-<link rel="stylesheet" href="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHb39493ef05cf64e69196a3f5152cf898.css" type="text/css">
-
-
-
-
-
-
-    
-        <div id="highlight-uid6a3b" data-componentname="highlight-uid6a3b" class="card-img-overlay ">
-            
-            <div class="card-background">
-                    
-                        
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-M365-Icon-Bounce-Word-Merch:VP5-1920x600" media="(min-width: 1400px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-M365-Icon-Bounce-Word-Merch:VP4-1399x600" media="(min-width: 1084px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-M365-Icon-Bounce-Word-Merch:VP3-1083x600" media="(min-width: 860px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-M365-Icon-Bounce-Word-Merch:VP2-859x540" media="(min-width: 540px)">
-                        
-                        
-                    
-                    <picture>
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-M365-Icon-Bounce-Word-Merch:VP5-1920x600" media="(min-width: 1400px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-M365-Icon-Bounce-Word-Merch:VP4-1399x600" media="(min-width: 1084px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-M365-Icon-Bounce-Word-Merch:VP3-1083x600" media="(min-width: 860px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-M365-Icon-Bounce-Word-Merch:VP2-859x540" media="(min-width: 540px)">
-                        <img id="img-highlight-uid6a3b" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/Highlight-M365-Icon-Bounce-Word-Merch_VP1-539x440" class="card-img w-100" alt="Icons from the Microsoft 365 suite of apps such as Teams, Word, Outlook, and more.">
-                    </picture>
-            </div>
-            
-            
-                <div class="card-foreground    ">
-                    
-                    <div class="container">
-                        
-                        <div class="d-flex mt-md-n5 my-lg-5 ">
-                            
-                            <div class="w-100 w-lg-col-5 ">
-                                
-                                <div class="card material-md-card px-g px-md-5 pt-4 pb-3 py-md-5 depth-lg-none bg-lg-transparent-text-dark ">
-                                    <div id="card-body-highlight-uid6a3b" class="card-body " data-highlight-compname="Highlight">
-                                        
-
-
-                                        
-                                        
-    <h1 class=" h2    ">
-        
-            Microsoft 365
+    <main role="main" class="pt-5" id="primaryArea" tabindex="-1">
         
         
-    </h1>
-
-                                        <div class="mb-4 ">
-                                            Turn your ideas into reality, stay safer online and off, and focus on what matters most with Microsoft 365 apps
-                                        </div>
-                                        
-    
-    
-    
-    
 
 
-                                        
-
-    
-    <div class="link-group">
-        
-        
-            
-    
-
-    
-
-    
-
-    
-        <a data-bi-cn="For 1 person" data-bi-ecn="For 1 person" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf?icid=mscom_marcom_H1a_M365Personal" data-bi-bhvr="0" aria-label="Shop Microsoft 365 Personal" target="_self" href="https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf?icid=mscom_marcom_H1a_M365Personal">
-            For 1 person</a>
-    
-
-    
-
-    
-
-    
-
-
-        
-            
-    
-
-    
-
-    
-        <a data-bi-cn="For up to 6 people" data-bi-ecn="For up to 6 people" data-bi-ct="cta" data-bi-pa="body" class=" cta   " data-target-uri="https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm?icid=mscom_marcom_H1b_M365Family" data-bi-bhvr="0" aria-label="Shop Microsoft 365 Family" target="_self" href="https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm?icid=mscom_marcom_H1b_M365Family">
-            For up to 6 people
-        </a>
-    
-
-    
-
-    
-
-    
-
-    
-
-
-        
+    <div class="hubmain windows" id="windowsh22">
+<div class="toggle-button" data-vg="AnimationtoggleButton">
+    <div class="toggle-button-container" data-grid="container">
+        <label class="animation-label" id="animation-label-1" aria-hidden="true">动画</label>
+        <span class="toggle-seperator" aria-hidden="true" tabindex="-1">&nbsp;|&nbsp;</span>
+        <label class="switch">
+            <input id="inputToggle" name="example-1" type="checkbox" class="animate-toggle" aria-labelledby="animation-label-1 c-state-label-1" checked aria-checked="true">
+            <span class="slider round"></span>
+        </label>
+        <span data-on-string="打开" data-off-string="关闭" id="c-state-label-1" aria-hidden="true">打开</span>
     </div>
+</div>
+<div data-vg="HeroItem" class="holiday-animated-hero Hero-Item-panel-2" id="" data-grid="">
+<section class="m-hero-item f-x-left f-y-center f-transparent rounded-corners herowithgradientline-blue holiday-video-auto no-play-pause f-precise-click context-accessory context-accessory " itemscope="" >
+                    <picture>
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13Y6L" media="(min-width: 1400px)">
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13Y6F" media="(min-width: 1084px)">
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13NCp" media="(min-width:540px)">
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13VlJ" media="(min-width:0)">
+                        <img srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13Y6L" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13Y6L" alt="桌上放着几台电脑，朋友们聚在一起欢笑">
+                    </picture>
+                                <div>
+                    <div>
 
+                                                    <h1 class="c-heading-1 padding-top-12 home-heading-fade f-lean">尽享轻松每一天</h1>
+                                                                            <p class="c-paragraph-1">无论您是在玩游戏、学习、经营企业还是操持家务，Windows&nbsp;11 都可以帮助您完成各项任务。发现精简高效的新功能，满足您工作、学习和娱乐的各种方式。</p>
 
-
-                                        
-                                    </div>
-                                </div>
+                            <div class="c-group">
+                                                                    <a href="https://www.microsoft.com/zh-cn/windows/get-windows-11" target="_self" aria-label="获取 Windows 11" class="c-call-to-action c-glyph c-button f-primary blue-button">
+                                        <span>获取 Windows 11</span>
+                                    </a>
                             </div>
-                        </div>
+                                            </div>
+                </div>
+            </section>
+</div>
+<div data-vg="Banner" id="Banner-panel-1">
+    <div data-grid="col-12" class="m-banner x-type-center margin-bottom-48 padding-top-12 margin-top-48">
+
+                            <h2 class="c-heading-1">迄今为止最佳的 Windows</h2>
+                    <p class="c-paragraph-2">当有大量工作需要完成时，让 Windows&nbsp;11 帮您排忧解难。</p>
+                    </div>
+</div>                        <div data-grid="container">
+                            
+
+<div data-vg="Content_Placement" class="m-content-placement x-type-left">
+    <div data-grid="col-12 stack-2">
+<div data-filter="" data-grid="col-4 pad-6x" class="content-touts " data-recent="0" data-popular="0">
+                    <div class="articletouts" data-grid="col-12">
+                        <section class="m-content-placement-item  f-size-medium ">
+                                <picture>
+                                    <source data-srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW12chz" media="(min-width:0px)" srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW12chz">
+                                    <img class="lazyloaded " alt="Windows 11 PC with pinned app screen" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW12chz" data-src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW12chz">
+                                </picture>
+                                <div>
+
+                                    <h3 class="toutheading c-heading-4">认识 Windows&nbsp;11</h3>                                     
+                                             <p class="toutpara c-paragraph-4">
+                                                 了解如何使用 Windows&nbsp;11 的新功能，看看是什么让它成为了迄今为止最棒的 Windows。
+                                             </p>
+                                                                            
+
+
+        <div class="c-group">
+                    <a href="https://www.microsoft.com/zh-cn/windows/windows-11" target="_self" aria-label="查看 Windows 11 的新增功能" class="c-call-to-action c-glyph ">
+                        <span>查看新增功能</span>
+                    </a>
+        </div>
+    
+
+
+</div>
+                        </section>
                     </div>
                 </div>
-            
+<div data-filter="" data-grid="col-4 pad-6x" class="content-touts " data-recent="0" data-popular="0">
+                    <div class="articletouts" data-grid="col-12">
+                        <section class="m-content-placement-item  f-size-medium ">
+                                <picture>
+                                    <source data-srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11Skp" media="(min-width:0px)" srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11Skp">
+                                    <img class="lazyloaded " alt="PC sitting on surface with videos on the screen" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11Skp" data-src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11Skp">
+                                </picture>
+                                <div>
+
+                                    <h3 class="toutheading c-heading-4">升级您的体验</h3>                                     
+                                             <p class="toutpara c-paragraph-4">
+                                                 了解如何在您现有的 PC 上安装 Windows&nbsp;11<sup>4</sup>，或购买可以运行 Windows&nbsp;11 的新 PC。
+                                             </p>
+                                                                            
+
+
+        <div class="c-group">
+                    <a href="https://www.microsoft.com/zh-cn/windows/get-windows-11" target="_self" aria-label="获取 Windows 11" class="c-call-to-action c-glyph ">
+                        <span>获取 Windows 11</span>
+                    </a>
         </div>
     
-    
-
-
-
-    
-    
-<script src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHfdce93784b5d38eb406ce1ee85d5ce0f.js"></script>
-
-
-
 
 
 </div>
-</section>
-								
-								  								
-							
-								
-									<section class="carousel-item depth-4 depth-md-none " tabindex="0" itemtitle="Slide 2" aria-hidden="true" aria-label="2 of 2 " aria-roledescription="slide"><div class="highlight" data-component-id="a27bdc16afeeac2a37e8a078a9322fea">
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-
-
-
-
-
-
-    
-        <div id="highlight-uidb245" data-componentname="highlight-uidb245" class="card-img-overlay " clickgroup-telemetry-enabled="">
-            
-            <div class="card-background">
-                    
-                        
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surf-Bundles-Surface-Laptop-5-Dock-2:VP5-1920x600" media="(min-width: 1400px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surf-Bundles-Surface-Laptop-5-Dock-2:VP4-1399x600" media="(min-width: 1084px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surf-Bundles-Surface-Laptop-5-Dock-2:VP3-1083x600" media="(min-width: 860px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surf-Bundles-Surface-Laptop-5-Dock-2:VP2-859x540" media="(min-width: 540px)">
-                        
-                        
-                    
-                    <picture>
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surf-Bundles-Surface-Laptop-5-Dock-2:VP5-1920x600" media="(min-width: 1400px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surf-Bundles-Surface-Laptop-5-Dock-2:VP4-1399x600" media="(min-width: 1084px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surf-Bundles-Surface-Laptop-5-Dock-2:VP3-1083x600" media="(min-width: 860px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surf-Bundles-Surface-Laptop-5-Dock-2:VP2-859x540" media="(min-width: 540px)">
-                        <img id="img-highlight-uidb245" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/Highlight-Surf-Bundles-Surface-Laptop-5-Dock-2_VP1-539x440" class="card-img w-100" alt="A Surface Laptop 5 connected to a Surface Dock 2.">
-                    </picture>
-            </div>
-            
-            
-                <div class="card-foreground    ">
-                    
-                    <div class="container">
-                        
-                        <div class="d-flex mt-md-n5 my-lg-5 justify-content-end">
-                            
-                            <div class="w-100 w-lg-col-5 ">
-                                
-                                <div class="card material-md-card px-g px-md-5 pt-4 pb-3 py-md-5 depth-lg-none bg-lg-transparent-text-dark ">
-                                    <div id="card-body-highlight-uidb245" class="card-body " data-highlight-compname="Highlight">
-                                        
-
-
-                                        
-                                        
-    <h2>
-        
-            Surface Laptop 5
-        
-        
-    </h2>
-
-                                        <div class="mb-4 ">
-                                            Save big on blazing-fast speed and sophisticated style. Plus, add a free Surface Dock 2 ($259.99 value) at checkout to transform your Surface into a powerful desktop PC. Offer ends 7/2.
-                                        </div>
-                                        
-    
-    
-    
-    
-
-
-                                        
-
-    
-    <div class="link-group">
-        
-        
-            
-    
-
-    
-
-    
-
-    
-        <a data-bi-cn="Shop Surface Laptop 5" data-bi-ecn="Shop Surface Laptop 5" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://www.microsoft.com/en-us/d/surface-laptop-5/8XN49V61S1BN?icid=mscom_marcom_H2a_SurfaceLaptop5DockOffer" data-bi-bhvr="0" data-bi-mto="" aria-label="Shop Surface Laptop 5" target="_self" href="https://www.microsoft.com/en-us/d/surface-laptop-5/8XN49V61S1BN?icid=mscom_marcom_H2a_SurfaceLaptop5DockOffer">
-            Shop Surface Laptop 5</a>
-    
-
-    
-
-    
-
-    
-
-
-        
-    </div>
-
-
-
-                                        
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        </section>
                     </div>
                 </div>
-            
-        </div>
-    
-    
-
-
-
-    
-    
-
-
-
-
-
-</div>
-</section>
-								
-								  								
-							
-						</div>
-					</div>
-				</div>
-			</section>
-			
-				<a id="d69dbea1-a989-4aad-bd95-b75047be65a8" class="sr-only" tabindex="-1">End of featured products and announcements slideshow: navigate using the slide tabs section</a>
-			
-		
-	
-
-
-	
-    
-<script src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHaa6f4b31b1ec3a6ac9d773e649688947.js"></script>
-
-
-
-
-
-
-     
-     
-        
-    
-<script src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/clientlib-base.min.ACSHASH2c90d627b1c4129f1eeab142afc5c523.js"></script>
-
-
-
-    
-</div>
-
-    
-</div>
-</div>
-<div class="responsivegrid mb-md-5 aem-GridColumn aem-GridColumn--default--12">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
-
-
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uide285 default heading-bg-color-layout-container-uide285">
-          <style>
-                    .heading-bg-color-layout-container-uide285{
-                         background-color:  !important;
-                    }
-          </style>
-     
-     <div class="container" id="layout-container-uide285" data-componentname="layout-container-uide285">
-          
-          
-          <div class="link-list parent-list aem-GridColumn aem-GridColumn--default--12" data-component-id="719c9512848ea2270ac91e57592dc97e">
-
-
-
-
-
-    
-
-
-<nav id="link-list-uid0aa4" data-componentname="link-list-uid0aa4" aria-label="product categories">
-
-    
-        
-    
-
-
-
-    
-
-    
-        
-    
-
-    
-    <ul class="text-center d-flex flex-wrap list-inline justify-content-center">
-        
-        
-        
-        
-        <li class="font-weight-semibold mx-4 my-3 d-flex align-items-center card flex-grow-0  " aria-expanded="false" clickgroup-telemetry-enabled="" data-close-label="Close dialog" aria-controls="listitempopoverx24458b62504f443a96550476fad0c693" data-placement="bottom">
-            
-            
-                <img data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/surface-go2-link-list-120x120?wid=40&amp;hei=40" width="40" height="40" alt="" class="img-fluid flex-shrink-0 mb-2 blur-up lazypreload lazyloaded" data-bi-cn="Shop Surface devices" data-bi-ecn="Shop Surface devices" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/surface-go2-link-list-120x120">
-            
-            
-            <a href="https://www.microsoft.com/en-us/store/b/shop-all-microsoft-surface?icid=MSCOM_QL_Surface" aria-label="Shop Surface devices" target="_self" data-bi-cn="Shop Surface devices" data-bi-ecn="Shop Surface devices" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List">
-                Shop Surface devices
-            </a>
-
-            
-        </li>
-        
-    
-        
-        
-        
-        
-        <li class="font-weight-semibold mx-4 my-3 d-flex align-items-center card flex-grow-0  " aria-expanded="false" clickgroup-telemetry-enabled="" data-close-label="Close dialog" aria-controls="listitempopoverx6299400df75b4e83b910f00be55f6fb5" data-placement="bottom">
-            
-            
-                <img data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Quick-Link-Icon-80x80-Microsoft-365?wid=40&amp;hei=40" width="40" height="40" alt="" class="img-fluid flex-shrink-0 mb-2 blur-up lazypreload lazyloaded" data-bi-cn="Choose your Microsoft 365" data-bi-ecn="Choose your Microsoft 365" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/gldn-Quick-Link-Icon-80x80-Microsoft-365">
-            
-            
-            <a href="https://www.microsoft.com/EN-US/microsoft-365/compare-all-microsoft-365-products?icid=MSCOM_QL_M365" aria-label="Choose your Microsoft 365" target="_self" data-bi-cn="Choose your Microsoft 365" data-bi-ecn="Choose your Microsoft 365" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List">
-                Choose your Microsoft 365
-            </a>
-
-            
-        </li>
-        
-    
-        
-        
-        
-        
-        <li class="font-weight-semibold mx-4 my-3 d-flex align-items-center card flex-grow-0  " aria-expanded="false" clickgroup-telemetry-enabled="" data-close-label="Close dialog" aria-controls="listitempopoverxbbc10e367b4c4a0cbffe5bea74802693" data-placement="bottom">
-            
-            
-                <img data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/xbox-blk-logo-link-list-120x120?wid=40&amp;hei=40" width="40" height="40" alt="" class="img-fluid flex-shrink-0 mb-2 blur-up lazypreload lazyloaded" data-bi-cn="Buy Xbox games and consoles" data-bi-ecn="Buy Xbox games and consoles" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/xbox-blk-logo-link-list-120x120">
-            
-            
-            <a href="https://www.microsoft.com/en-us/store/b/xbox?icid=MSCOM_QL_Xbox" aria-label="Buy Xbox games and consoles" target="_self" data-bi-cn="Buy Xbox games and consoles" data-bi-ecn="Buy Xbox games and consoles" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List">
-                Buy Xbox games and consoles
-            </a>
-
-            
-        </li>
-        
-    
-        
-        
-        
-        
-        <li class="font-weight-semibold mx-4 my-3 d-flex align-items-center card flex-grow-0  " aria-expanded="false" clickgroup-telemetry-enabled="" data-close-label="Close dialog" aria-controls="listitempopoverx85f7a6d5dbc7437080c6941dc9a77ba8" data-placement="bottom">
-            
-            
-                <img data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Quick-Link-Icon-80x80-Microsoft-365?wid=40&amp;hei=40" width="40" height="40" alt="" class="img-fluid flex-shrink-0 mb-2 blur-up lazypreload lazyloaded" data-bi-cn="Get Windows 11" data-bi-ecn="Get Windows 11" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/gldn-Quick-Link-Icon-80x80-Microsoft-365">
-            
-            
-            <a href="https://www.microsoft.com/en-us/windows/get-windows-11?icid=MSCOM_QL_Windows" aria-label="Get Windows 11" target="_self" data-bi-cn="Get Windows 11" data-bi-ecn="Get Windows 11" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List">
-                Get Windows 11
-            </a>
-
-            
-        </li>
-        
-    
-        
-        
-        
-        
-        <li class="font-weight-semibold mx-4 my-3 d-flex align-items-center card flex-grow-0  " aria-expanded="false" clickgroup-telemetry-enabled="" data-close-label="Close dialog" aria-controls="listitempopoverxca2aa67d5bc34f27b8ed98f597530f41" data-placement="bottom">
-            
-            
-                <img data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/keyboard-mouse-link-list-120x120?wid=40&amp;hei=40" width="40" height="40" alt="" class="img-fluid flex-shrink-0 mb-2 blur-up lazypreload lazyloaded" data-bi-cn="Shop for accessories" data-bi-ecn="Shop for accessories" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/keyboard-mouse-link-list-120x120">
-            
-            
-            <a href="https://www.microsoft.com/en-us/store/b/accessories?icid=MSCOM_QL_Accessories" aria-label="Shop for accessories" target="_self" data-bi-cn="Shop for accessories" data-bi-ecn="Shop for accessories" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List">
-                Shop for accessories
-            </a>
-
-            
-        </li>
-        
-    
-        
-        
-        
-        
-        <li class="font-weight-semibold mx-4 my-3 d-flex align-items-center card flex-grow-0  " aria-expanded="false" clickgroup-telemetry-enabled="" data-close-label="Close dialog" aria-controls="listitempopoverx3c550ba95e1647048f7e7aae4123f00b" data-placement="bottom">
-            
-            
-                <img data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-ICON-LL-briefcase-120x120?wid=40&amp;hei=40" width="40" height="40" alt="" class="img-fluid flex-shrink-0 mb-2 blur-up lazypreload lazyloaded" data-bi-cn="Shop Business" data-bi-ecn="Shop Business" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/gldn-ICON-LL-briefcase-120x120">
-            
-            
-            <a href="https://www.microsoft.com/en-us/store/b/business?icid=MSCOM_QL_Business" aria-label="Shop business products" target="_self" data-bi-cn="Shop Business" data-bi-ecn="Shop Business" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List">
-                Shop Business
-            </a>
-
-            
-        </li>
-        
-    </ul>
-</nav></div>
-
-          
-     </div>
-</div></div>
-
-    
-</div>
-</div>
-<div class="responsivegrid mb-md-5 aem-GridColumn aem-GridColumn--default--12">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
-
-
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uidb096  heading-bg-color-layout-container-uidb096">
-          <style>
-                    .heading-bg-color-layout-container-uidb096{
-                         background-color:  !important;
-                    }
-          </style>
-     
-     <div class="container" id="layout-container-uidb096" data-componentname="layout-container-uidb096">
-          
-          
-          <div class="content-card aem-GridColumn aem-GridColumn--default--12" data-component-id="e4caa97101f9f7cf8317c819b353e6ed">
-
-    
-
-
-
-    
-    
-    <script type="text/javascript" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHeb1d4b46ab498ba349a97e53a9644534.js" defer=""></script>
-
-
-
-
-
-	
-    
-<link rel="stylesheet" href="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHc033b611d87d511847501ade7913431f.css" type="text/css">
-
-
-
-
-
-<section id="content-card-uid9de4" data-componentname="content-card-uid9de4">
-    <div class="row row-cols-1   row-cols-sm-2 row-cols-lg-4">
-        
-            
-                
-    
-
-    
-        
-    
-<link rel="stylesheet" href="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASH5eb7940588edeff2b13a25b0bd1cb864.css" type="text/css">
-
-
-
-    
-
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-    
-        <div class="col 
-                    mb-5 mb-lg-0
-                    " clickgroup-telemetry-enabled="" data-offerkey="offer_0">
-            <div class="card  " data-bi-ecn="Shop now" data-target-uri="https://www.microsoft.com/en-us/d/surface-pro-9/93VKD8NP4FVK?icid=mscom_marcom_CPH1a_SurfacePro9" data-bi-ehn="Surface Pro 9" data-bi-pa="body" data-bi-ct="Content Card" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Test-Surface-Pro-9-Contextual-Lifestyle-01?wid=515&amp;hei=293&amp;fit=crop" data-bi-hn="Surface Pro 9" data-bi-bhvr="0" data-bi-cn="Shop now" data-bi-compnm="Content card vertical 4 up - noDepth">
-                
-                    
-	<picture>
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Test-Surface-Pro-9-Contextual-Lifestyle-01?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Test-Surface-Pro-9-Contextual-Lifestyle-01?wid=380&amp;hei=213&amp;fit=crop">
-		<source data-srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Test-Surface-Pro-9-Contextual-Lifestyle-01?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)" srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Test-Surface-Pro-9-Contextual-Lifestyle-01?wid=297&amp;hei=167&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Test-Surface-Pro-9-Contextual-Lifestyle-01?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Test-Surface-Pro-9-Contextual-Lifestyle-01?wid=517&amp;hei=293&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Test-Surface-Pro-9-Contextual-Lifestyle-01?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Test-Surface-Pro-9-Contextual-Lifestyle-01?wid=406&amp;hei=230&amp;fit=crop">
-		<img data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Test-Surface-Pro-9-Contextual-Lifestyle-01?wid=515&amp;hei=293&amp;fit=crop" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/Content-Card-Test-Surface-Pro-9-Contextual-Lifestyle-01" class="card-img blur-up lazypreload lazyloaded" alt="A person using a Surface Slim Pen 2 on a Surface Pro 9">
-	</picture>
-	
-
-                    
-                
-                    <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
-                    
-                    <div class="card-body  pt-3">
-                        
-                            <h2 class="h3    ">
-                                Surface Pro 9
-                            </h2>
-                        
-                        
-                            <p> Tablet versatility and laptop power — all in one ultra-portable device. </p>
-                        
-                    </div>
-                    <div class="card-footer pt-3 ">
-                        
-
-    
-    <div class="link-group">
-        
-        
-            
-    
-
-    
-
-    
-        <a data-bi-cn="Shop now" data-bi-ecn="Shop now" data-bi-ct="cta" data-bi-pa="body" class=" cta   " data-target-uri="https://www.microsoft.com/en-us/d/surface-pro-9/93VKD8NP4FVK?icid=mscom_marcom_CPH1a_SurfacePro9" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Test-Surface-Pro-9-Contextual-Lifestyle-01?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-mto="" aria-label="Shop Surface Pro 9 now." target="_self" data-bi-ehn="Surface Pro 9" data-bi-hn="Surface Pro 9" data-bi-compnm="Content card vertical 4 up - noDepth" href="https://www.microsoft.com/en-us/d/surface-pro-9/93VKD8NP4FVK?icid=mscom_marcom_CPH1a_SurfacePro9">
-            Shop now
-        </a>
-    
-
-    
-
-    
-
-    
-
-    
-
-
-        
-    </div>
-
-
-                    </div>
-            </div>
+<div data-filter="" data-grid="col-4 pad-6x" class="content-touts " data-recent="0" data-popular="0">
+                    <div class="articletouts" data-grid="col-12">
+                        <section class="m-content-placement-item  f-size-medium ">
+                                <picture>
+                                    <source data-srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11Sk4" media="(min-width:0px)" srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11Sk4">
+                                    <img class="lazyloaded " alt="PC sitting on surface with login screen" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11Sk4" data-src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11Sk4">
+                                </picture>
+                                <div>
+
+                                    <h3 class="toutheading c-heading-4">获得帮助</h3>                                     
+                                             <p class="toutpara c-paragraph-4">
+                                                 需要帮助传输文件、重置密码或升级到 Windows&nbsp;11 吗？浏览 Windows 支持页面以获取所有 Windows 相关事物的有用文章。<strong></strong>有您要解决的某个特定问题吗？在 Microsoft 社区中提问。
+                                             </p>
+                                                                            
+
+
+        <div class="c-group">
+                    <a href="https://support.microsoft.com/windows" target="_blank" aria-label="获取 Windows 支持" class="c-call-to-action c-glyph ">
+                        <span>获取 Windows 支持</span>
+                    </a>
+                    <a href="https://answers.microsoft.com" target="_blank" aria-label="在 Windows 支持社区中提问" class="c-call-to-action c-glyph ">
+                        <span>咨询社区</span>
+                    </a>
         </div>
     
 
-    
-    
-        
-    
-    <script type="text/javascript" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer=""></script>
-
-
-    
-
-
-
-            
-            
-        
-            
-                
-    
-
-    
-        
-    
-
-
-
-    
-
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-    
-        <div class="col 
-                    mb-5 mb-lg-0
-                    " clickgroup-telemetry-enabled="" data-offerkey="offer_1">
-            <div class="card  " data-bi-ecn="Shop Surface Laptop Studio" data-target-uri="https://www.microsoft.com/en-us/d/surface-laptop-studio/8srdf62swkpf?icid=mscom_marcom_CPH2a_SurfaceLaptopStudioOffer" data-bi-ehn="Up to $600 off select Surface Laptop Studio" data-bi-pa="body" data-bi-ct="Content Card" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CP-01-LaptopStudio-Platinum-BnrCntrl?wid=515&amp;hei=293&amp;fit=crop" data-bi-hn="Up to $600 off select Surface Laptop Studio" data-bi-bhvr="0" data-bi-cn="Shop Surface Laptop Studio" data-bi-compnm="Content card vertical 4 up - noDepth">
-                
-                    
-	<picture>
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CP-01-LaptopStudio-Platinum-BnrCntrl?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CP-01-LaptopStudio-Platinum-BnrCntrl?wid=380&amp;hei=213&amp;fit=crop">
-		<source data-srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CP-01-LaptopStudio-Platinum-BnrCntrl?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)" srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CP-01-LaptopStudio-Platinum-BnrCntrl?wid=297&amp;hei=167&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CP-01-LaptopStudio-Platinum-BnrCntrl?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CP-01-LaptopStudio-Platinum-BnrCntrl?wid=517&amp;hei=293&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CP-01-LaptopStudio-Platinum-BnrCntrl?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CP-01-LaptopStudio-Platinum-BnrCntrl?wid=406&amp;hei=230&amp;fit=crop">
-		<img data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CP-01-LaptopStudio-Platinum-BnrCntrl?wid=515&amp;hei=293&amp;fit=crop" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/CP-01-LaptopStudio-Platinum-BnrCntrl" class="card-img blur-up lazypreload lazyloaded" alt="Surface Laptop Studio.">
-	</picture>
-	
-
-                    
-                
-                    <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
-                    
-                    <div class="card-body  pt-3">
-                        
-                            <h2 class="h3    ">
-                                Up to $600 off select Surface Laptop Studio
-                            </h2>
-                        
-                        
-                            <p> Flex your creative muscle with a touchscreen device that seamlessly transitions from laptop to portable creative canvas. Offer ends 7/2. </p>
-                        
-                    </div>
-                    <div class="card-footer pt-3 ">
-                        
-
-    
-    <div class="link-group">
-        
-        
-            
-    
-
-    
-
-    
-        <a data-bi-cn="Shop Surface Laptop Studio" data-bi-ecn="Shop Surface Laptop Studio" data-bi-ct="cta" data-bi-pa="body" class=" cta   " data-target-uri="https://www.microsoft.com/en-us/d/surface-laptop-studio/8srdf62swkpf?icid=mscom_marcom_CPH2a_SurfaceLaptopStudioOffer" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CP-01-LaptopStudio-Platinum-BnrCntrl?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-mto="" aria-label="Shop Surface Laptop Studio" target="_self" data-bi-ehn="Up to $600 off select Surface Laptop Studio" data-bi-hn="Up to $600 off select Surface Laptop Studio" data-bi-compnm="Content card vertical 4 up - noDepth" href="https://www.microsoft.com/en-us/d/surface-laptop-studio/8srdf62swkpf?icid=mscom_marcom_CPH2a_SurfaceLaptopStudioOffer">
-            Shop Surface Laptop Studio
-        </a>
-    
-
-    
-
-    
-
-    
-
-    
-
-
-        
-    </div>
-
-
-                    </div>
-            </div>
-        </div>
-    
-
-    
-    
-        
-    
-    <script type="text/javascript" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer=""></script>
-
-
-    
-
-
-
-            
-            
-        
-            
-                
-    
-
-    
-        
-    
-
-
-
-    
-
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-    
-        <div class="col 
-                    
-                    mb-5 mb-sm-0" clickgroup-telemetry-enabled="" data-offerkey="offer_2">
-            <div class="card  " data-bi-ecn="Shop Xbox Series X" data-target-uri="https://www.microsoft.com/en-us/p/xbox-series-x/8wj714n3rbtl?icid=mscom_marcom_CPH3a_XboxSeriesX" data-bi-ehn="Xbox Series X" data-bi-pa="body" data-bi-ct="Content Card" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=515&amp;hei=293&amp;fit=crop" data-bi-hn="Xbox Series X" data-bi-bhvr="0" data-bi-cn="Shop Xbox Series X" data-bi-compnm="Content card vertical 4 up - noDepth">
-                
-                    
-	<picture>
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=380&amp;hei=213&amp;fit=crop">
-		<source data-srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)" srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=297&amp;hei=167&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=517&amp;hei=293&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=406&amp;hei=230&amp;fit=crop">
-		<img data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=515&amp;hei=293&amp;fit=crop" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/gldn-XSX-CP-Xbox-Series-X" class="card-img blur-up lazypreload lazyloaded" alt="An Xbox Series X console and an Xbox controller">
-	</picture>
-	
-
-                    
-                
-                    <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
-                    
-                    <div class="card-body  pt-3">
-                        
-                            <h2 class="h3    ">
-                                Xbox Series X
-                            </h2>
-                        
-                        
-                            <p> The fastest, most powerful Xbox ever. </p>
-                        
-                    </div>
-                    <div class="card-footer pt-3 ">
-                        
-
-    
-    <div class="link-group">
-        
-        
-            
-    
-
-    
-
-    
-        <a data-bi-cn="Shop Xbox Series X" data-bi-ecn="Shop Xbox Series X" data-bi-ct="cta" data-bi-pa="body" class=" cta   " data-target-uri="https://www.microsoft.com/en-us/p/xbox-series-x/8wj714n3rbtl?icid=mscom_marcom_CPH3a_XboxSeriesX" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-mto="" aria-label="Shop Xbox Series X" target="_self" data-bi-ehn="Xbox Series X" data-bi-hn="Xbox Series X" data-bi-compnm="Content card vertical 4 up - noDepth" href="https://www.microsoft.com/en-us/p/xbox-series-x/8wj714n3rbtl?icid=mscom_marcom_CPH3a_XboxSeriesX">
-            Shop Xbox Series X
-        </a>
-    
-
-    
-
-    
-
-    
-
-    
-
-
-        
-    </div>
-
-
-                    </div>
-            </div>
-        </div>
-    
-
-    
-    
-        
-    
-    <script type="text/javascript" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer=""></script>
-
-
-    
-
-
-
-            
-            
-        
-            
-                
-    
-
-    
-        
-    
-
-
-
-    
-
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-    
-        <div class="col 
-                    
-                    " clickgroup-telemetry-enabled="" data-offerkey="offer_3">
-            <div class="card  " data-bi-ecn="Join now" data-target-uri="https://www.microsoft.com/en-us/p/xbox-game-pass-ultimate/cfq7ttc0khs0?icid=mscom_marcom_CPH4a_GamePassUltimate" data-bi-ehn="Xbox Game Pass Ultimate" data-bi-pa="body" data-bi-ct="Content Card" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XGP-Game-Pass-Ultimate-Characters-06102010-1?wid=515&amp;hei=293&amp;fit=crop" data-bi-hn="Xbox Game Pass Ultimate" data-bi-bhvr="0" data-bi-cn="Join now" data-bi-compnm="Content card vertical 4 up - noDepth">
-                
-                    
-	<picture>
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XGP-Game-Pass-Ultimate-Characters-06102010-1?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XGP-Game-Pass-Ultimate-Characters-06102010-1?wid=380&amp;hei=213&amp;fit=crop">
-		<source data-srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XGP-Game-Pass-Ultimate-Characters-06102010-1?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)" srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XGP-Game-Pass-Ultimate-Characters-06102010-1?wid=297&amp;hei=167&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XGP-Game-Pass-Ultimate-Characters-06102010-1?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XGP-Game-Pass-Ultimate-Characters-06102010-1?wid=517&amp;hei=293&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XGP-Game-Pass-Ultimate-Characters-06102010-1?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XGP-Game-Pass-Ultimate-Characters-06102010-1?wid=406&amp;hei=230&amp;fit=crop">
-		<img data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XGP-Game-Pass-Ultimate-Characters-06102010-1?wid=515&amp;hei=293&amp;fit=crop" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/gldn-XGP-Game-Pass-Ultimate-Characters-06102010-1" class="card-img blur-up lazypreload lazyloaded" alt="">
-	</picture>
-	
-
-                    
-                
-                    <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
-                    
-                    <div class="card-body  pt-3">
-                        
-                            <h2 class="h3    ">
-                                Xbox Game Pass Ultimate
-                            </h2>
-                        
-                        
-                            <p> Xbox Live Gold and hundreds of high-quality console and PC games. Play together with friends and discover your next favorite game. </p>
-                        
-                    </div>
-                    <div class="card-footer pt-3 ">
-                        
-
-    
-    <div class="link-group">
-        
-        
-            
-    
-
-    
-
-    
-        <a data-bi-cn="Join now" data-bi-ecn="Join now" data-bi-ct="cta" data-bi-pa="body" class=" cta   " data-target-uri="https://www.microsoft.com/en-us/p/xbox-game-pass-ultimate/cfq7ttc0khs0?icid=mscom_marcom_CPH4a_GamePassUltimate" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XGP-Game-Pass-Ultimate-Characters-06102010-1?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-mto="" aria-label="Join Xbox Game Pass Ultimate" target="_self" data-bi-ehn="Xbox Game Pass Ultimate" data-bi-hn="Xbox Game Pass Ultimate" data-bi-compnm="Content card vertical 4 up - noDepth" href="https://www.microsoft.com/en-us/p/xbox-game-pass-ultimate/cfq7ttc0khs0?icid=mscom_marcom_CPH4a_GamePassUltimate">
-            Join now
-        </a>
-    
-
-    
-
-    
-
-    
-
-    
-
-
-        
-    </div>
-
-
-                    </div>
-            </div>
-        </div>
-    
-
-    
-    
-        
-    
-    <script type="text/javascript" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer=""></script>
-
-
-    
-
-
-
-            
-            
-        
-    </div>
-    
-</section>
-
-
 
 </div>
-
-          
-     </div>
-</div></div>
-
-    
-</div>
-</div>
-<div class="responsivegrid mt-5 mb-md-5 aem-GridColumn aem-GridColumn--default--12">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
-
-
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uidbabe  heading-bg-color-layout-container-uidbabe">
-          <style>
-                    .heading-bg-color-layout-container-uidbabe{
-                         background-color:  !important;
-                    }
-          </style>
-     
-     <div class="container" id="layout-container-uidbabe" data-componentname="layout-container-uidbabe">
-          
-          
-          <div class="highlight aem-GridColumn aem-GridColumn--default--12" data-component-id="a27bdc16afeeac2a37e8a078a9322fea">
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-
-
-
-
-
-
-    
-        <div id="highlight-uid9f2c" data-componentname="highlight-uid9f2c" class="card-img-overlay " clickgroup-telemetry-enabled="">
-            
-            <div class="card-background">
-                    
-                        
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Xbox-Series-S-1TB-Black-002:VP5-1596x600" media="(min-width: 1400px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Xbox-Series-S-1TB-Black-002:VP4-1260x600" media="(min-width: 1084px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Xbox-Series-S-1TB-Black-002:VP3-1083x600" media="(min-width: 860px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Xbox-Series-S-1TB-Black-002:VP2-859x540" media="(min-width: 540px)">
-                        
-                        
-                    
-                    <picture>
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Xbox-Series-S-1TB-Black-002:VP5-1596x600" media="(min-width: 1400px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Xbox-Series-S-1TB-Black-002:VP4-1260x600" media="(min-width: 1084px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Xbox-Series-S-1TB-Black-002:VP3-1083x600" media="(min-width: 860px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Xbox-Series-S-1TB-Black-002:VP2-859x540" media="(min-width: 540px)">
-                        <img id="img-highlight-uid9f2c" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/Highlight-Xbox-Series-S-1TB-Black-002_VP1-539x440" class="card-img w-100" alt="Right angle front view of the Xbox Series S - 1TB (Black) in front of a gray background.">
-                    </picture>
-            </div>
-            
-            
-                <div class="card-foreground    ">
-                    
-                    <div class="container">
-                        
-                        <div class="d-flex mt-md-n5 my-lg-5 ">
-                            
-                            <div class="w-100 w-lg-col-5 ">
-                                
-                                <div class="card material-md-card py-5 px-md-5 depth-lg-none bg-lg-transparent-text-dark ">
-                                    <div id="card-body-highlight-uid9f2c" class="card-body " data-highlight-compname="Highlight">
-                                        
-
-
-                                        
-                                        
-    <h2>
-        
-            Power your dreams
-        
-        
-    </h2>
-
-                                        <div class="mb-4 ">
-                                            Introducing Xbox Series S in Carbon Black, now with a 1 TB SSD. Experience next-gen speed and performance.
-                                        </div>
-                                        
-    
-    
-    
-    
-
-
-                                        
-
-    
-    <div class="link-group">
-        
-        
-            
-    
-
-    
-
-    
-
-    
-        <a data-bi-cn="Pre-order now" data-bi-ecn="Pre-order now" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://www.microsoft.com/en-us/d/Xbox-Series-S-1TB-black/8zcbgtt29h9c/?icid=mscom_marcom_MPH1a_XboxSeriesS1TB" data-bi-bhvr="0" data-bi-mto="" aria-label="Pre-order now" target="_self" href="https://www.microsoft.com/en-us/d/Xbox-Series-S-1TB-black/8zcbgtt29h9c/?icid=mscom_marcom_MPH1a_XboxSeriesS1TB">
-            Pre-order now</a>
-    
-
-    
-
-    
-
-    
-
-
-        
-    </div>
-
-
-
-                                        
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        </section>
                     </div>
                 </div>
-            
-        </div>
-    
-    
 
-
-
-    
-    
-
-
-
-
-
-</div>
-
-          
-     </div>
-</div></div>
-
-    
-</div>
-</div>
-<div class="responsivegrid mt-5 mb-5 aem-GridColumn aem-GridColumn--default--12">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
-
-
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uid8f4c  heading-bg-color-layout-container-uid8f4c">
-          <style>
-                    .heading-bg-color-layout-container-uid8f4c{
-                         background-color:  !important;
-                    }
-          </style>
-     
-     <div class="container" id="layout-container-uid8f4c" data-componentname="layout-container-uid8f4c">
-          
-          
-          <div class="heading aem-GridColumn aem-GridColumn--default--12" data-component-id="6b880e252846ae03b532f40bd58c2fae">
-
-<h2>For business</h2>
-
-
-
-</div>
-<div class="content-card aem-GridColumn aem-GridColumn--default--12" data-component-id="e4caa97101f9f7cf8317c819b353e6ed">
-
-    
-
-
-
-    
-    
-    <script type="text/javascript" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHeb1d4b46ab498ba349a97e53a9644534.js" defer=""></script>
-
-
-
-
-
-	
-    
-
-
-
-
-
-<section id="content-card-uidfe01" data-componentname="content-card-uidfe01">
-    <div class="row row-cols-1   row-cols-sm-2 row-cols-lg-4">
-        
-            
-                
-    
-
-    
-        
-    
-
-
-
-    
-
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-    
-        <div class="col 
-                    mb-5 mb-lg-0
-                    " clickgroup-telemetry-enabled="">
-            <div class="card  " data-bi-ecn="Shop Surface Pro 9 for Business Bundle" data-target-uri="https://www.microsoft.com/en-us/d/surface-pro-9-for-business-bundle/8qt90p6kfpl0?icid=mscom_marcom_CPW1a_Pro9forBusinessBundle" data-bi-ehn="Save up to $288 on Surface Pro 9 for Business Bundle" data-bi-pa="body" data-bi-ct="Content Card" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Surface-Pro-9-Business-Pro-Keyboard-Black?wid=515&amp;hei=293&amp;fit=crop" data-bi-hn="Save up to $288 on Surface Pro 9 for Business Bundle" data-bi-bhvr="0" data-bi-cn="Shop Surface Pro 9 for Business Bundle" data-bi-compnm="Content card vertical 4 up - noDepth">
-                
-                    
-	<picture>
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Surface-Pro-9-Business-Pro-Keyboard-Black?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Surface-Pro-9-Business-Pro-Keyboard-Black?wid=380&amp;hei=213&amp;fit=crop">
-		<source data-srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Surface-Pro-9-Business-Pro-Keyboard-Black?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)" srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Surface-Pro-9-Business-Pro-Keyboard-Black?wid=297&amp;hei=167&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Surface-Pro-9-Business-Pro-Keyboard-Black?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Surface-Pro-9-Business-Pro-Keyboard-Black?wid=517&amp;hei=293&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Surface-Pro-9-Business-Pro-Keyboard-Black?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Surface-Pro-9-Business-Pro-Keyboard-Black?wid=406&amp;hei=230&amp;fit=crop">
-		<img data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Surface-Pro-9-Business-Pro-Keyboard-Black?wid=515&amp;hei=293&amp;fit=crop" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/Content-Card-Surface-Pro-9-Business-Pro-Keyboard-Black" class="card-img blur-up lazypreload ls-is-cached lazyloaded" alt="A Surface Pro 9 for Business with a Surface Pro Keyboard in Black.">
-	</picture>
-	
-
-                    
-                
-                    <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
-                    
-                    <div class="card-body  pt-3">
-                        
-                            <h3>
-                                Save up to $288 on Surface Pro 9 for Business Bundle
-                            </h3>
-                        
-                        
-                            <p> Get the tablet versatility and laptop power you need when you bundle Surface Pro 9 for Business with a Surface Pro Signature Keyboard for Business. </p>
-                        
-                    </div>
-                    <div class="card-footer pt-3 ">
-                        
-
-    
-    <div class="link-group">
-        
-        
-            
-    
-
-    
-
-    
-        <a data-bi-cn="Shop Surface Pro 9 for Business Bundle" data-bi-ecn="Shop Surface Pro 9 for Business Bundle" data-bi-ct="cta" data-bi-pa="body" class=" cta   " data-target-uri="https://www.microsoft.com/en-us/d/surface-pro-9-for-business-bundle/8qt90p6kfpl0?icid=mscom_marcom_CPW1a_Pro9forBusinessBundle" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Surface-Pro-9-Business-Pro-Keyboard-Black?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-mto="" aria-label="Shop Surface Pro 9 for Business Bundle" target="_self" data-bi-ehn="Save up to $288 on Surface Pro 9 for Business Bundle" data-bi-hn="Save up to $288 on Surface Pro 9 for Business Bundle" data-bi-compnm="Content card vertical 4 up - noDepth" href="https://www.microsoft.com/en-us/d/surface-pro-9-for-business-bundle/8qt90p6kfpl0?icid=mscom_marcom_CPW1a_Pro9forBusinessBundle">
-            Shop Surface Pro 9 for Business Bundle
-        </a>
-    
-
-    
-
-    
-
-    
-
-    
-
-
-        
     </div>
-
-
-                    </div>
-            </div>
-        </div>
-    
-
-    
-    
-        
-    
-    <script type="text/javascript" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer=""></script>
-
-
-    
-
-
-
-            
-            
-        
-            
-                
-    
-
-    
-        
-    
-
-
-
-    
-
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-    
-        <div class="col 
-                    mb-5 mb-lg-0
-                    " clickgroup-telemetry-enabled="">
-            <div class="card  " data-bi-ecn="Start your free trial" data-target-uri="https://www.microsoft.com/en-us/microsoft-365/microsoft-365-business-standard-one-month-trial?icid=mscom_marcom_CPW2a_M365forBusiness&amp;activetab=tab%3aprimaryr2" data-bi-ehn="Try Microsoft 365 for free" data-bi-pa="body" data-bi-ct="Content Card" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-For-Business-Woman-Teams-Call?wid=515&amp;hei=293&amp;fit=crop" data-bi-hn="Try Microsoft 365 for free" data-bi-bhvr="0" data-bi-cn="Start your free trial" data-bi-compnm="Content card vertical 4 up - noDepth">
-                
-                    
-	<picture>
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-For-Business-Woman-Teams-Call?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-For-Business-Woman-Teams-Call?wid=380&amp;hei=213&amp;fit=crop">
-		<source data-srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-For-Business-Woman-Teams-Call?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)" srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-For-Business-Woman-Teams-Call?wid=297&amp;hei=167&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-For-Business-Woman-Teams-Call?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-For-Business-Woman-Teams-Call?wid=517&amp;hei=293&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-For-Business-Woman-Teams-Call?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-For-Business-Woman-Teams-Call?wid=406&amp;hei=230&amp;fit=crop">
-		<img data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-For-Business-Woman-Teams-Call?wid=515&amp;hei=293&amp;fit=crop" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/Content-Card-Microsoft-365-For-Business-Woman-Teams-Call" class="card-img blur-up lazypreload ls-is-cached lazyloaded" alt="A woman sips a cup of tea and participates in a Microsoft Teams call with her coworkers.">
-	</picture>
-	
-
-                    
-                
-                    <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
-                    
-                    <div class="card-body  pt-3">
-                        
-                            <h3>
-                                Try Microsoft 365 for free
-                            </h3>
-                        
-                        
-                            <p> Get Microsoft Teams, secure cloud storage, and premium apps across devices with a free one-month Microsoft 365 Business Standard trial. </p>
-                        
-                    </div>
-                    <div class="card-footer pt-3 ">
-                        
-
-    
-    <div class="link-group">
-        
-        
-            
-    
-
-    
-
-    
-        <a data-bi-cn="Start your free trial" data-bi-ecn="Start your free trial" data-bi-ct="cta" data-bi-pa="body" class=" cta   " data-target-uri="https://www.microsoft.com/en-us/microsoft-365/microsoft-365-business-standard-one-month-trial?icid=mscom_marcom_CPW2a_M365forBusiness&amp;activetab=tab%3aprimaryr2" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-For-Business-Woman-Teams-Call?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-mto="" aria-label="Start your free trial" target="_self" data-bi-ehn="Try Microsoft 365 for free" data-bi-hn="Try Microsoft 365 for free" data-bi-compnm="Content card vertical 4 up - noDepth" href="https://www.microsoft.com/en-us/microsoft-365/microsoft-365-business-standard-one-month-trial?icid=mscom_marcom_CPW2a_M365forBusiness&amp;activetab=tab%3aprimaryr2">
-            Start your free trial
-        </a>
-    
-
-    
-
-    
-
-    
-
-    
-
-
-        
-    </div>
-
-
-                    </div>
-            </div>
-        </div>
-    
-
-    
-    
-        
-    
-    <script type="text/javascript" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer=""></script>
-
-
-    
-
-
-
-            
-            
-        
-            
-                
-    
-
-    
-        
-    
-
-
-
-    
-
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-    
-        <div class="col 
-                    
-                    mb-5 mb-sm-0" clickgroup-telemetry-enabled="">
-            <div class="card  " data-bi-ecn="Explore AI solutions" data-target-uri="https://www.microsoft.com/en-us/ai?icid=mscom_marcom_CPW3a_AzureAI" data-bi-ehn="Join the era of AI" data-bi-pa="body" data-bi-ct="Content Card" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Azure-AI-Bloom?wid=515&amp;hei=293&amp;fit=crop" data-bi-hn="Join the era of AI" data-bi-bhvr="0" data-bi-cn="Explore AI solutions" data-bi-compnm="Content card vertical 4 up - noDepth">
-                
-                    
-	<picture>
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Azure-AI-Bloom?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Azure-AI-Bloom?wid=380&amp;hei=213&amp;fit=crop">
-		<source data-srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Azure-AI-Bloom?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)" srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Azure-AI-Bloom?wid=297&amp;hei=167&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Azure-AI-Bloom?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Azure-AI-Bloom?wid=517&amp;hei=293&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Azure-AI-Bloom?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Azure-AI-Bloom?wid=406&amp;hei=230&amp;fit=crop">
-		<img data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Azure-AI-Bloom?wid=515&amp;hei=293&amp;fit=crop" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/Content-Card-Azure-AI-Bloom" class="card-img blur-up lazypreload ls-is-cached lazyloaded" alt="">
-	</picture>
-	
-
-                    
-                
-                    <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
-                    
-                    <div class="card-body  pt-3">
-                        
-                            <h3>
-                                Join the era of AI
-                            </h3>
-                        
-                        
-                            <p> Create, communicate, and code with the latest Microsoft AI solutions. </p>
-                        
-                    </div>
-                    <div class="card-footer pt-3 ">
-                        
-
-    
-    <div class="link-group">
-        
-        
-            
-    
-
-    
-
-    
-        <a data-bi-cn="Explore AI solutions" data-bi-ecn="Explore AI solutions" data-bi-ct="cta" data-bi-pa="body" class=" cta   " data-target-uri="https://www.microsoft.com/en-us/ai?icid=mscom_marcom_CPW3a_AzureAI" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Azure-AI-Bloom?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-mto="" aria-label="Explore AI solutions" target="_self" data-bi-ehn="Join the era of AI" data-bi-hn="Join the era of AI" data-bi-compnm="Content card vertical 4 up - noDepth" href="https://www.microsoft.com/en-us/ai?icid=mscom_marcom_CPW3a_AzureAI">
-            Explore AI solutions
-        </a>
-    
-
-    
-
-    
-
-    
-
-    
-
-
-        
-    </div>
-
-
-                    </div>
-            </div>
-        </div>
-    
-
-    
-    
-        
-    
-    <script type="text/javascript" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer=""></script>
-
-
-    
-
-
-
-            
-            
-        
-            
-                
-    
-
-    
-        
-    
-
-
-
-    
-
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-    
-        <div class="col 
-                    
-                    " clickgroup-telemetry-enabled="">
-            <div class="card  " data-bi-ecn="Get it today" data-target-uri="https://www.microsoft.com/en-us/windows-365?icid=mscom_marcom_CPW4a_Windows365" data-bi-ehn="Welcome to your Windows 365 Cloud PC" data-bi-pa="body" data-bi-ct="Content Card" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/JIC-DPS-CP01?wid=515&amp;hei=293&amp;fit=crop" data-bi-hn="Welcome to your Windows 365 Cloud PC" data-bi-bhvr="0" data-bi-cn="Get it today" data-bi-compnm="Content card vertical 4 up - noDepth">
-                
-                    
-	<picture>
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/JIC-DPS-CP01?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/JIC-DPS-CP01?wid=380&amp;hei=213&amp;fit=crop">
-		<source data-srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/JIC-DPS-CP01?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)" srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/JIC-DPS-CP01?wid=297&amp;hei=167&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/JIC-DPS-CP01?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/JIC-DPS-CP01?wid=517&amp;hei=293&amp;fit=crop">
-		<source data-srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/JIC-DPS-CP01?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)" srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/JIC-DPS-CP01?wid=406&amp;hei=230&amp;fit=crop">
-		<img data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/JIC-DPS-CP01?wid=515&amp;hei=293&amp;fit=crop" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/JIC-DPS-CP01" class="card-img blur-up lazypreload ls-is-cached lazyloaded" alt="Two computer screens in the cloud showing Windows 365">
-	</picture>
-	
-
-                    
-                
-                    <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
-                    
-                    <div class="card-body  pt-3">
-                        
-                            <h3>
-                                Welcome to your Windows 365 Cloud PC
-                            </h3>
-                        
-                        
-                            <p> Securely stream your Windows experience from the Microsoft cloud to any device. </p>
-                        
-                    </div>
-                    <div class="card-footer pt-3 ">
-                        
-
-    
-    <div class="link-group">
-        
-        
-            
-    
-
-    
-
-    
-        <a data-bi-cn="Get it today" data-bi-ecn="Get it today" data-bi-ct="cta" data-bi-pa="body" class=" cta   " data-target-uri="https://www.microsoft.com/en-us/windows-365?icid=mscom_marcom_CPW4a_Windows365" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/JIC-DPS-CP01?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-mto="" aria-label="Get Windows 365 Cloud PC" target="_self" data-bi-ehn="Welcome to your Windows 365 Cloud PC" data-bi-hn="Welcome to your Windows 365 Cloud PC" data-bi-compnm="Content card vertical 4 up - noDepth" href="https://www.microsoft.com/en-us/windows-365?icid=mscom_marcom_CPW4a_Windows365">
-            Get it today
-        </a>
-    
-
-    
-
-    
-
-    
-
-    
-
-
-        
-    </div>
-
-
-                    </div>
-            </div>
-        </div>
-    
-
-    
-    
-        
-    
-    <script type="text/javascript" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer=""></script>
-
-
-    
-
-
-
-            
-            
-        
-    </div>
-    
-</section>
-
-
-
 </div>
 
-          
-     </div>
-</div></div>
 
-    
-</div>
-</div>
-<div class="responsivegrid mt-0 mb-0 aem-GridColumn aem-GridColumn--default--12">
 
 
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
 
 
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uid8fad  heading-bg-color-layout-container-uid8fad">
-          <style>
-                    .heading-bg-color-layout-container-uid8fad{
-                         background-color:  !important;
-                    }
-          </style>
-     
-     <div class="container" id="layout-container-uid8fad" data-componentname="layout-container-uid8fad">
-          
-          
-          
-          
-     </div>
-</div></div>
-
-    
-</div>
-</div>
-<div class="responsivegrid mt-0 aem-GridColumn aem-GridColumn--default--12">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
-
-
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uidbcee default heading-bg-color-layout-container-uidbcee">
-          <style>
-                    .heading-bg-color-layout-container-uidbcee{
-                         background-color:  !important;
-                    }
-          </style>
-     
-     <div class="container" id="layout-container-uidbcee" data-componentname="layout-container-uidbcee">
-          
-          
-          <div class="highlightcarousel carouselbase carousel aem-GridColumn aem-GridColumn--default--12" data-component-id="96a15ad1a5dc15e5f04a9e4a63de74fa">
-
-
-
-    
-        
-    
-
-
-
-    
-     
-
-
-
-	
-    
-
-
-
-
-
-
-
-	
-
-
-	
-		
-			<section class="slideshowOverflow " aria-label="human-interest articles and stories slideshow: navigate using the slide tabs" aria-roledescription="slideshow">
-					<div id="status-container-x665c8f92597b4704a465744e007deb7e">
-						<span id="status-msg-x665c8f92597b4704a465744e007deb7e" class="sr-only" aria-live="polite">Slide %{start} of %{total}. %{slideTitle}</span>
-					</div>
-				<div class="carousel slide carousel-highlight carousel-variable-height" data-mount="autoplay-carousel" data-status="status-container-x665c8f92597b4704a465744e007deb7e">
-					
-						<a href="https://www.microsoft.com/en-us#84954ba2-3b49-4970-8378-b06714fce1bc" class="btn btn-link sr-only-focusable w-100 position-absolute">
-						Skip human-interest articles and stories slideshow: navigate using the slide tabs 
-						</a>
-						
-					<div>
-						<div class="carousel-controls">
-							
-								<button type="button" class="carousel-control-autoplay" data-slide="play" aria-labelledby="playButton-x665c8f92597b4704a465744e007deb7e " aria-pressed="true">
-									<span class="sr-only" id="playButton-x665c8f92597b4704a465744e007deb7e">Pause</span>
-								</button>
-							
-							<button type="button" class="carousel-control-prev" data-slide="prev" title="Previous" data-bi-cn="Carousel Back" data-bi-ecn="Carousel Back" data-bi-ct="Button" data-bi-pa="Body" data-bi-compnm="Highlight Carousel" data-bi-bhvr="1">
-								<span class="sr-only" id="carousel-control-prev">Previous</span>
-							</button>
-							<ol class="carousel-indicators" aria-hidden="true">
-								
-									<li class="active"></li>
-								
-									<li></li>
-								
-							</ol>
-							<button type="button" class="carousel-control-next" data-slide="next" title="Next" data-bi-cn="Carousel Forward" data-bi-ecn="Carousel Forward" data-bi-ct="Button" data-bi-pa="Body" data-bi-compnm="Highlight Carousel" data-bi-bhvr="3">
-								<span class="sr-only" id="carousel-control-next">Next</span>
-							</button>
-						</div>
-						<div class="carousel-inner">
-							
-								
-									<section class="carousel-item depth-4 depth-md-none active" tabindex="0" itemtitle="Slide 1" aria-hidden="false" aria-label="1 of 2 " aria-roledescription="slide"><div class="highlight" data-component-id="a27bdc16afeeac2a37e8a078a9322fea">
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-
-
-
-
-
-
-    
-        <div id="highlight-uid8f18" data-componentname="highlight-uid8f18" class="card-img-overlay " clickgroup-telemetry-enabled="">
-            
-            <div class="card-background">
-                    
-                        
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Microsoft-AI-Anthology:VP5-1596x600" media="(min-width: 1400px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Microsoft-AI-Anthology:VP4-1260x600" media="(min-width: 1084px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Microsoft-AI-Anthology:VP3-1083x600" media="(min-width: 860px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Microsoft-AI-Anthology:VP2-859x540" media="(min-width: 540px)">
-                        
-                        
-                    
-                    <picture>
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Microsoft-AI-Anthology:VP5-1596x600" media="(min-width: 1400px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Microsoft-AI-Anthology:VP4-1260x600" media="(min-width: 1084px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Microsoft-AI-Anthology:VP3-1083x600" media="(min-width: 860px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Microsoft-AI-Anthology:VP2-859x540" media="(min-width: 540px)">
-                        <img id="img-highlight-uid8f18" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/Highlight-Microsoft-AI-Anthology_VP1-539x440" class="card-img w-100" alt="">
-                    </picture>
-            </div>
-            
-            
-                <div class="card-foreground    ">
-                    
-                    <div class="container">
-                        
-                        <div class="d-flex mt-md-n5 my-lg-5 justify-content-end">
-                            
-                            <div class="w-100 w-lg-col-5 ">
-                                
-                                <div class="card material-md-card px-g px-md-5 pt-4 pb-3 py-md-5  ">
-                                    <div id="card-body-highlight-uid8f18" class="card-body " data-highlight-compname="Highlight">
-                                        
-
-
-                                        
-                                        
-    <h2>
-        
-            Harnessing AI breakthroughs for humanity
-        
-        
-    </h2>
-
-                                        <div class="mb-4 ">
-                                            Experts weigh the transformative nature of GPT-4, reflecting on potential safeguards and exploring future uses in thought-provoking essays.
-                                        </div>
-                                        
-    
-    
-    
-    
-
-
-                                        
-
-    
-    <div class="link-group">
-        
-        
-            
-    
-
-    
-
-    
-
-    
-        <a data-bi-cn="Read the essays" data-bi-ecn="Read the essays" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://unlocked.microsoft.com/ai-anthology/?ocid=cmmp8au5nf1" data-bi-bhvr="0" data-bi-mto="" aria-label="Read the essays" target="_self" href="https://unlocked.microsoft.com/ai-anthology/?ocid=cmmp8au5nf1">
-            Read the essays</a>
-    
-
-    
-
-    
-
-    
-
-
-        
-    </div>
-
-
-
-                                        
-                                    </div>
-                                </div>
-                            </div>
                         </div>
+
+
+
+<div data-vg="Feature" data-grid="container" class="image-priority-accolate featurebox" style="" id="phoneLink"   >
+            <section data-grid="col-12" class="m-feature f-align-right rounded-corners sync herowithgradientline-blue  ">
+                   <picture class="c-image">
+                        <source data-srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW16Ptm" media="(min-width:0px)" srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW16Ptm">
+                        <img class="lazyloaded " alt="打开的笔记本电脑旁边放着手机，周围浮动着一些表情符号" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW16Ptm" data-src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW16Ptm">
+                    </picture>
+                <div class="featurecontent ">
+
+                                                            <h2 class="c-heading-2 f-lean main-heading">同步电脑和手机 </h2>                    <p class="c-paragraph-2 padding-top-24">Microsoft Phone Link 使您能够从电脑上拨打电话、回复短信和查看手机上的通知<sup>5</sup>。</p>                                                                <div class="c-group ">
+                                    <a href="https://support.microsoft.com/zh-cn/topic/%E5%85%B3%E4%BA%8E%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BD%BF%E7%94%A8-honor-%E5%92%8C-samsung-%E6%89%8B%E6%9C%BA%E8%BF%9E%E6%8E%A5-windows-%E7%9A%84%E8%AE%BE%E7%BD%AE%E5%92%8C%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4-e5202eb1-f977-4987-b113-29a47dfd6018" target="_self" aria-label="了解如何使用 Microsoft Phone Link 将手机和 Windows 电脑同步&#160;" class="c-call-to-action c-glyph c-button f-primary blue-button">
+                                        <span>探索 Phone Link </span>
+                                    </a>
+
+                        </div>
+                                                        </div>
+            </section>
+
+</div>
+
+
+<div data-vg="Feature" data-grid="container" class="image-priority-accolate featurebox" style="" id="bing"   >
+            <section data-grid="col-12" class="m-feature f-align-left rounded-corners bingChat herowithgradientline-blue  ">
+                   <picture class="c-image">
+                        <source data-srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10HtO?ver=dc9d" media="(min-width:0px)" srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10HtO?ver=dc9d">
+                        <img class="lazyloaded " alt="以山脉为背景的必应徽标" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10HtO?ver=dc9d" data-src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10HtO?ver=dc9d">
+                    </picture>
+                <div class="featurecontent ">
+
+                                                            <h2 class="c-heading-2 f-lean main-heading">与 AI 支持的必应聊天 </h2>                    <p class="c-paragraph-2 padding-top-24">由最新的 AI 技术支持，全新必应集搜索、浏览和聊天于一体，帮您充分利用 Web。从 Windows 任务栏开始，找到相关且全面的搜索结果。开启互动聊天，补充问题，以细化您的搜索。利用建议获得灵感，开启您的创作之旅。上网浏览从未如此简单。</p>                                                                <div class="c-group ">
+                                    <a href="https://www.bing.com/chat?form=MY02AT&amp;OCID=MY02AT" target="_blank" aria-label="立即试用 AI 支持的必应搜索" class="c-call-to-action c-glyph c-button f-primary blue-button">
+                                        <span>立即试用</span>
+                                    </a>
+
+                        </div>
+                                                        </div>
+            </section>
+
+</div>
+<div data-vg="Banner" id="pcs">
+    <div data-grid="col-12" class="m-banner x-type-center margin-bottom-48 rounded-corners">
+
+                            <h2 class="c-heading-1">查找合适设备</h2>
+                    <p class="c-paragraph-2">探索一系列新 PC，或获取帮助，选择最适合您独特需求的电脑。</p>
+                    <div class="c-group">
+                        <a href="https://www.microsoft.com/zh-cn/windows/help-me-choose" target="_self" aria-label="帮我选择一款 PC" class="c-call-to-action c-glyph c-button f-primary blue-button">
+                            <span>帮我选择</span>
+                        </a>
+
+            </div>
+            </div>
+</div>
+<div data-vg="Mosaic" data-grid="container" id="devices-mosaic">
+    <div class="m-mosaic devices-mosaic mosaic-devices rounded-corners">
+        <div class="c-mosaic">
+            <div class="mosaic_firstleft_img_main" data-f-mosaic="f-vp1-whole f-vp4-half f-height-large">
+                <section class="c-mosaic-placement f-background-neutral_color f-height-large f-width-large">
+                    <picture class="l_img">
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pYY" media="(min-width: 1400px)">
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pYY" media="(min-width: 1084px)">
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pYY" media="(min-width:540px)">
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pYY" media="(min-width:0)">
+                        <img srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pYY" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pYY" alt="打开的 PC，显示 Windows Bloom 壁纸">
+                    </picture>
+                    <div>
+                                                    <p class="c-subheading"></p>
+                                                    <div class="c-group bottom-left">
+                                        <a href="https://www.microsoft.com/zh-cn/windows/windows-laptops" target="_self" aria-label="购买笔记本电脑" class="c-call-to-action c-glyph c-button f-primary blue-button hide">
+                                            <span>购买笔记本电脑</span>
+                                        </a>
+
+                            </div>
+                    </div>
+                </section>
+            </div>
+            <div data-f-mosaic="f-vp1-whole f-vp4-half">
+
+                        <div class="mosaic_r_1_main" data-f-mosaic="f-vp1-whole f-vp2-half f-height-medium">
+                            <section class="c-mosaic-placement f-background-neutral_color f-height-large f-width-small">
+                                <picture class="mosaic_r_img_1">
+                                    <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvr" media="(min-width: 1400px)">
+                                    <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvr" media="(min-width: 1084px)">
+                                    <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvr" media="(min-width:540px)">
+                                    <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvr" media="(min-width:0)">
+                                    <img srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvr" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvr" alt="显示 Windows 11 Bloom 壁纸的 PC，旁边有一支笔">
+                                </picture>
+                                <div>
+                                                                            <p class="c-subheading"></p>
+                                                                            <div class="c-group bottom-left">
+                                                    <a href="https://www.microsoft.com/zh-cn/windows/2-in-1s" target="_self" aria-label="购买二合一笔记本电脑" class="c-call-to-action c-glyph c-button f-primary blue-button hide">
+                                                        <span>购买二合一设备</span>
+                                                    </a>
+                                        </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="mosaic_r_1_main" data-f-mosaic="f-vp1-whole f-vp2-half f-height-medium">
+                            <section class="c-mosaic-placement f-background-neutral_color f-height-large f-width-small">
+                                <picture class="mosaic_r_img_1">
+                                    <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvG" media="(min-width: 1400px)">
+                                    <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvG" media="(min-width: 1084px)">
+                                    <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvG" media="(min-width:540px)">
+                                    <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvG" media="(min-width:0)">
+                                    <img srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvG" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvG" alt="折叠打开的 PC，显示 Windows 11 Bloom 壁纸">
+                                </picture>
+                                <div>
+                                                                            <p class="c-subheading"></p>
+                                                                            <div class="c-group bottom-left">
+                                                    <a href="https://www.microsoft.com/zh-cn/windows/help-me-choose" target="_self" aria-label="帮我选择一款 PC" class="c-call-to-action c-glyph c-button f-primary blue-button hide">
+                                                        <span>帮我选择</span>
+                                                    </a>
+                                        </div>
+                                </div>
+                            </section>
+                        </div>
+
+
+                <div data-f-mosaic="f-vp1-whole f-height-medium">
+                    <section class="c-mosaic-placement mosaic_right_bottom_image_1 f-background-neutral_color f-height-large f-width-large">
+                        <picture class="mosaic_right_btm_img_1">
+                            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvR" media="(min-width: 1400px)">
+                            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvR" media="(min-width: 1084px)">
+                            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvR" media="(min-width:540px)">
+                            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvR" media="(min-width:0)">
+                            <img srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvR" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13nvR" alt="带有暗黑模式 Windows Bloom 的 PC 以及键盘和鼠标">
+                        </picture>
+                        <div>
+                                                            <p class="c-subheading"></p>
+                                                            <div class="c-group bottom-left">
+                                            <a href="https://www.microsoft.com/zh-cn/windows/gaming-pcs" target="_self" aria-label="购买游戏电脑" class="c-call-to-action c-glyph c-button f-primary blue-button hide">
+                                                <span>购买游戏电脑</span>
+                                            </a>
+
+                                </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div data-vg="HeroItem" class="showinhigherVp win11-feature-hero" data-grid="">
+<section class="m-hero-item f-x-left f-y-center f-transparent rounded-corners herowithgradientline-blue bettergothergradientline margin-top-48 context-accessory " itemscope="" >
+                    <picture>
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55U7Q" media="(min-width: 1400px)">
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55U7Z" media="(min-width: 1084px)">
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE56CIX" media="(min-width:540px)">
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE56A9r" media="(min-width:0)">
+                        <img srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55U7Q" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55U7Q" alt="悬浮 Microsoft 365 应用程序徽标">
+                    </picture>
+                                <div>
+                    <div>
+
+                                                                            <h2 class="c-heading-1 f-lean">强强联手，如虎添翼</h2>
+                                                    <p class="c-paragraph-2">探索个性打造的 Windows&nbsp;11 体验，让您最喜爱的 Microsoft 工具如虎添翼。</p>
+
+                                            </div>
+                </div>
+            </section>
+</div>
+<div data-vg="HeroItem" class="showinlowerVp win11-feature-hero-lowervp" data-grid="">
+<section class="m-hero-item f-x-left f-y-center f-transparent rounded-corners herowithgradientline-blue bettergothergradientline margin-top-48 context-accessory " itemscope="" >
+                    <picture>
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55U7Q" media="(min-width: 1400px)">
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55U7Z" media="(min-width: 1084px)">
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE56CIX" media="(min-width:540px)">
+                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE56A9r" media="(min-width:0)">
+                        <img srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55U7Q" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55U7Q" alt="悬浮 Microsoft 365 应用程序徽标">
+                    </picture>
+                                <div>
+                    <div>
+
+                                                                            <h2 class="c-heading-1 f-lean">强强联手，如虎添翼</h2>
+                                                    <p class="c-paragraph-2">探索个性打造的 Windows&nbsp;11 体验，让您最喜爱的 Microsoft 工具如虎添翼。</p>
+
+                                            </div>
+                </div>
+            </section>
+</div>                        <div data-grid="container">
+                            
+
+<div data-vg="Content_Placement" class="m-content-placement x-type-left crossCards" id="homeContentPlacemet">
+    <div data-grid="col-11 stack-2">
+<div data-filter="" data-grid="col-4 pad-6x" class="content-touts " data-recent="0" data-popular="0">
+                    <div class="articletouts" data-grid="col-12">
+                        <section class="m-content-placement-item  f-size-medium rounded-corners">
+                                <picture>
+                                    <source data-srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13ik1" media="(min-width:0px)" srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13ik1">
+                                    <img class="lazyloaded " alt="电脑以及浮动的 Microsoft 365 应用徽标" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13ik1" data-src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13ik1">
+                                </picture>
+                                <div>
+
+                                    <h3 class="toutheading c-heading-3">Microsoft Store</h3>                                     
+                                             <p class="toutpara c-paragraph-4">
+                                                 您需要的应用。您喜欢观看的节目。在新版 Microsoft Store 中快速找到它们。<sup>1</sup> <sup>2</sup>
+                                             </p>
+                                                                            
+
+
+        <div class="c-group">
+                    <a href="https://www.microsoft.com/zh-cn/windows/windows-11-apps" target="_self" aria-label="探索 Windows 11 应用程序" class="c-call-to-action c-glyph">
+                        <span>探索 Windows 应用程序</span>
+                    </a>
+        </div>
+    
+
+
+</div>
+                        </section>
                     </div>
                 </div>
-            
+<div data-filter="" data-grid="col-4 pad-6x" class="content-touts " data-recent="0" data-popular="0">
+                    <div class="articletouts" data-grid="col-12">
+                        <section class="m-content-placement-item  f-size-medium rounded-corners">
+                                <picture>
+                                    <source data-srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13xW3" media="(min-width:0px)" srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13xW3">
+                                    <img class="lazyloaded " alt="电脑屏幕上显示 Microsoft Edge" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13xW3" data-src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13xW3">
+                                </picture>
+                                <div>
+
+                                    <h3 class="toutheading c-heading-3">Microsoft Edge</h3>                                     
+                                             <p class="toutpara c-paragraph-4">
+                                                 使用专为 Windows 构建的浏览器，充分利用您的在线时间。
+                                             </p>
+                                                                            
+
+
+        <div class="c-group">
+                    <a href="https://www.microsoft.com/edge?form=MA13I5" target="_blank" aria-label="获取 Microsoft Edge" class="c-call-to-action c-glyph">
+                        <span>获取 Microsoft Edge</span>
+                    </a>
         </div>
     
-    
-
-
-
-    
-    
-
-
-
 
 
 </div>
-</section>
-								
-								  								
-							
-								
-									<section class="carousel-item depth-4 depth-md-none " tabindex="0" itemtitle="Slide 2" aria-hidden="true" aria-label="2 of 2 " aria-roledescription="slide"><div class="highlight" data-component-id="a27bdc16afeeac2a37e8a078a9322fea">
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-
-
-
-
-
-
-    
-        <div id="highlight-uid705f" data-componentname="highlight-uid705f" class="card-img-overlay " clickgroup-telemetry-enabled="">
-            
-            <div class="card-background">
-                    
-                        
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-88Rising-Jackson-Wang:VP5-1596x600" media="(min-width: 1400px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-88Rising-Jackson-Wang:VP4-1260x600" media="(min-width: 1084px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-88Rising-Jackson-Wang:VP3-1083x600" media="(min-width: 860px)">
-                            <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-88Rising-Jackson-Wang:VP2-859x540" media="(min-width: 540px)">
-                        
-                        
-                    
-                    <picture>
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-88Rising-Jackson-Wang:VP5-1596x600" media="(min-width: 1400px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-88Rising-Jackson-Wang:VP4-1260x600" media="(min-width: 1084px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-88Rising-Jackson-Wang:VP3-1083x600" media="(min-width: 860px)">
-                        <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-88Rising-Jackson-Wang:VP2-859x540" media="(min-width: 540px)">
-                        <img id="img-highlight-uid705f" src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/Highlight-88Rising-Jackson-Wang_VP1-539x440" class="card-img w-100" alt="Singer, Jackson Wang, sits in front of the reflective elevator doors that welcome attendees to his show, The Magic Man Experience.">
-                    </picture>
-            </div>
-            
-            
-                <div class="card-foreground    ">
-                    
-                    <div class="container">
-                        
-                        <div class="d-flex mt-md-n5 my-lg-5 ">
-                            
-                            <div class="w-100 w-lg-col-5 ">
-                                
-                                <div class="card material-md-card px-g px-md-5 pt-4 pb-3 py-md-5 depth-lg-none bg-lg-transparent-text-light ">
-                                    <div id="card-body-highlight-uid705f" class="card-body " data-highlight-compname="Highlight">
-                                        
-
-
-                                        
-                                        
-    <h2>
-        
-            88rising connects with fans in new ways
-        
-        
-    </h2>
-
-                                        <div class="mb-4 ">
-                                            See how 88rising and Microsoft collaborated to showcase Asian creatives using Microsoft AI, Azure, Cognitive Services, and Custom Neural Voice.
-                                        </div>
-                                        
-    
-    
-    
-    
-
-
-                                        
-
-    
-    <div class="link-group">
-        
-        
-            
-    
-
-    
-
-    
-
-    
-        <a data-bi-cn="Learn more about 88rising" data-bi-ecn="Learn more about 88rising" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://unlocked.microsoft.com/88-rising/?ocid=cmms14b8j01" data-bi-bhvr="0" data-bi-mto="" aria-label="Learn more about 88rising" target="_self" href="https://unlocked.microsoft.com/88-rising/?ocid=cmms14b8j01">
-            Learn more about 88rising</a>
-    
-
-    
-
-    
-
-    
-
-
-        
-    </div>
-
-
-
-                                        
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        </section>
                     </div>
                 </div>
-            
+<div data-filter="" data-grid="col-4 pad-6x" class="content-touts " data-recent="0" data-popular="0">
+                    <div class="articletouts" data-grid="col-12">
+                        <section class="m-content-placement-item  f-size-medium rounded-corners">
+                                <picture>
+                                    <source data-srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13vfq" media="(min-width:0px)" srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13vfq">
+                                    <img class="lazyloaded " alt="电脑位于平面上，旁边放着触控笔" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13vfq" data-src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13vfq">
+                                </picture>
+                                <div>
+
+                                    <h3 class="toutheading c-heading-3">Microsoft 365</h3>                                     
+                                             <p class="toutpara c-paragraph-4">
+                                                 使用简易的 Windows&nbsp;11 多任务处理工具最大限度地提高您的工作效率，这些工具是专为配合您每天使用的 Microsoft 应用程序而构建的。<sup>3</sup>
+                                             </p>
+                                                                            
+
+
+        <div class="c-group">
+                    <a href="https://www.microsoft.com/microsoft-365" target="_blank" aria-label="探索 Microsoft 365" class="c-call-to-action c-glyph">
+                        <span>探索 Microsoft 365</span>
+                    </a>
         </div>
     
-    
-
-
-
-    
-    
-
-
-
 
 
 </div>
-</section>
-								
-								  								
-							
-						</div>
-					</div>
-				</div>
-			</section>
-			
-				<a id="84954ba2-3b49-4970-8378-b06714fce1bc" class="sr-only" tabindex="-1">End of human-interest articles and stories slideshow: navigate using the slide tabs section</a>
-			
-		
-	
+                        </section>
+                    </div>
+                </div>
 
-
-	
-    
-
-
-
-
-
-
-     
-     
-        
-    
-
-
-
-    
+    </div>
 </div>
 
-          
-     </div>
-</div></div>
-
-    
-</div>
-</div>
-<div class="responsivegrid mt-5 aem-GridColumn aem-GridColumn--default--12">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
 
 
 
 
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uid89d9  heading-bg-color-layout-container-uid89d9">
-          <style>
-                    .heading-bg-color-layout-container-uid89d9{
-                         background-color:  !important;
-                    }
-          </style>
-     
-     <div class="container" id="layout-container-uid89d9" data-componentname="layout-container-uid89d9">
-          
-          
-          <div class="socialfollow aem-GridColumn aem-GridColumn--default--12" data-component-id="f881184c0350e55b789024b15f22837e">
 
-    
+                        </div>
 
 
 
-<link rel="canonical" href="https://www.microsoft.com/en-us">
+<div id="numberListId" class="number bg-color-num rounded-corners numberlistpanel fy23-font-number" data-vg="NumberList">
+    <div id="">
+        <div data-grid="container" class="numberlist-structurelist nonumber" data-os="macos">
+            <div data-grid="col-4" class="numberlistbanner">
+                <div class="content">
+                        <h2 class="c-heading-2 f-lean">需要了解更多信息？</h2>
+                                            <p class="c-paragraph-1 fy23-font-weight">获取有关过渡至 Windows&nbsp;11 的帮助，并充分利用您的 Windows 体验。</p>
+                                            <div class="c-group">
+                                    <a href="https://www.microsoft.com/zh-cn/windows/business/compare-windows-11" target="_self" aria-label="点击访问 Windows 商业版比较页面。" class="c-call-to-action c-glyph c-button f-primary blue-button black-button hide">
+                                        <span>比较所有版本</span>
+                                    </a>
 
-    <section class="col-12" aria-labelledby="socialfollow-uid4e09" id="socialfollow-uid4e09" data-componentname="socialfollow-uid4e09">
-        <div class="base font-weight-normal d-inline align-middle mr-g">
-            Follow Microsoft
+                        </div>
+                </div>
+
+                    <div id="gradient-image-numglyphs">
+                        <picture class="c-image">
+                            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pZ1" media="(min-width: 1400px)">
+                            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pZ1" media="(min-width: 1084px)">
+                            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pZ1" media="(min-width:540px)">
+                            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pZ1" media="(min-width:0)">
+                            <img srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pZ1" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pZ1" alt="男人面带笑容，一手拿着电脑，一手拿着植物">
+                        </picture>
+                    </div>
+
+            </div>
+            <div data-grid="col-1"></div>
+            <div data-grid="col-7" class="numberlist">
+                        <div class="m-structured-list structure-container">
+                            <div class="c-structured-list">
+                                <span class="numbers"></span>
+                                <div class="structure-item">
+                                        <h3 class="c-heading-3">获取 Microsoft 资讯和更新</h3>
+                                    <p class="c-paragraph-1 fy23-font-weight">订阅我们的新闻稿，获得有关 Windows 及 Microsoft 其他产品的最新资讯、功能更新、操作技巧、优惠信息等内容。</p>
+                                        <div class="c-group">
+                                                    <a href="https://account.microsoft.com/profile/subscribe?TID=30799600-90d3-4c16-9362-48529640ab2c&amp;SRU=1SWDNWVSTY&amp;CRU=2SWDNWVS" target="_blank" aria-label="即可订阅以获取最新的 Windows 新闻和更新" class="c-call-to-action c-glyph">
+                                                        <span>即刻订阅</span>
+                                                    </a>
+
+                                        </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="m-structured-list structure-container">
+                            <div class="c-structured-list">
+                                <span class="numbers"></span>
+                                <div class="structure-item">
+                                        <h3 class="c-heading-3">成为 insider</h3>
+                                    <p class="c-paragraph-1 fy23-font-weight">注册 Windows 预览体验计划并开始与工程师合作，帮助塑造 Windows 的未来。</p>
+                                        <div class="c-group">
+                                                    <a href="https://insider.windows.com/" target="_blank" aria-label="了解有关 Windows 预览体验计划的更多信息" class="c-call-to-action c-glyph">
+                                                        <span>了解详细信息</span>
+                                                    </a>
+
+                                        </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+
+                    <div id="gradient-mobile">
+                        <picture class="c-image">
+                            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pZ1" media="(min-width: 1400px)">
+                            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pZ1" media="(min-width: 1084px)">
+                            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pZ1" media="(min-width:540px)">
+                            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pZ1" media="(min-width:0)">
+                            <img srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pZ1" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW10pZ1" alt="男人面带笑容，一手拿着电脑，一手拿着植物">
+                        </picture>
+                    </div>
+            </div>
         </div>
-        <ul class="list-inline d-inline-block align-middle mb-0">
-            <li class="list-inline-item mr-g">
-                
-                <a class="d-inline-block" href="https://www.facebook.com/Microsoft" target="_blank" data-bi-ecn="Facebook" data-bi-bhvr="126" data-bi-cn="Facebook" data-bi-socchn="Facebook" data-bi-ct="Social Button" data-bi-pa="body" data-bi-compnm="Social Follow - horizontal">
-                    <img src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/Facebook 2x" alt="Facebook" title="Facebook" width="32" height="32">
-                </a>
-            </li>
-        
-            <li class="list-inline-item mr-g">
-                
-                <a class="d-inline-block" href="https://twitter.com/microsoft" target="_blank" data-bi-ecn="Twitter" data-bi-bhvr="126" data-bi-cn="Twitter" data-bi-socchn="Twitter" data-bi-ct="Social Button" data-bi-pa="body" data-bi-compnm="Social Follow - horizontal">
-                    <img src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/Twitter 2x" alt="Twitter" title="Twitter" width="32" height="32">
-                </a>
-            </li>
-        
-            <li class="list-inline-item mr-g">
-                
-                <a class="d-inline-block" href="https://www.linkedin.com/company/microsoft" target="_blank" data-bi-ecn="LinkedIn" data-bi-bhvr="126" data-bi-cn="LinkedIn" data-bi-socchn="LinkedIn" data-bi-ct="Social Button" data-bi-pa="body" data-bi-compnm="Social Follow - horizontal">
-                    <img src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/Linkedin 2x" alt="LinkedIn" title="LinkedIn" width="32" height="32">
-                </a>
-            </li>
-        </ul>
-        <script type="application/ld+json">
-            {
-                "@context": "https://schema.org",
-                "@type": "Organization",
-                "name": "Microsoft",
-                "url": "https://www.microsoft.com/",
-                "sameAs":["https://www.facebook.com/Microsoft","https://twitter.com/microsoft","https://www.linkedin.com/company/microsoft"]
-            };
-        </script>
-    </section>
+    </div>
+</div><section data-vg="Footnotes" class="article-section-footnotes disclaimer pt-3 pb-3 theme-dark">
+    <div data-grid="container">
+        <div data-grid="col-12">
+            <ul>
+                    <li class="c-caption-2 x-hidden-focus">
+
+                            <a aria-label="返回脚注 1 引用" href="javascript:void(0)" class="c-hyperlink supLink" id="1">
+                                <span class="supFn">1</span>
+                            </a>
+                        模拟屏幕。功能和应用的供应情况可能因地区而异。
+                    </li>
+                    <li class="c-caption-2 x-hidden-focus">
+
+                            <a aria-label="返回脚注 2 引用" href="javascript:void(0)" class="c-hyperlink supLink" id="2">
+                                <span class="supFn">2</span>
+                            </a>
+                        即将上线的一些应用。某些特定的应用程序只能通过 Windows&nbsp;11 中的 Microsoft Store 应用程序获得。
+                    </li>
+                    <li class="c-caption-2 x-hidden-focus">
+
+                            <a aria-label="返回脚注 3 引用" href="javascript:void(0)" class="c-hyperlink supLink" id="3">
+                                <span class="supFn">3</span>
+                            </a>
+                        Microsoft 365 订阅另售。
+                    </li>
+                    <li class="c-caption-2 x-hidden-focus">
+
+                            <a aria-label="返回脚注 4 引用" href="javascript:void(0)" class="c-hyperlink supLink" id="4">
+                                <span class="supFn">4</span>
+                            </a>
+                        Windows&nbsp;11 升级适用于符合<a class='c-hyperlink' href='https://www.microsoft.com/zh-cn/windows/windows-11-specifications#table1' target='_self'>最低设备规格</a>的符合条件的电脑。升级时间可能因设备而异。可能需要缴纳 Internet 服务费。功能和应用的供应情况可能因地区而异。某些功能需要特定硬件支持（详情请参阅 <a class='c-hyperlink' href='https://www.microsoft.com/zh-cn/windows/windows-11-specifications' target='_self'>Windows&nbsp;11 规格</a>）。
+                    </li>
+                    <li class="c-caption-2 x-hidden-focus">
+
+                            <a aria-label="返回脚注 5 引用" href="javascript:void(0)" class="c-hyperlink supLink" id="5">
+                                <span class="supFn">5</span>
+                            </a>
+                        Phone Link 应用预装在 Windows 10 电脑（运行 Windows 10，至少为 2019 年 5 月更新）或 Windows 11 电脑上。仅适用于中国的部分荣耀 (HONOR) 品牌设备和部分三星 (Samsung) 品牌设备。要体验全部功能，Android 手机必须运行 Android 7.0 或更高版本。设备兼容性可能会有所不同。区域限制可能适用。
+                    </li>
+            </ul>
+        </div>
+    </div>
+</section>                        <div id="social-network">
+                            <div data-grid="container">
+                                
 
 
 
-    
-</div>
+    <div data-vg="Socialshare" data-grid="col-12">
+        <div class="m-social f-horizontal f-share" itemscope="" itemtype="https://schema.org/Organization">
+            <h3>关注我们</h3>
+            <ul>
+                        <li class="social-linked-icon Facebook">
+                            <a itemprop="sameAs"
+                               href="javascript:void(0);" aria-label="社交媒体链接" target="_blank" title="社交媒体链接">
+                                <picture>
+                                    <source srcset="https://c.s-microsoft.com/zh-cn/CMSImages/wechat-color.png?version=a0708e8c-0e68-a7c8-9ece-ad71f007821d">
+                                    <img src="https://c.s-microsoft.com/zh-cn/CMSImages/wechat-color.png?version=a0708e8c-0e68-a7c8-9ece-ad71f007821d" alt="wechat">  
+                                </picture>
+                            </a>
+                        </li>
+                        <li class="social-linked-icon Twitter">
+                            <a itemprop="sameAs"
+                               href="https://weibo.com/p/1006061652987982" aria-label="社交媒体链接" target="_blank" title="社交媒体链接">
+                                <picture>
+                                    <source srcset="https://c.s-microsoft.com/zh-cn/CMSImages/weibo-color.png?version=9724af91-3d78-e2ca-0dda-291ae59eee58">
+                                    <img src="https://c.s-microsoft.com/zh-cn/CMSImages/weibo-color.png?version=9724af91-3d78-e2ca-0dda-291ae59eee58" alt="weibo">  
+                                </picture>
+                            </a>
+                        </li>
 
-          
-     </div>
-</div></div>
+            </ul>
 
-    
-</div>
-</div>
-<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    
-    
-</div>
-</div>
-<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
-
-
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uidc318  heading-bg-color-layout-container-uidc318">
-          <style>
-                    .heading-bg-color-layout-container-uidc318{
-                         background-color:  !important;
-                    }
-          </style>
-     
-     <div class="container" id="layout-container-uidc318" data-componentname="layout-container-uidc318">
-          
-          
-          
-          
-     </div>
-</div></div>
-
-    
-</div>
-</div>
-<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="back-to-top-button aem-GridColumn aem-GridColumn--default--12" data-component-id="66f104ac83c5ea29ffc13bb793e679c0">
-    
-    
-        
-    
-<link rel="stylesheet" href="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/sites.min.ACSHASHa722775809d2312f435036def15bcd62.css" type="text/css">
-
-
-
-    
-    
-    
-    <div class="fixed-back-to-top p-g d-flex justify-content-end " data-mount="fixed-back-to-top">
-        <a href="https://www.microsoft.com/en-us#page-top" aria-label="Back to top" class="btn btn-faint-secondary" data-bi-cn="Back to top" data-bi-ecn="Back to top" data-bi-bhvr="0" data-bi-ct="Button" data-bi-pa="Body" data-bi-compnm="Back to top">
-            <span class="glyph-prepend glyph-prepend-xsmall glyph-prepend-up">
-                
-                    <span class="px-1"></span>
-                
-                Back to top
-            </span>
-        </a>
+            <button class="c-glyph" aria-label="Show additional social media links" aria-hidden="true" data-js-toggle="false"></button>
+        </div>
     </div>
 
-
-
-    
-    
-<script src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/sites.min.ACSHASH48d949b834ed32dfd8266989e9dab912.js"></script>
-
-
-
-</div>
-
-    
-</div>
-</div>
-
-        
+                            </div>
+                        </div>
     </div>
-</main></div>
 
-    
-</div>
-</div>
-<div class="universalfooter" data-component-id="873fa1f863becf63b38092282d4ea0b1">
-	
+    </main>
 
-	
-		
+    <div id="footerArea" class="uhf"  data-m='{"cN":"footerArea","cT":"Area_coreuiArea","id":"a2Body","sN":2,"aN":"Body"}'>
+                <div id="footerRegion"      data-region-key="footerregion" data-m='{"cN":"footerRegion","cT":"Region_coreui-region","id":"r1a2","sN":1,"aN":"a2"}' >
 
-    
-
-    
-        
-                
-
-
-
-
-        
-        
-                
-                
-            
-    
-<!-- Start of ADDITIONAL DEBUG INFO ** cv.html **
-
-    CVToken: CASMicrosoftCV3f2fba68.1
-  End of ADDITIONAL DEBUG INFO -->
-
-                <!-- Start of ADDITIONAL DEBUG INFO ** uhftemplate.html **
-
-    CVToken: CASMicrosoftCV3f2fba68.1
-  End of ADDITIONAL DEBUG INFO -->
-                    <div id="footerArea" class="uhf" data-m="{&quot;cN&quot;:&quot;footerArea&quot;,&quot;cT&quot;:&quot;Area_coreuiArea&quot;,&quot;id&quot;:&quot;a2Body&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;Body&quot;}">
-                <div id="footerRegion" data-region-key="footerregion" data-m="{&quot;cN&quot;:&quot;footerRegion&quot;,&quot;cT&quot;:&quot;Region_coreui-region&quot;,&quot;id&quot;:&quot;r1a2&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;a2&quot;}">
-
-    <div id="footerUniversalFooter" data-m="{&quot;cN&quot;:&quot;footerUniversalFooter&quot;,&quot;cT&quot;:&quot;Module_coreui-universalfooter&quot;,&quot;id&quot;:&quot;m1r1a2&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;r1a2&quot;}" data-module-id="Category|footerRegion|coreui-region|footerUniversalFooter|coreui-universalfooter">
+    <div  id="footerUniversalFooter" data-m='{"cN":"footerUniversalFooter","cT":"Module_coreui-universalfooter","id":"m1r1a2","sN":1,"aN":"r1a2"}'  data-module-id="Category|footerRegion|coreui-region|footerUniversalFooter|coreui-universalfooter">
         
 
 
 
-<footer id="uhf-footer" class="c-uhff context-uhf" data-uhf-mscc-rq="false" data-footer-footprint="/mshomepage/mshomepagefooter, fromService: True" data-m="{&quot;cN&quot;:&quot;Uhf footer_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c1m1r1a2&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;m1r1a2&quot;}">
-        <nav class="c-uhff-nav" aria-label="Footer Resource links" data-m="{&quot;cN&quot;:&quot;Footer nav_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c1c1m1r1a2&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c1m1r1a2&quot;}">
+<footer id="uhf-footer" class="c-uhff context-uhf"  data-uhf-mscc-rq="false" data-footer-footprint="/Windows/windows-footer, fromService: True" data-m='{"cN":"Uhf footer_cont","cT":"Container","id":"c1m1r1a2","sN":1,"aN":"m1r1a2"}'>
+        <nav class="c-uhff-nav" aria-label="页脚资源链接" data-m='{"cN":"Footer nav_cont","cT":"Container","id":"c1c1m1r1a2","sN":1,"aN":"c1m1r1a2"}'>
             
                 <div class="c-uhff-nav-row">
-                    <div class="c-uhff-nav-group" data-m="{&quot;cN&quot;:&quot;footerNavColumn1_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c1c1c1m1r1a2&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c1c1m1r1a2&quot;}">
-                        <div class="c-heading-4" role="heading" aria-level="2">What's new</div>
+                    <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn1_cont","cT":"Container","id":"c1c1c1m1r1a2","sN":1,"aN":"c1c1m1r1a2"}'>
+                        <div class="c-heading-4" role="heading" aria-level="2">新增内容</div>
                         <ul class="c-list f-bare">
                             <li>
-                                <a aria-label="Surface Pro 9 What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/en-us/d/surface-pro-9/93VKD8NP4FVK" data-m="{&quot;cN&quot;:&quot;Footer_WhatsNew_NewSurfacePro8_nav&quot;,&quot;id&quot;:&quot;n1c1c1c1m1r1a2&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c1c1c1m1r1a2&quot;}">Surface Pro 9</a>
+                                <a aria-label="Surface Pro 9 新增内容" class="c-uhff-link" href="https://www.microsoftstore.com.cn/surface/surface-pro-9" data-m='{"cN":"Footer_WhatsNew_NewSurfacePro9_nav","id":"n1c1c1c1m1r1a2","sN":1,"aN":"c1c1c1m1r1a2"}'>Surface Pro 9</a>
                             </li>
                             <li>
-                                <a aria-label="Surface Laptop 5 What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/en-us/d/surface-laptop-5/8XN49V61S1BN" data-m="{&quot;cN&quot;:&quot;Footer_WhatsNew_SurfaceLaptop2_nav&quot;,&quot;id&quot;:&quot;n2c1c1c1m1r1a2&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c1c1c1m1r1a2&quot;}">Surface Laptop 5</a>
+                                <a aria-label="Surface Laptop 5 新增内容" class="c-uhff-link" href="https://www.microsoftstore.com.cn/surface/surface-laptop-5" data-m='{"cN":"Footer_WhatsNew_SurfaceLaptop5_nav","id":"n2c1c1c1m1r1a2","sN":2,"aN":"c1c1c1m1r1a2"}'>Surface Laptop 5</a>
                             </li>
                             <li>
-                                <a aria-label="Surface Studio 2+ What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/en-us/d/surface-studio-2plus/8VLFQC3597K4" data-m="{&quot;cN&quot;:&quot;Footer_WhatsNew_SurfaceStudio_nav&quot;,&quot;id&quot;:&quot;n3c1c1c1m1r1a2&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c1c1c1m1r1a2&quot;}">Surface Studio 2+</a>
+                                <a aria-label="Surface Studio 2+ 新增内容" class="c-uhff-link" href="https://www.microsoftstore.com.cn/surface/surface-studio-2-plus" data-m='{"cN":"Footer_WhatsNew_Surface Studio2_nav","id":"n3c1c1c1m1r1a2","sN":3,"aN":"c1c1c1m1r1a2"}'>Surface Studio 2+</a>
                             </li>
                             <li>
-                                <a aria-label="Surface Laptop Go 2 What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/en-us/d/surface-laptop-go-2/8PGLPV76MJHN" data-m="{&quot;cN&quot;:&quot;Footer_WhatsNew_SurfaceLaptopGo_nav&quot;,&quot;id&quot;:&quot;n4c1c1c1m1r1a2&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c1c1c1m1r1a2&quot;}">Surface Laptop Go 2</a>
+                                <a aria-label="Surface Laptop Go 2 新增内容" class="c-uhff-link" href="https://www.microsoftstore.com.cn/surface/surface-laptop-go-2" data-m='{"cN":"Footer_WhatsNew_SurfaceLaptopGo_nav","id":"n4c1c1c1m1r1a2","sN":4,"aN":"c1c1c1m1r1a2"}'>Surface Laptop Go 2</a>
                             </li>
                             <li>
-                                <a aria-label="Surface Laptop Studio What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/en-us/d/surface-laptop-studio/8SRDF62SWKPF" data-m="{&quot;cN&quot;:&quot;Footer_WhatsNew_SurfaceLaptopStudio_nav&quot;,&quot;id&quot;:&quot;n5c1c1c1m1r1a2&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c1c1c1m1r1a2&quot;}">Surface Laptop Studio</a>
+                                <a aria-label="Surface Laptop Studio 新增内容" class="c-uhff-link" href="https://www.microsoftstore.com.cn/surface/surface-laptop-studio" data-m='{"cN":"Footer_WhatsNew_SurfaceLaptopStudio_nav","id":"n5c1c1c1m1r1a2","sN":5,"aN":"c1c1c1m1r1a2"}'>Surface Laptop Studio</a>
                             </li>
                             <li>
-                                <a aria-label="Surface Go 3 What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/en-us/d/surface-go-3/904H27D0CBWN" data-m="{&quot;cN&quot;:&quot;Footer_WhatsNew_SurfaceGo3_nav&quot;,&quot;id&quot;:&quot;n6c1c1c1m1r1a2&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c1c1c1m1r1a2&quot;}">Surface Go 3</a>
+                                <a aria-label="Surface Go 3 新增内容" class="c-uhff-link" href="https://www.microsoftstore.com.cn/surface/surface-go-3" data-m='{"cN":"Footer_WhatsNew_SurfaceGo_nav","id":"n6c1c1c1m1r1a2","sN":6,"aN":"c1c1c1m1r1a2"}'>Surface Go 3</a>
                             </li>
                             <li>
-                                <a aria-label="Microsoft 365 What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/microsoft-365" data-m="{&quot;cN&quot;:&quot;Footer_WhatsNew_Microsoft365_nav&quot;,&quot;id&quot;:&quot;n7c1c1c1m1r1a2&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c1c1c1m1r1a2&quot;}">Microsoft 365</a>
+                                <a aria-label="Microsoft 365 新增内容" class="c-uhff-link" href="https://www.microsoft.com/microsoft-365" data-m='{"cN":"Footer_WhatsNew_Microsoft365_nav","id":"n7c1c1c1m1r1a2","sN":7,"aN":"c1c1c1m1r1a2"}'>Microsoft 365</a>
                             </li>
                             <li>
-                                <a aria-label="Windows 11 apps What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/windows/windows-11-apps" data-m="{&quot;cN&quot;:&quot;Footer_WhatsNew_Windows_11_apps_nav&quot;,&quot;id&quot;:&quot;n8c1c1c1m1r1a2&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c1c1c1m1r1a2&quot;}">Windows 11 apps</a>
+                                <a aria-label="Windows 11 应用程序 新增内容" class="c-uhff-link" href="https://www.microsoft.com/windows/windows-11-apps" data-m='{"cN":"Footer_WhatsNew_Windows_11_apps_nav","id":"n8c1c1c1m1r1a2","sN":8,"aN":"c1c1c1m1r1a2"}'>Windows 11 应用程序</a>
                             </li>
 
                         </ul>
                         
                     </div>
-                    <div class="c-uhff-nav-group" data-m="{&quot;cN&quot;:&quot;footerNavColumn2_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c2c1c1m1r1a2&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c1c1m1r1a2&quot;}">
+                    <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn2_cont","cT":"Container","id":"c2c1c1m1r1a2","sN":2,"aN":"c1c1m1r1a2"}'>
                         <div class="c-heading-4" role="heading" aria-level="2">Microsoft Store</div>
                         <ul class="c-list f-bare">
                             <li>
-                                <a aria-label="Account profile Microsoft Store" class="c-uhff-link" href="https://account.microsoft.com/" data-m="{&quot;cN&quot;:&quot;Footer_StoreandSupport_AccountProfile_nav&quot;,&quot;id&quot;:&quot;n1c2c1c1m1r1a2&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c2c1c1m1r1a2&quot;}">Account profile</a>
+                                <a aria-label="帐户个人资料 Microsoft Store" class="c-uhff-link" href="https://account.microsoft.com/" data-m='{"cN":"Footer_StoreandSupport_AccountProfile_nav","id":"n1c2c1c1m1r1a2","sN":1,"aN":"c2c1c1m1r1a2"}'>帐户个人资料</a>
                             </li>
                             <li>
-                                <a aria-label="Download Center Microsoft Store" class="c-uhff-link" href="https://www.microsoft.com/en-us/download" data-m="{&quot;cN&quot;:&quot;Footer_StoreandSupport_DownloadCenter_nav&quot;,&quot;id&quot;:&quot;n2c2c1c1m1r1a2&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c2c1c1m1r1a2&quot;}">Download Center</a>
+                                <a aria-label="下载中心 Microsoft Store" class="c-uhff-link" href="https://www.microsoft.com/zh-cn/download" data-m='{"cN":"Footer_StoreandSupport_DownloadCenter_nav","id":"n2c2c1c1m1r1a2","sN":2,"aN":"c2c1c1m1r1a2"}'>下载中心</a>
                             </li>
                             <li>
-                                <a aria-label="Microsoft Store support Microsoft Store" class="c-uhff-link" href="https://go.microsoft.com/fwlink/?linkid=2139749" data-m="{&quot;cN&quot;:&quot;Footer_StoreandSupport_SalesAndSupport_nav&quot;,&quot;id&quot;:&quot;n3c2c1c1m1r1a2&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c2c1c1m1r1a2&quot;}">Microsoft Store support</a>
-                            </li>
-                            <li>
-                                <a aria-label="Returns Microsoft Store" class="c-uhff-link" href="https://go.microsoft.com/fwlink/p/?LinkID=824764&amp;clcid=0x409" data-m="{&quot;cN&quot;:&quot;Footer_StoreandSupport_Returns_nav&quot;,&quot;id&quot;:&quot;n4c2c1c1m1r1a2&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c2c1c1m1r1a2&quot;}">Returns</a>
-                            </li>
-                            <li>
-                                <a aria-label="Order tracking Microsoft Store" class="c-uhff-link" href="https://account.microsoft.com/orders" data-m="{&quot;cN&quot;:&quot;Footer_StoreandSupport_OrderTracking_nav&quot;,&quot;id&quot;:&quot;n5c2c1c1m1r1a2&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c2c1c1m1r1a2&quot;}">Order tracking</a>
-                            </li>
-                            <li>
-                                <a aria-label="Trade-in for Cash Microsoft Store" class="c-uhff-link" href="https://www.microsoft.com/en-us/store/b/microsoft-trade-in" data-m="{&quot;cN&quot;:&quot;Footer_StoreandSupport_StoreLocations_nav&quot;,&quot;id&quot;:&quot;n6c2c1c1m1r1a2&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c2c1c1m1r1a2&quot;}">Trade-in for Cash</a>
-                            </li>
-                            <li>
-                                <a aria-label="Microsoft Store Promise Microsoft Store" class="c-uhff-link" href="https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020" data-m="{&quot;cN&quot;:&quot;Footer_StoreandSupport_MicrosoftPromise_nav&quot;,&quot;id&quot;:&quot;n7c2c1c1m1r1a2&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c2c1c1m1r1a2&quot;}">Microsoft Store Promise</a>
-                            </li>
-                            <li>
-                                <a aria-label="Flexible Payments Microsoft Store" class="c-uhff-link" href="https://www.microsoft.com/en-us/store/b/payment-financing-options?icid=footer_financing_vcc" data-m="{&quot;cN&quot;:&quot;Footer_StoreandSupport_Financing_nav&quot;,&quot;id&quot;:&quot;n8c2c1c1m1r1a2&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c2c1c1m1r1a2&quot;}">Flexible Payments</a>
+                                <a aria-label="订单跟踪 Microsoft Store" class="c-uhff-link" href="https://account.microsoft.com/orders" data-m='{"cN":"Footer_StoreandSupport_OrderTracking_nav","id":"n3c2c1c1m1r1a2","sN":3,"aN":"c2c1c1m1r1a2"}'>订单跟踪</a>
                             </li>
 
                         </ul>
                         
                     </div>
-                    <div class="c-uhff-nav-group" data-m="{&quot;cN&quot;:&quot;footerNavColumn3_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c3c1c1m1r1a2&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c1c1m1r1a2&quot;}">
-                        <div class="c-heading-4" role="heading" aria-level="2">Education</div>
+                    <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn3_cont","cT":"Container","id":"c3c1c1m1r1a2","sN":3,"aN":"c1c1m1r1a2"}'>
+                        <div class="c-heading-4" role="heading" aria-level="2">教育</div>
                         <ul class="c-list f-bare">
                             <li>
-                                <a aria-label="Microsoft in education Education" class="c-uhff-link" href="https://www.microsoft.com/en-us/education" data-m="{&quot;cN&quot;:&quot;Footer_Education_MicrosoftInEducation_nav&quot;,&quot;id&quot;:&quot;n1c3c1c1m1r1a2&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c3c1c1m1r1a2&quot;}">Microsoft in education</a>
+                                <a aria-label="Microsoft 教育版 教育" class="c-uhff-link" href="https://www.microsoft.com/zh-cn/education" data-m='{"cN":"Footer_Education_MicrosoftInEducation_nav","id":"n1c3c1c1m1r1a2","sN":1,"aN":"c3c1c1m1r1a2"}'>Microsoft 教育版</a>
                             </li>
                             <li>
-                                <a aria-label="Devices for education Education" class="c-uhff-link" href="https://www.microsoft.com/en-us/education/devices/overview" data-m="{&quot;cN&quot;:&quot;Footer_Education_DevicesforEducation_nav&quot;,&quot;id&quot;:&quot;n2c3c1c1m1r1a2&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c3c1c1m1r1a2&quot;}">Devices for education</a>
+                                <a aria-label="教育设备 教育" class="c-uhff-link" href="https://www.microsoft.com/zh-cn/education/devices/overview" data-m='{"cN":"Footer_Education_DevicesforEducation_nav","id":"n2c3c1c1m1r1a2","sN":2,"aN":"c3c1c1m1r1a2"}'>教育设备</a>
                             </li>
                             <li>
-                                <a aria-label="Microsoft Teams for Education Education" class="c-uhff-link" href="https://www.microsoft.com/en-us/education/products/teams" data-m="{&quot;cN&quot;:&quot;Footer_Education_MicrosoftTeamsforEducation_nav&quot;,&quot;id&quot;:&quot;n3c3c1c1m1r1a2&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c3c1c1m1r1a2&quot;}">Microsoft Teams for Education</a>
+                                <a aria-label="Microsoft Teams 教育版 教育" class="c-uhff-link" href="https://www.microsoft.com/zh-cn/education/products/teams" data-m='{"cN":"Footer_Education_MicrosoftTeamsforEducation_nav","id":"n3c3c1c1m1r1a2","sN":3,"aN":"c3c1c1m1r1a2"}'>Microsoft Teams 教育版</a>
                             </li>
                             <li>
-                                <a aria-label="Microsoft 365 Education Education" class="c-uhff-link" href="https://www.microsoft.com/en-us/education/buy-license/microsoft365" data-m="{&quot;cN&quot;:&quot;Footer_Education_Microsoft365Education_nav&quot;,&quot;id&quot;:&quot;n4c3c1c1m1r1a2&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c3c1c1m1r1a2&quot;}">Microsoft 365 Education</a>
+                                <a aria-label="Microsoft 365 教育版 教育" class="c-uhff-link" href="https://www.microsoft.com/zh-cn/education/buy-license/microsoft365" data-m='{"cN":"Footer_Education_Microsoft365Education_nav","id":"n4c3c1c1m1r1a2","sN":4,"aN":"c3c1c1m1r1a2"}'>Microsoft 365 教育版</a>
                             </li>
                             <li>
-                                <a aria-label="How to buy for your school Education" class="c-uhff-link" href="https://www.microsoft.com/education/how-to-buy" data-m="{&quot;cN&quot;:&quot;Footer_Howtobuyforyourschool_nav&quot;,&quot;id&quot;:&quot;n5c3c1c1m1r1a2&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c3c1c1m1r1a2&quot;}">How to buy for your school</a>
+                                <a aria-label="Office 教育版 教育" class="c-uhff-link" href="https://www.microsoft.com/zh-cn/education/products/office" data-m='{"cN":"Footer_Education_Office Education_nav","id":"n5c3c1c1m1r1a2","sN":5,"aN":"c3c1c1m1r1a2"}'>Office 教育版</a>
                             </li>
                             <li>
-                                <a aria-label="Educator training and development Education" class="c-uhff-link" href="https://education.microsoft.com/" data-m="{&quot;cN&quot;:&quot;Footer_Education_EducatorTrainingDevelopment_nav&quot;,&quot;id&quot;:&quot;n6c3c1c1m1r1a2&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c3c1c1m1r1a2&quot;}">Educator training and development</a>
+                                <a aria-label="教育工作者培训和开发 教育" class="c-uhff-link" href="https://education.microsoft.com/" data-m='{"cN":"Footer_Education_EducatorTrainingDevelopment_nav","id":"n6c3c1c1m1r1a2","sN":6,"aN":"c3c1c1m1r1a2"}'>教育工作者培训和开发</a>
                             </li>
                             <li>
-                                <a aria-label="Deals for students and parents Education" class="c-uhff-link" href="https://www.microsoft.com/en-us/store/b/education" data-m="{&quot;cN&quot;:&quot;Footer_Education_DealsForStudentsandParents_nav&quot;,&quot;id&quot;:&quot;n7c3c1c1m1r1a2&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c3c1c1m1r1a2&quot;}">Deals for students and parents</a>
+                                <a aria-label="面向学生和家长的优惠 教育" class="c-uhff-link" href="https://www.microsoft.com/en-us/store/b/education" data-m='{"cN":"Footer_Education_DealsForStudentsandParents_nav","id":"n7c3c1c1m1r1a2","sN":7,"aN":"c3c1c1m1r1a2"}'>面向学生和家长的优惠</a>
                             </li>
                             <li>
-                                <a aria-label="Azure for students Education" class="c-uhff-link" href="https://azure.microsoft.com/en-us/free/students/" data-m="{&quot;cN&quot;:&quot;Footer_Education_Azureforstudents_nav&quot;,&quot;id&quot;:&quot;n8c3c1c1m1r1a2&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c3c1c1m1r1a2&quot;}">Azure for students</a>
+                                <a aria-label="面向学生的 Azure 教育" class="c-uhff-link" href="https://azure.microsoft.com/zh-cn/free/students/" data-m='{"cN":"Footer_Education_Azureforstudents_nav","id":"n8c3c1c1m1r1a2","sN":8,"aN":"c3c1c1m1r1a2"}'>面向学生的 Azure</a>
                             </li>
 
                         </ul>
@@ -3279,94 +1154,88 @@
                     </div>
                 </div>
                 <div class="c-uhff-nav-row">
-                    <div class="c-uhff-nav-group" data-m="{&quot;cN&quot;:&quot;footerNavColumn4_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c4c1c1m1r1a2&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c1c1m1r1a2&quot;}">
-                        <div class="c-heading-4" role="heading" aria-level="2">Business</div>
+                    <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn4_cont","cT":"Container","id":"c4c1c1m1r1a2","sN":4,"aN":"c1c1m1r1a2"}'>
+                        <div class="c-heading-4" role="heading" aria-level="2">企业</div>
                         <ul class="c-list f-bare">
                             <li>
-                                <a aria-label="Microsoft Cloud Business" class="c-uhff-link" href="https://www.microsoft.com/en-us/microsoft-cloud" data-m="{&quot;cN&quot;:&quot;Footer_Business_Microsoft_Cloud_nav&quot;,&quot;id&quot;:&quot;n1c4c1c1m1r1a2&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c4c1c1m1r1a2&quot;}">Microsoft Cloud</a>
+                                <a aria-label="Microsoft Cloud 企业" class="c-uhff-link" href="https://www.microsoft.com/zh-cn/microsoft-cloud" data-m='{"cN":"Footer_Business_Microsoft_Cloud_nav","id":"n1c4c1c1m1r1a2","sN":1,"aN":"c4c1c1m1r1a2"}'>Microsoft Cloud</a>
                             </li>
                             <li>
-                                <a aria-label="Microsoft Security Business" class="c-uhff-link" href="https://www.microsoft.com/en-us/security" data-m="{&quot;cN&quot;:&quot;Footer_Business_Microsoft Security_nav&quot;,&quot;id&quot;:&quot;n2c4c1c1m1r1a2&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c4c1c1m1r1a2&quot;}">Microsoft Security</a>
+                                <a aria-label="Microsoft 安全 企业" class="c-uhff-link" href="https://www.microsoft.com/zh-cn/security" data-m='{"cN":"Footer_Business_Microsoft Security_nav","id":"n2c4c1c1m1r1a2","sN":2,"aN":"c4c1c1m1r1a2"}'>Microsoft 安全</a>
                             </li>
                             <li>
-                                <a aria-label="Dynamics 365 Business" class="c-uhff-link" href="https://dynamics.microsoft.com/en-us/" data-m="{&quot;cN&quot;:&quot;Footer_Business_MicrosoftDynamics365_nav&quot;,&quot;id&quot;:&quot;n3c4c1c1m1r1a2&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c4c1c1m1r1a2&quot;}">Dynamics 365</a>
+                                <a aria-label="Azure 企业" class="c-uhff-link" href="https://azure.microsoft.com/zh-cn/" data-m='{"cN":"Footer_DeveloperAndIT_MicrosoftAzure_nav","id":"n3c4c1c1m1r1a2","sN":3,"aN":"c4c1c1m1r1a2"}'>Azure</a>
                             </li>
                             <li>
-                                <a aria-label="Microsoft 365 Business" class="c-uhff-link" href="https://www.microsoft.com/en-us/microsoft-365/business/" data-m="{&quot;cN&quot;:&quot;Footer_Business_M365_nav&quot;,&quot;id&quot;:&quot;n4c4c1c1m1r1a2&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c4c1c1m1r1a2&quot;}">Microsoft 365</a>
+                                <a aria-label="Dynamics 365 企业" class="c-uhff-link" href="https://dynamics.microsoft.com/zh-cn/" data-m='{"cN":"Footer_Business_MicrosoftDynamics365_nav","id":"n4c4c1c1m1r1a2","sN":4,"aN":"c4c1c1m1r1a2"}'>Dynamics 365</a>
                             </li>
                             <li>
-                                <a aria-label="Microsoft Power Platform Business" class="c-uhff-link" href="https://powerplatform.microsoft.com/en-us/" data-m="{&quot;cN&quot;:&quot;Footer_DeveloperAndIT_Power Platform_nav&quot;,&quot;id&quot;:&quot;n5c4c1c1m1r1a2&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c4c1c1m1r1a2&quot;}">Microsoft Power Platform</a>
+                                <a aria-label="Microsoft 365 企业" class="c-uhff-link" href="https://www.microsoft.com/zh-cn/microsoft-365/business/" data-m='{"cN":"Footer_Business_M365_nav","id":"n5c4c1c1m1r1a2","sN":5,"aN":"c4c1c1m1r1a2"}'>Microsoft 365</a>
                             </li>
                             <li>
-                                <a aria-label="Microsoft Teams Business" class="c-uhff-link" href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" data-m="{&quot;cN&quot;:&quot;Footer_Business_Microsoft365_nav&quot;,&quot;id&quot;:&quot;n6c4c1c1m1r1a2&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c4c1c1m1r1a2&quot;}">Microsoft Teams</a>
+                                <a aria-label="Microsoft Advertising 企业" class="c-uhff-link" href="https://about.ads.microsoft.com/zh-cn" data-m='{"cN":"Footer_MicrosoftAdvertising_nav","id":"n6c4c1c1m1r1a2","sN":6,"aN":"c4c1c1m1r1a2"}'>Microsoft Advertising</a>
                             </li>
                             <li>
-                                <a aria-label="Microsoft Industry Business" class="c-uhff-link" href="https://www.microsoft.com/en-us/industry" data-m="{&quot;cN&quot;:&quot;Footer_Business_MicrosoftIndustry_nav&quot;,&quot;id&quot;:&quot;n7c4c1c1m1r1a2&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c4c1c1m1r1a2&quot;}">Microsoft Industry</a>
+                                <a aria-label="Microsoft 行业 企业" class="c-uhff-link" href="https://www.microsoft.com/zh-cn/industry" data-m='{"cN":"Footer_Business_MicrosoftIndustry_nav","id":"n7c4c1c1m1r1a2","sN":7,"aN":"c4c1c1m1r1a2"}'>Microsoft 行业</a>
                             </li>
                             <li>
-                                <a aria-label="Small Business Business" class="c-uhff-link" href="https://www.microsoft.com/en-us/store/b/business?icid=CNavBusinessStore" data-m="{&quot;cN&quot;:&quot;Footer_Business-SmallBusiness_nav&quot;,&quot;id&quot;:&quot;n8c4c1c1m1r1a2&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c4c1c1m1r1a2&quot;}">Small Business</a>
+                                <a aria-label="Microsoft Teams 企业" class="c-uhff-link" href="https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software" data-m='{"cN":"Footer_Business_Microsoft365_nav","id":"n8c4c1c1m1r1a2","sN":8,"aN":"c4c1c1m1r1a2"}'>Microsoft Teams</a>
                             </li>
 
                         </ul>
                         
                     </div>
-                    <div class="c-uhff-nav-group" data-m="{&quot;cN&quot;:&quot;footerNavColumn5_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c5c1c1m1r1a2&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c1c1m1r1a2&quot;}">
-                        <div class="c-heading-4" role="heading" aria-level="2">Developer &amp; IT</div>
+                    <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn5_cont","cT":"Container","id":"c5c1c1m1r1a2","sN":5,"aN":"c1c1m1r1a2"}'>
+                        <div class="c-heading-4" role="heading" aria-level="2">开发人员与 IT</div>
                         <ul class="c-list f-bare">
                             <li>
-                                <a aria-label="Azure Developer &amp; IT" class="c-uhff-link" href="https://azure.microsoft.com/en-us/" data-m="{&quot;cN&quot;:&quot;Footer_DeveloperAndIT_MicrosoftAzure_nav&quot;,&quot;id&quot;:&quot;n1c5c1c1m1r1a2&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c5c1c1m1r1a2&quot;}">Azure</a>
+                                <a aria-label="开发人员中心 开发人员与 IT" class="c-uhff-link" href="https://developer.microsoft.com/zh-cn/" data-m='{"cN":"Footer_DeveloperAndIT_DeveloperCenter_nav","id":"n1c5c1c1m1r1a2","sN":1,"aN":"c5c1c1m1r1a2"}'>开发人员中心</a>
                             </li>
                             <li>
-                                <a aria-label="Developer Center Developer &amp; IT" class="c-uhff-link" href="https://developer.microsoft.com/en-us/" data-m="{&quot;cN&quot;:&quot;Footer_DeveloperAndIT_DeveloperCenter_nav&quot;,&quot;id&quot;:&quot;n2c5c1c1m1r1a2&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c5c1c1m1r1a2&quot;}">Developer Center</a>
+                                <a aria-label="文档 开发人员与 IT" class="c-uhff-link" href="https://learn.microsoft.com/docs/" data-m='{"cN":"Footer_DeveloperAndIT_Documentation_nav","id":"n2c5c1c1m1r1a2","sN":2,"aN":"c5c1c1m1r1a2"}'>文档</a>
                             </li>
                             <li>
-                                <a aria-label="Documentation Developer &amp; IT" class="c-uhff-link" href="https://learn.microsoft.com/docs/" data-m="{&quot;cN&quot;:&quot;Footer_DeveloperAndIT_Documentation_nav&quot;,&quot;id&quot;:&quot;n3c5c1c1m1r1a2&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c5c1c1m1r1a2&quot;}">Documentation</a>
+                                <a aria-label="Microsoft Learn 开发人员与 IT" class="c-uhff-link" href="https://learn.microsoft.com/" data-m='{"cN":"Footer_DeveloperAndIT_MicrosoftLearn_nav","id":"n3c5c1c1m1r1a2","sN":3,"aN":"c5c1c1m1r1a2"}'>Microsoft Learn</a>
                             </li>
                             <li>
-                                <a aria-label="Microsoft Learn Developer &amp; IT" class="c-uhff-link" href="https://learn.microsoft.com/" data-m="{&quot;cN&quot;:&quot;Footer_DeveloperAndIT_MicrosoftLearn_nav&quot;,&quot;id&quot;:&quot;n4c5c1c1m1r1a2&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c5c1c1m1r1a2&quot;}">Microsoft Learn</a>
+                                <a aria-label="Microsoft 技术社区 开发人员与 IT" class="c-uhff-link" href="https://techcommunity.microsoft.com/" data-m='{"cN":"Footer_DeveloperAndIT_MicrosoftTechCommunity_nav","id":"n4c5c1c1m1r1a2","sN":4,"aN":"c5c1c1m1r1a2"}'>Microsoft 技术社区</a>
                             </li>
                             <li>
-                                <a aria-label="Microsoft Tech Community Developer &amp; IT" class="c-uhff-link" href="https://techcommunity.microsoft.com/" data-m="{&quot;cN&quot;:&quot;Footer_DeveloperAndIT_MicrosoftTechCommunity_nav&quot;,&quot;id&quot;:&quot;n5c5c1c1m1r1a2&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c5c1c1m1r1a2&quot;}">Microsoft Tech Community</a>
+                                <a aria-label="Azure 市场 开发人员与 IT" class="c-uhff-link" href="https://azuremarketplace.microsoft.com/zh-cn/" data-m='{"cN":"Footer_DeveloperAndIT_AzureMarketplace_nav","id":"n5c5c1c1m1r1a2","sN":5,"aN":"c5c1c1m1r1a2"}'>Azure 市场</a>
                             </li>
                             <li>
-                                <a aria-label="Azure Marketplace Developer &amp; IT" class="c-uhff-link" href="https://azuremarketplace.microsoft.com/en-us/" data-m="{&quot;cN&quot;:&quot;Footer_DeveloperAndIT_AzureMarketplace_nav&quot;,&quot;id&quot;:&quot;n6c5c1c1m1r1a2&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c5c1c1m1r1a2&quot;}">Azure Marketplace</a>
+                                <a aria-label="AppSource 开发人员与 IT" class="c-uhff-link" href="https://appsource.microsoft.com/zh-cn/" data-m='{"cN":"Footer_DeveloperAndIT_AppSource_nav","id":"n6c5c1c1m1r1a2","sN":6,"aN":"c5c1c1m1r1a2"}'>AppSource</a>
                             </li>
                             <li>
-                                <a aria-label="AppSource Developer &amp; IT" class="c-uhff-link" href="https://appsource.microsoft.com/en-us/" data-m="{&quot;cN&quot;:&quot;Footer_DeveloperAndIT_AppSource_nav&quot;,&quot;id&quot;:&quot;n7c5c1c1m1r1a2&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c5c1c1m1r1a2&quot;}">AppSource</a>
+                                <a aria-label="Microsoft Power Platform 开发人员与 IT" class="c-uhff-link" href="https://powerplatform.microsoft.com/zh-cn/" data-m='{"cN":"Footer_DeveloperAndIT_Power Platform_nav","id":"n7c5c1c1m1r1a2","sN":7,"aN":"c5c1c1m1r1a2"}'>Microsoft Power Platform</a>
                             </li>
                             <li>
-                                <a aria-label="Visual Studio Developer &amp; IT" class="c-uhff-link" href="https://visualstudio.microsoft.com/" data-m="{&quot;cN&quot;:&quot;Footer_DeveloperAndIT_MicrosoftVisualStudio_nav&quot;,&quot;id&quot;:&quot;n8c5c1c1m1r1a2&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c5c1c1m1r1a2&quot;}">Visual Studio</a>
+                                <a aria-label="Visual Studio 开发人员与 IT" class="c-uhff-link" href="https://visualstudio.microsoft.com/" data-m='{"cN":"Footer_DeveloperAndIT_MicrosoftVisualStudio_nav","id":"n8c5c1c1m1r1a2","sN":8,"aN":"c5c1c1m1r1a2"}'>Visual Studio</a>
                             </li>
 
                         </ul>
                         
                     </div>
-                    <div class="c-uhff-nav-group" data-m="{&quot;cN&quot;:&quot;footerNavColumn6_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c6c1c1m1r1a2&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c1c1m1r1a2&quot;}">
-                        <div class="c-heading-4" role="heading" aria-level="2">Company</div>
+                    <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn6_cont","cT":"Container","id":"c6c1c1m1r1a2","sN":6,"aN":"c1c1m1r1a2"}'>
+                        <div class="c-heading-4" role="heading" aria-level="2">公司</div>
                         <ul class="c-list f-bare">
                             <li>
-                                <a aria-label="Careers Company" class="c-uhff-link" href="https://careers.microsoft.com/" data-m="{&quot;cN&quot;:&quot;Footer_Company_Careers_nav&quot;,&quot;id&quot;:&quot;n1c6c1c1m1r1a2&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c6c1c1m1r1a2&quot;}">Careers</a>
+                                <a aria-label="招贤纳士 公司" class="c-uhff-link" href="https://careers.microsoft.com/" data-m='{"cN":"Footer_Company_Careers_nav","id":"n1c6c1c1m1r1a2","sN":1,"aN":"c6c1c1m1r1a2"}'>招贤纳士</a>
                             </li>
                             <li>
-                                <a aria-label="About Microsoft Company" class="c-uhff-link" href="https://www.microsoft.com/en-us/about" data-m="{&quot;cN&quot;:&quot;Footer_Company_AboutMicrosoft_nav&quot;,&quot;id&quot;:&quot;n2c6c1c1m1r1a2&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c6c1c1m1r1a2&quot;}">About Microsoft</a>
+                                <a aria-label="关于 Microsoft 公司" class="c-uhff-link" href="https://www.microsoft.com/zh-cn/about" data-m='{"cN":"Footer_Company_AboutMicrosoft_nav","id":"n2c6c1c1m1r1a2","sN":2,"aN":"c6c1c1m1r1a2"}'>关于 Microsoft</a>
                             </li>
                             <li>
-                                <a aria-label="Company news Company" class="c-uhff-link" href="https://news.microsoft.com/" data-m="{&quot;cN&quot;:&quot;Footer_Company_CompanyNews_nav&quot;,&quot;id&quot;:&quot;n3c6c1c1m1r1a2&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c6c1c1m1r1a2&quot;}">Company news</a>
+                                <a aria-label="公司新闻 公司" class="c-uhff-link" href="https://news.microsoft.com/zh-cn" data-m='{"cN":"Footer_Company_CompanyNews_nav","id":"n3c6c1c1m1r1a2","sN":3,"aN":"c6c1c1m1r1a2"}'>公司新闻</a>
                             </li>
                             <li>
-                                <a aria-label="Privacy at Microsoft Company" class="c-uhff-link" href="https://privacy.microsoft.com/en-us" data-m="{&quot;cN&quot;:&quot;Footer_Company_PrivacyAtMicrosoft_nav&quot;,&quot;id&quot;:&quot;n4c6c1c1m1r1a2&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c6c1c1m1r1a2&quot;}">Privacy at Microsoft</a>
+                                <a aria-label="Microsoft 隐私 公司" class="c-uhff-link" href="https://privacy.microsoft.com/zh-cn" data-m='{"cN":"Footer_Company_PrivacyAtMicrosoft_nav","id":"n4c6c1c1m1r1a2","sN":4,"aN":"c6c1c1m1r1a2"}'>Microsoft 隐私</a>
                             </li>
                             <li>
-                                <a aria-label="Investors Company" class="c-uhff-link" href="https://www.microsoft.com/investor/default.aspx" data-m="{&quot;cN&quot;:&quot;Footer_Company_Investors_nav&quot;,&quot;id&quot;:&quot;n5c6c1c1m1r1a2&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c6c1c1m1r1a2&quot;}">Investors</a>
+                                <a aria-label="投资人 公司" class="c-uhff-link" href="https://www.microsoft.com/investor/default.aspx" data-m='{"cN":"Footer_Company_Investors_nav","id":"n5c6c1c1m1r1a2","sN":5,"aN":"c6c1c1m1r1a2"}'>投资人</a>
                             </li>
                             <li>
-                                <a aria-label="Diversity and inclusion Company" class="c-uhff-link" href="https://www.microsoft.com/en-us/diversity/" data-m="{&quot;cN&quot;:&quot;Footer_Company_DiversityAndInclusion_nav&quot;,&quot;id&quot;:&quot;n6c6c1c1m1r1a2&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c6c1c1m1r1a2&quot;}">Diversity and inclusion</a>
-                            </li>
-                            <li>
-                                <a aria-label="Accessibility Company" class="c-uhff-link" href="https://www.microsoft.com/en-us/accessibility" data-m="{&quot;cN&quot;:&quot;Footer_Company_Accessibility_nav&quot;,&quot;id&quot;:&quot;n7c6c1c1m1r1a2&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c6c1c1m1r1a2&quot;}">Accessibility</a>
-                            </li>
-                            <li>
-                                <a aria-label="Sustainability Company" class="c-uhff-link" href="https://www.microsoft.com/en-us/sustainability/" data-m="{&quot;cN&quot;:&quot;Footer_Company_Sustainability_nav&quot;,&quot;id&quot;:&quot;n8c6c1c1m1r1a2&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c6c1c1m1r1a2&quot;}">Sustainability</a>
+                                <a aria-label="可持续发展  公司" class="c-uhff-link" href="https://www.microsoft.com/zh-cn/sustainability/" data-m='{"cN":"Footer_Company_Sustainability_nav","id":"n6c6c1c1m1r1a2","sN":6,"aN":"c6c1c1m1r1a2"}'>可持续发展 </a>
                             </li>
 
                         </ul>
@@ -3375,63 +1244,57 @@
                 </div>
         </nav>
     <div class="c-uhff-base">
-                <a id="locale-picker-link" aria-label="Content Language Selector. Currently set to English (United States)" class="c-uhff-link c-uhff-lang-selector c-glyph glyph-world" href="https://www.microsoft.com/en-us/locale" data-m="{&quot;cN&quot;:&quot;locale_picker(US)_nav&quot;,&quot;id&quot;:&quot;n7c1c1m1r1a2&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c1c1m1r1a2&quot;}">English (United States)</a>
+                <a id="locale-picker-link" aria-label="内容语言选择器。当前设置为 中文(中国)" class="c-uhff-link c-uhff-lang-selector c-glyph glyph-world" href="/zh-cn/windows/worldwide" data-m='{"cN":"locale_picker(CN)_nav","id":"n7c1c1m1r1a2","sN":7,"aN":"c1c1m1r1a2"}'>中文(中国)</a>
 
-            <a data-m="{&quot;id&quot;:&quot;n8c1c1m1r1a2&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c1c1m1r1a2&quot;}" href="https://aka.ms/yourcaliforniaprivacychoices" class="c-uhff-link c-uhff-ccpa">
+            <a data-m='{"id":"n8c1c1m1r1a2","sN":8,"aN":"c1c1m1r1a2"}' href="https://aka.ms/yourcaliforniaprivacychoices" class='c-uhff-link c-uhff-ccpa'>
         <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 14" xml:space="preserve" height="16" width="43">
-            <title>California Consumer Privacy Act (CCPA) Opt-Out Icon</title>
-            <path d="M7.4 12.8h6.8l3.1-11.6H7.4C4.2 1.2 1.6 3.8 1.6 7s2.6 5.8 5.8 5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"></path>
-            <path d="M22.6 0H7.4c-3.9 0-7 3.1-7 7s3.1 7 7 7h15.2c3.9 0 7-3.1 7-7s-3.2-7-7-7zm-21 7c0-3.2 2.6-5.8 5.8-5.8h9.9l-3.1 11.6H7.4c-3.2 0-5.8-2.6-5.8-5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#06f"></path>
-            <path d="M24.6 4c.2.2.2.6 0 .8L22.5 7l2.2 2.2c.2.2.2.6 0 .8-.2.2-.6.2-.8 0l-2.2-2.2-2.2 2.2c-.2.2-.6.2-.8 0-.2-.2-.2-.6 0-.8L20.8 7l-2.2-2.2c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0l2.2 2.2L23.8 4c.2-.2.6-.2.8 0z" style="fill:#fff"></path>
-            <path d="M12.7 4.1c.2.2.3.6.1.8L8.6 9.8c-.1.1-.2.2-.3.2-.2.1-.5.1-.7-.1L5.4 7.7c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0L8 8.6l3.8-4.5c.2-.2.6-.2.9 0z" style="fill:#06f"></path>
-        </svg>
-        <span>Your Privacy Choices</span>
-    </a>
-
-        <noscript>
-                <a data-m='{"id":"n9c1c1m1r1a2","sN":9,"aN":"c1c1m1r1a2"}' href="https://aka.ms/yourcaliforniaprivacychoices" class='c-uhff-link c-uhff-ccpa'>
-        <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 14" xml:space="preserve" height="16" width="43">
-            <title>California Consumer Privacy Act (CCPA) Opt-Out Icon</title>
+            <title>加利福尼亚州消费者隐私法案(CCPA)选择退出图标</title>
             <path d="M7.4 12.8h6.8l3.1-11.6H7.4C4.2 1.2 1.6 3.8 1.6 7s2.6 5.8 5.8 5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"/>
             <path d="M22.6 0H7.4c-3.9 0-7 3.1-7 7s3.1 7 7 7h15.2c3.9 0 7-3.1 7-7s-3.2-7-7-7zm-21 7c0-3.2 2.6-5.8 5.8-5.8h9.9l-3.1 11.6H7.4c-3.2 0-5.8-2.6-5.8-5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#06f"/>
             <path d="M24.6 4c.2.2.2.6 0 .8L22.5 7l2.2 2.2c.2.2.2.6 0 .8-.2.2-.6.2-.8 0l-2.2-2.2-2.2 2.2c-.2.2-.6.2-.8 0-.2-.2-.2-.6 0-.8L20.8 7l-2.2-2.2c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0l2.2 2.2L23.8 4c.2-.2.6-.2.8 0z" style="fill:#fff"/>
             <path d="M12.7 4.1c.2.2.3.6.1.8L8.6 9.8c-.1.1-.2.2-.3.2-.2.1-.5.1-.7-.1L5.4 7.7c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0L8 8.6l3.8-4.5c.2-.2.6-.2.9 0z" style="fill:#06f"/>
         </svg>
-        <span>Your Privacy Choices</span>
+        <span>你的隐私选择</span>
+    </a>
+
+        <noscript>
+                <a data-m='{"id":"n9c1c1m1r1a2","sN":9,"aN":"c1c1m1r1a2"}' href="https://aka.ms/yourcaliforniaprivacychoices" class='c-uhff-link c-uhff-ccpa'>
+        <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 14" xml:space="preserve" height="16" width="43">
+            <title>加利福尼亚州消费者隐私法案(CCPA)选择退出图标</title>
+            <path d="M7.4 12.8h6.8l3.1-11.6H7.4C4.2 1.2 1.6 3.8 1.6 7s2.6 5.8 5.8 5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"/>
+            <path d="M22.6 0H7.4c-3.9 0-7 3.1-7 7s3.1 7 7 7h15.2c3.9 0 7-3.1 7-7s-3.2-7-7-7zm-21 7c0-3.2 2.6-5.8 5.8-5.8h9.9l-3.1 11.6H7.4c-3.2 0-5.8-2.6-5.8-5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#06f"/>
+            <path d="M24.6 4c.2.2.2.6 0 .8L22.5 7l2.2 2.2c.2.2.2.6 0 .8-.2.2-.6.2-.8 0l-2.2-2.2-2.2 2.2c-.2.2-.6.2-.8 0-.2-.2-.2-.6 0-.8L20.8 7l-2.2-2.2c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0l2.2 2.2L23.8 4c.2-.2.6-.2.8 0z" style="fill:#fff"/>
+            <path d="M12.7 4.1c.2.2.3.6.1.8L8.6 9.8c-.1.1-.2.2-.3.2-.2.1-.5.1-.7-.1L5.4 7.7c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0L8 8.6l3.8-4.5c.2-.2.6-.2.9 0z" style="fill:#06f"/>
+        </svg>
+        <span>你的隐私选择</span>
     </a>
 
         </noscript>
-        <nav aria-label="Microsoft corporate links">
-            <ul class="c-list f-bare" data-m="{&quot;cN&quot;:&quot;Corp links_cont&quot;,&quot;cT&quot;:&quot;Container&quot;,&quot;id&quot;:&quot;c10c1c1m1r1a2&quot;,&quot;sN&quot;:10,&quot;aN&quot;:&quot;c1c1m1r1a2&quot;}">
-                                <li id="c-uhff-footer_sitemap">
-                    <a class="c-uhff-link" href="https://www.microsoft.com/en-us/sitemap1.aspx" data-mscc-ic="false" data-m="{&quot;cN&quot;:&quot;Footer_Sitemap_nav&quot;,&quot;id&quot;:&quot;n1c10c1c1m1r1a2&quot;,&quot;sN&quot;:1,&quot;aN&quot;:&quot;c10c1c1m1r1a2&quot;}">Sitemap</a>
+        <nav aria-label="Microsoft 企业链接">
+            <ul class="c-list f-bare" data-m='{"cN":"Corp links_cont","cT":"Container","id":"c10c1c1m1r1a2","sN":10,"aN":"c1c1m1r1a2"}'>
+                                <li  id="c-uhff-footer_contactus">
+                    <a class="c-uhff-link" href="https://support.microsoft.com/contactus" data-mscc-ic="false" data-m='{"cN":"Footer_ContactUs_nav","id":"n1c10c1c1m1r1a2","sN":1,"aN":"c10c1c1m1r1a2"}'>与 Microsoft 联系</a>
                 </li>
-                <li id="c-uhff-footer_contactus">
-                    <a class="c-uhff-link" href="https://support.microsoft.com/contactus" data-mscc-ic="false" data-m="{&quot;cN&quot;:&quot;Footer_ContactUs_nav&quot;,&quot;id&quot;:&quot;n2c10c1c1m1r1a2&quot;,&quot;sN&quot;:2,&quot;aN&quot;:&quot;c10c1c1m1r1a2&quot;}">Contact Microsoft</a>
-                </li>
-                <li id="c-uhff-footer_privacyandcookies">
-                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-mscc-ic="false" data-m="{&quot;cN&quot;:&quot;Footer_PrivacyandCookies_nav&quot;,&quot;id&quot;:&quot;n3c10c1c1m1r1a2&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c10c1c1m1r1a2&quot;}">Privacy </a>
+                <li  id="c-uhff-footer_privacyandcookies">
+                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-mscc-ic="false" data-m='{"cN":"Footer_PrivacyandCookies_nav","id":"n2c10c1c1m1r1a2","sN":2,"aN":"c10c1c1m1r1a2"}'>隐私</a>
                 </li>
                 <li class=" x-hidden" id="c-uhff-footer_managecookies">
-                    <a class="c-uhff-link" href="https://www.microsoft.com/en-us#" data-mscc-ic="false" data-m="{&quot;cN&quot;:&quot;Footer_ManageCookies_nav&quot;,&quot;id&quot;:&quot;n4c10c1c1m1r1a2&quot;,&quot;sN&quot;:4,&quot;aN&quot;:&quot;c10c1c1m1r1a2&quot;}">Manage cookies</a>
+                    <a class="c-uhff-link" href="#" data-mscc-ic="false" data-m='{"cN":"Footer_ManageCookies_nav","id":"n3c10c1c1m1r1a2","sN":3,"aN":"c10c1c1m1r1a2"}'>管理 Cookie</a>
                 </li>
-                <li id="c-uhff-footer_termsofuse">
-                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?LinkID=206977" data-mscc-ic="false" data-m="{&quot;cN&quot;:&quot;Footer_TermsOfUse_nav&quot;,&quot;id&quot;:&quot;n5c10c1c1m1r1a2&quot;,&quot;sN&quot;:5,&quot;aN&quot;:&quot;c10c1c1m1r1a2&quot;}">Terms of use</a>
+                <li  id="c-uhff-footer_termsofuse">
+                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?LinkID=206977" data-mscc-ic="false" data-m='{"cN":"Footer_TermsOfUse_nav","id":"n4c10c1c1m1r1a2","sN":4,"aN":"c10c1c1m1r1a2"}'>使用条款</a>
                 </li>
-                <li id="c-uhff-footer_trademarks">
-                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?linkid=2196228" data-mscc-ic="false" data-m="{&quot;cN&quot;:&quot;Footer_Trademarks_nav&quot;,&quot;id&quot;:&quot;n6c10c1c1m1r1a2&quot;,&quot;sN&quot;:6,&quot;aN&quot;:&quot;c10c1c1m1r1a2&quot;}">Trademarks</a>
+                <li  id="c-uhff-footer_trademarks">
+                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?linkid=2196228" data-mscc-ic="false" data-m='{"cN":"Footer_Trademarks_nav","id":"n5c10c1c1m1r1a2","sN":5,"aN":"c10c1c1m1r1a2"}'>商标</a>
                 </li>
-                <li id="c-uhff-footer_safetyandeco">
-                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?linkid=2196227" data-mscc-ic="false" data-m="{&quot;cN&quot;:&quot;Footer_SafetyAndEco_nav&quot;,&quot;id&quot;:&quot;n7c10c1c1m1r1a2&quot;,&quot;sN&quot;:7,&quot;aN&quot;:&quot;c10c1c1m1r1a2&quot;}">Safety &amp; eco</a>
+                <li  id="c-uhff-footer_aboutourads">
+                    <a class="c-uhff-link" href="https://choice.microsoft.com/" data-mscc-ic="false" data-m='{"cN":"Footer_AboutourAds_nav","id":"n6c10c1c1m1r1a2","sN":6,"aN":"c10c1c1m1r1a2"}'>关于我们的广告</a>
                 </li>
-                <li id="c-uhff-recycling">
-                    <a class="c-uhff-link" href="https://www.microsoft.com/en-us/legal/compliance/recycling" data-mscc-ic="false" data-m="{&quot;cN&quot;:&quot;Recycling_nav&quot;,&quot;id&quot;:&quot;n8c10c1c1m1r1a2&quot;,&quot;sN&quot;:8,&quot;aN&quot;:&quot;c10c1c1m1r1a2&quot;}">Recycling</a>
-                </li>
-                <li id="c-uhff-footer_aboutourads">
-                    <a class="c-uhff-link" href="https://choice.microsoft.com/" data-mscc-ic="false" data-m="{&quot;cN&quot;:&quot;Footer_AboutourAds_nav&quot;,&quot;id&quot;:&quot;n9c10c1c1m1r1a2&quot;,&quot;sN&quot;:9,&quot;aN&quot;:&quot;c10c1c1m1r1a2&quot;}">About our ads</a>
+                <li  id="c-uhff-footer_special">
+                    <a class="c-uhff-link" href="https://beian.miit.gov.cn/#/Integrated/index" data-mscc-ic="false" data-m='{"cN":"Footer_Special_nav","id":"n7c10c1c1m1r1a2","sN":7,"aN":"c10c1c1m1r1a2"}'>京ICP备09042378号-6</a>
                 </li>
 
-                <li>© Microsoft 2023</li>
+                <li>&#169; Microsoft 2023</li>
                 
             </ul>
         </nav>
@@ -3468,4 +1331,64 @@
         </div>
 
     </div>
-<script src="./Microsoft – Cloud, Computers, Apps &amp; Gaming_files/wcp-consent.js"></script></div></body></html>
+<script src="https://www.microsoft.com/onerfstatics/marketingsites-eas-prod/shell/_scrf/js/themes=default/8e-e88b64/82-2a4f02/49-a00ab0/92-02e55d/7c-dcea75/75-fca72d/ed-e77ee7/d5-bf34c0/a9-078595/7a-7ea8cc/2d-40bdad/23-e8cd2b/96-eb5423/e6-6b0cce/d1-98d78a/c6-082272/a7-f7a340/1e-addbef/2e-ca165a/fc-169dd8/8e-60935c/87-fecbed/96-6ed6eb/c3-eb62e0/ad-ffd6bf/35-621acc/5b-6eff60/b0-07f293/1e-9d9d16/52-f0367f/af-abd754/bf-517249/e1-ed258e/20-0b10e2/6b-0f1117/fb-5e9831/a2-598841?ver=2.0&_cf=02242021_3231&iife=1"></script><script src="https://mem.gfx.ms/meversion?partner=Windows&market=zh-cn&uhf=1" defer></script>    <script>
+
+        WcpConsent.init("zh-cn", "cookie-banner", function (err, _siteConsent) {
+            if (err != undefined) {
+                return error;
+            } else {
+                siteConsent = _siteConsent;
+            }
+        }, onConsentChanged);
+
+        function onConsentChanged() {
+            var msccvalue = window.getCookie("MSCC");
+            window.mldcc = "MSCC:" + GetCategoryFromMSCC(msccvalue.toLowerCase());
+        }
+
+        $(window).on('load', function (e) {
+            ShowHideManageCookies('Manage cookies');
+        });
+
+    </script>
+    <script src="//mwf-service.akamaized.net/mwf/js/bundle/1.56.0/mwf-auto-init-main.var.min.js"></script>
+    <script type='text/javascript' src='/en-us/windows/remote-resource-center/articles/scripts/Globalscripts.js?v=uOqfGtUh4dNEzIRU2IHn0k3jyT30B0ITd-8HG6_XhK41' charset='utf-7'></script>
+
+
+    
+    <input type="hidden" name="firstName" id="FirstName" />
+    <input type="hidden" name="LastName" id="LastName" />
+    <input type="hidden" name="Email" id="Email" />
+
+    <div class="g4e c-dialog f-lightbox wdg-lightbox" id="default-lightbox" aria-hidden="true" tabindex="-1">
+        <div role="presentation" tabindex="-1"></div>
+        <div role="dialog" id="dialog-container" aria-label="">
+            <div class="nav-buttons" aria-hidden="false" tabindex="-1">
+                <button class="c-glyph glyph-cancel" data-js-dialog-hide="" aria-label="Close video window" tabindex="0"></button>
+                <button class="c-flipper f-previous tips-tricks-left hide" role="button" tabindex="0" aria-label="Previous" title="Previous"></button>
+                <button class="c-flipper f-next tips-tricks-right hide" role="button" tabindex="0" aria-label="Next" title="Next"></button>
+            </div>
+            <div role="document">
+                <div class="c-video-player">
+                    <div class="f-external-player" tabindex="-1">
+                        <span aria-hidden="true" class="hide" itemprop="name"></span>
+                        <span aria-hidden="true" class="hide" itemprop="description"></span>
+                        <div id="player-container2" video-Id="" class="InlinePlayerAPI"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="tips-current-position hide"></div>
+        </div>
+    </div>
+    <a href="#primaryArea" class="m-back-to-top x-hidden-focus" aria-disabled="true" title="返回顶部" aria-label="单击以浏览页面顶端">
+        <div class="c-glyph glyph-up"></div>
+    </a>
+    <script type="text/javascript">
+        setTimeout(function () {
+            if (_satellite != undefined) {
+                _satellite.pageBottom();
+            }
+        }, 1000);
+    </script>
+</body>
+</html>
