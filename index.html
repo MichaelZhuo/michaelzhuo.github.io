@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<head>
+    <title>随机点名 - realtvop toolbox</title>
+    <link rel="icon" type="image/ico" href="favicon.ico">
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="mdui/css/mdui.css" />
+    <link rel="stylesheet" href="style-new.css" />
+    <script type="text/javascript" src="mdui/js/mdui.js"></script>
+</head>
+
+<body class="mdui-loaded mdui-theme-layout-dark mdui-appbar-with-toolbar" style="-webkit-app-region:drag;">
+    <header class="appbar mdui-appbar mdui-appbar-fixed">
+        <div class="mdui-toolbar mdui-color-theme" id="mdui-header">
+            <a class="mdui-typo-headline mdui-hidden-xs" onclick="update()">lemon toolbox</a>
+            <a class="mdui-typo-title" onclick="bee()">随机点名</a>
+            <div class="mdui-toolbar-spacer"></div>
+            <a mdui-dialog="{target: '#setMode'}" class="mdui-btn mdui-btn-icon" mdui-tooltip="{content: '设置模式'}"
+                id="setModeBtn">
+                <i class="mdui-icon material-icons">settings</i>
+            </a>
+    </header>
+
+
+    <div id="name">点击开始</div>
+    <div class="number">
+        抽中学号:
+        <span id="number"></span>
+    </div>
+    <div class="start-btn">
+        <button onClick="getRandom()" class="mdui-btn mdui-color-pink-a200 mdui-ripple" id="start">开始</button>
+    </div>
+    <span class="watermark">
+        随机点名 v<span id="version">0.0.0</span> by <a style="color: #fff"
+            href="//space.bilibili.com/484759721">飞机上的长电视</a>
+    </span>
+
+    <div class="mdui-dialog" id="setMode">
+        <div class="mdui-dialog-title">设置模式</div>
+        <div class="mdui-dialog-content">
+            <div class="mdui-textfield mdui-textfield-floating-label">
+                <input class="mdui-textfield-input" placeholder="输入配置文件URL" id="input-modFilename" />
+            </div>
+            <div class="mdui-textfield mdui-textfield-floating-label">
+                <label class="mdui-textfield-label">输入配置</label>
+                <textarea class="mdui-textfield-input" id="input-modFile"></textarea>
+            </div>
+        </div>
+        <div class="mdui-dialog-actions">
+            <button class="mdui-btn mdui-ripple" mdui-dialog-cancel>取消</button>
+            <button class="mdui-btn mdui-ripple" onClick="setModFilename()">在线加载</button>
+            <button class="mdui-btn mdui-ripple"
+                onClick="localStorage.setItem('modFile', document.getElementById('input-modFile').value);location.reload();">设置</button>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="index.js"></script>
+    <script>
+        const registerServiceWorker = () => {
+            if ("serviceWorker" in navigator) {
+                try {
+                    const registration = navigator.serviceWorker.register("/sw.v2.js");
+                    if (registration.installing) {
+                        console.log("正在安装 Service worker");
+                    } else if (registration.waiting) {
+                        console.log("已安装 Service worker");
+                    } else if (registration.active) {
+                        console.log("激活 Service worker");
+                    }
+                } catch (error) {
+                    console.error(`注册失败：${error}`);
+                }
+            }
+        };
+        registerServiceWorker();
+        document.getElementById("version").innerText = VERSION;
+    </script>
+</body>
