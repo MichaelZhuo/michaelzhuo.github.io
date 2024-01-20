@@ -13,9 +13,11 @@
         }
 
         /* 导航按钮样式 */
-        #nav-btn {
-            cursor: pointer;
-            margin-right: 20px;
+        #nav-fab {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 999;
         }
     </style>
 </head>
@@ -24,10 +26,6 @@
     <header class="mdui-appbar mdui-appbar-fixed">
         <div class="mdui-container mdui-color-black">
             <div class="mdui-toolbar mdui-color-black">
-                <!-- 导航按钮 -->
-                <div id="nav-btn" onclick="scrollToSection('welcome-section')">
-                    <i class="mdui-icon material-icons">menu</i>
-                </div>
                 <a href="#" class="mdui-typo-title mdui-text-color-white" style="margin: 0;">卓皓轩官网</a>
                 <div class="mdui-toolbar-spacer"></div>
                 <a href="#" class="mdui-typo-subheading mdui-text-color-white">Official Home Page of Michael Zhuo</a>
@@ -99,6 +97,11 @@
 
     </div>
 
+    <!-- 导航按钮 -->
+    <button id="nav-fab" class="mdui-fab mdui-color-theme">
+        <i class="mdui-icon material-icons">menu</i>
+    </button>
+
     <script src="https://cdn.jsdelivr.net/npm/mdui@0.4.3/dist/js/mdui.min.js"></script>
 
     <script>
@@ -111,10 +114,13 @@
             alert("分享功能正在开发中！");
         }
 
+        // 初始化 mdui
+        mdui.mutation();
+
         // 滑动到指定板块
         function scrollToSection(sectionId) {
             var element = document.getElementById(sectionId);
-            element.scrollIntoView({ behavior: 'smooth' });
+            mdui.scrollTo('#' + sectionId);
         }
     </script>
 </body>
