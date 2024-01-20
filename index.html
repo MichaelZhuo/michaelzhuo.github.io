@@ -105,15 +105,24 @@
     <!-- 导航按钮 -->
     <button id="nav-fab" class="mdui-fab mdui-color-theme" mdui-fab="{trigger: 'hover'}">
         <i class="mdui-icon material-icons">menu</i>
-        <ul class="mdui-fab-drawer mdui-fab-open">
-            <li class="mdui-fab-drawer-item" onclick="scrollToSection('welcome-section')">欢迎</li>
-            <li class="mdui-fab-drawer-item" onclick="scrollToSection('portfolio-section')">作品集</li>
-            <li class="mdui-fab-drawer-item" onclick="scrollToSection('skills-section')">技能图表</li>
-            <li class="mdui-fab-drawer-item" onclick="scrollToSection('timeline-section')">时间轴</li>
-            <li class="mdui-fab-drawer-item" onclick="scrollToSection('education-section')">教育经历</li>
-            <!-- 添加更多板块 -->
-        </ul>
     </button>
+
+    <!-- 导航弹出菜单 -->
+    <div class="mdui-fab-wrapper" id="nav-menu">
+        <button class="mdui-fab mdui-ripple mdui-color-theme">
+            <i class="mdui-icon material-icons">menu</i>
+        </button>
+        <div class="mdui-fab-drawer mdui-fab-drawer-right mdui-shadow-3">
+            <ul class="mdui-list">
+                <li class="mdui-list-item" onclick="scrollToSection('welcome-section')">欢迎</li>
+                <li class="mdui-list-item" onclick="scrollToSection('portfolio-section')">作品集</li>
+                <li class="mdui-list-item" onclick="scrollToSection('skills-section')">技能图表</li>
+                <li class="mdui-list-item" onclick="scrollToSection('timeline-section')">时间轴</li>
+                <li class="mdui-list-item" onclick="scrollToSection('education-section')">教育经历</li>
+                <!-- 添加更多板块 -->
+            </ul>
+        </div>
+    </div>
 
     <script src="https://cdn.jsdelivr.net/npm/mdui@0.4.3/dist/js/mdui.min.js"></script>
 
@@ -130,7 +139,7 @@
         // 滑动到指定板块
         function scrollToSection(sectionId) {
             var element = document.getElementById(sectionId);
-            mdui.scrollTo('#' + sectionId);
+            mdui.scrollTo(element, 0, 300);
         }
     </script>
 </body>
