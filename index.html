@@ -11,6 +11,19 @@
             border-top: 2px solid #e0e0e0;
             margin: 50px 0;
         }
+
+        /* 目录按钮样式 */
+        #nav-drawer-btn {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 999;
+        }
+
+        /* 目录弹出侧边栏样式 */
+        #nav-drawer {
+            max-width: 240px;
+        }
     </style>
 </head>
 <body class="mdui-theme-primary-indigo">
@@ -18,6 +31,10 @@
     <header class="mdui-appbar mdui-appbar-fixed">
         <div class="mdui-container mdui-color-black">
             <div class="mdui-toolbar mdui-color-black">
+                <!-- 目录按钮 -->
+                <button id="nav-drawer-btn" class="mdui-btn mdui-btn-icon">
+                    <i class="mdui-icon material-icons">menu</i>
+                </button>
                 <a href="#" class="mdui-typo-title mdui-text-color-white" style="margin: 0;">卓皓轩官网</a>
                 <div class="mdui-toolbar-spacer"></div>
                 <a href="#" class="mdui-typo-subheading mdui-text-color-white">Official Home Page of Michael Zhuo</a>
@@ -30,6 +47,19 @@
             </div>
         </div>
     </header>
+
+    <!-- 目录弹出侧边栏 -->
+    <div class="mdui-drawer" id="nav-drawer">
+        <ul class="mdui-list">
+            <li class="mdui-list-item" onclick="scrollToSection('welcome-section')">欢迎</li>
+            <li class="mdui-list-item" onclick="scrollToSection('introduction-section')">简介</li>
+            <li class="mdui-list-item" onclick="scrollToSection('portfolio-section')">作品集</li>
+            <li class="mdui-list-item" onclick="scrollToSection('skills-section')">技能图表</li>
+            <li class="mdui-list-item" onclick="scrollToSection('timeline-section')">时间轴</li>
+            <li class="mdui-list-item" onclick="scrollToSection('education-section')">教育经历</li>
+            <!-- 添加更多板块 -->
+        </ul>
+    </div>
 
     <div class="mdui-container" style="text-align: center;">
         <img src="https://michaelzhuo.github.io/IMG_9588.jpeg" alt="卓皓轩的照片" class="mdui-img-rounded" style="max-width: 25%; margin-top: 80px;">
@@ -108,8 +138,17 @@
         }
 
         function share() {
-            alert("分享功能正在开发中！");
+            alert("拷贝网址michaelzhuo.github.io");
         }
+
+        // 滚动到指定板块
+        function scrollToSection(sectionId) {
+            var element = document.getElementById(sectionId);
+            mdui.scrollTo(element, 0, 300);
+        }
+
+        // 初始化弹出菜单
+        new mdui.Fab('#nav-drawer-btn', '#nav-drawer');
     </script>
 </body>
 </html>
