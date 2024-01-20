@@ -11,19 +11,6 @@
             border-top: 2px solid #e0e0e0;
             margin: 50px 0;
         }
-
-        /* 导航按钮样式 */
-        #nav-fab {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            z-index: 999;
-        }
-
-        /* 导航弹出菜单样式 */
-        #nav-menu {
-            max-width: 240px;
-        }
     </style>
 </head>
 <body class="mdui-theme-primary-indigo">
@@ -52,7 +39,7 @@
             <h2 style="margin: 0;">Hi, I'm Michael</h2>
         </div>
 
-        <!-- 作品集板块 -->
+        <!-- 欢迎板块 -->
         <div id="welcome-section" class="mdui-card mdui-shadow-0">
             <div class="mdui-card-content">
                 <h2>欢迎</h2>
@@ -61,21 +48,31 @@
         </div>
         <div class="divider"></div>
 
-        <!-- 作品集板块 -->
-        <div id="portfolio-section" class="mdui-card mdui-shadow-0">
+        <!-- 简介板块 -->
+        <div id="introduction-section" class="mdui-card mdui-shadow-0">
             <div class="mdui-card-content">
-                <h2>作品集</h2>
-                <p>这里展示一些我参与过的项目和作品。</p>
-                <!-- 添加项目的介绍、链接等 -->
+                <h2>简介</h2>
+                <p>卓皓轩，男，汉族，2009年2月生，广东广州人，2015年9月参加学习，2023年6月加入中国共产主义青年团，在读于广州市黄埔区铁英中学。</p>
+                <p>现任广州市黄埔区铁英中学初三七班数学课代表。</p>
             </div>
         </div>
         <div class="divider"></div>
 
+        <!-- 作品集板块 -->
+        <div id="portfolio-section" class="mdui-card mdui-shadow-0">
+            <div class="mdui-card-content">
+                <h2>作品集</h2>
+                <p>这里展示一些我参与过的项目和作品。但是其实什么也没有。你被骗了。</p>
+                <!-- 添加项目的介绍、链接等 -->
+            </div>
+        </div>
+        <div class="divider"></div>
+        
         <!-- 技能图表板块 -->
         <div id="skills-section" class="mdui-card mdui-shadow-0">
             <div class="mdui-card-content">
                 <h2>技能图表</h2>
-                <!-- 添加技能图表或其他视觉元素 -->
+                <p>其实我什么也不会，这也什么都没有</p>
             </div>
         </div>
         <div class="divider"></div>
@@ -84,7 +81,7 @@
         <div id="timeline-section" class="mdui-card mdui-shadow-0">
             <div class="mdui-card-content">
                 <h2>时间轴</h2>
-                <!-- 添加个人或职业发展历程 -->
+                <p>2009年2月17日生</p>
             </div>
         </div>
         <div class="divider"></div>
@@ -93,35 +90,13 @@
         <div id="education-section" class="mdui-card mdui-shadow-0">
             <div class="mdui-card-content">
                 <h2>教育经历</h2>
-                <!-- 添加教育经历的信息 -->
+                <p>现就读于广州市黄埔区铁英中学</p>
             </div>
         </div>
         <div class="divider"></div>
 
         <!-- 其他板块 ... -->
 
-    </div>
-
-    <!-- 导航按钮 -->
-    <button id="nav-fab" class="mdui-fab mdui-color-theme" mdui-fab="{trigger: 'hover'}">
-        <i class="mdui-icon material-icons">menu</i>
-    </button>
-
-    <!-- 导航弹出菜单 -->
-    <div class="mdui-fab-wrapper" id="nav-menu">
-        <button class="mdui-fab mdui-ripple mdui-color-theme">
-            <i class="mdui-icon material-icons">menu</i>
-        </button>
-        <div class="mdui-fab-drawer mdui-fab-drawer-right mdui-shadow-3">
-            <ul class="mdui-menu" id="menu">
-                <li class="mdui-menu-item"><a href="#welcome-section">欢迎</a></li>
-                <li class="mdui-menu-item"><a href="#portfolio-section">作品集</a></li>
-                <li class="mdui-menu-item"><a href="#skills-section">技能图表</a></li>
-                <li class="mdui-menu-item"><a href="#timeline-section">时间轴</a></li>
-                <li class="mdui-menu-item"><a href="#education-section">教育经历</a></li>
-                <!-- 添加更多板块 -->
-            </ul>
-        </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/mdui@0.4.3/dist/js/mdui.min.js"></script>
@@ -135,15 +110,6 @@
         function share() {
             alert("分享功能正在开发中！");
         }
-
-        // 滑动到指定板块
-        function scrollToSection(sectionId) {
-            var element = document.getElementById(sectionId);
-            mdui.scrollTo(element, 0, 300);
-        }
-
-        // 初始化弹出菜单
-        var inst = new mdui.Fab('#nav-fab', '#nav-menu');
     </script>
 </body>
 </html>
