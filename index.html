@@ -3,124 +3,94 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>卓皓轩官网 - Official Home Page of Michael Zhuo</title>
+    <title>七班关机党 - Shut Down Party of Class Seven</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@0.4.3/dist/css/mdui.min.css">
-    <style>
-        /* 分隔线样式 */
-        .divider {
-            border-top: 2px solid #e0e0e0;
-            margin: 50px 0;
-        }
-
-        /* 导航按钮样式 */
-        #nav-fab {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            z-index: 999;
-        }
-    </style>
 </head>
 <body class="mdui-theme-primary-indigo">
 
     <header class="mdui-appbar mdui-appbar-fixed">
-        <div class="mdui-container mdui-color-black">
-            <div class="mdui-toolbar mdui-color-black">
-                <a href="#" class="mdui-typo-title mdui-text-color-white" style="margin: 0;">卓皓轩官网</a>
+        <div class="mdui-container mdui-color-red">
+            <div class="mdui-toolbar mdui-color-red">
+                <button class="mdui-btn mdui-btn-icon" mdui-menu="{target: '#menu'}">
+                    <i class="mdui-icon material-icons">menu</i>
+                </button>
+                <a href="#" class="mdui-typo-title mdui-text-color-yellow">七班关机党</a>
                 <div class="mdui-toolbar-spacer"></div>
-                <a href="#" class="mdui-typo-subheading mdui-text-color-white">Official Home Page of Michael Zhuo</a>
+                <a href="#" class="mdui-typo-subheading mdui-text-color-yellow">Shut Down Party of Class Seven</a>
                 <button class="mdui-btn mdui-btn-icon" onclick="toggleDarkMode()">
                     <i class="mdui-icon material-icons">brightness_4</i>
-                </button>
-                <button class="mdui-btn mdui-btn-icon" onclick="share()">
-                    <i class="mdui-icon material-icons">share</i>
                 </button>
             </div>
         </div>
     </header>
 
+    <!-- 弹出式菜单 -->
+    <ul class="mdui-menu" id="menu">
+        <li class="mdui-menu-item"><a href="#introduction">序言</a></li>
+        <li class="mdui-menu-item"><a href="#overview">总纲</a></li>
+        <li class="mdui-menu-item"><a href="#organization">组织机构</a></li>
+        <li class="mdui-menu-item"><a href="#it_communist">信息技术共产</a></li>
+        <li class="mdui-menu-item"><a href="#economic_construction">经济建设</a></li>
+        <li class="mdui-menu-item"><a href="#leadership_responsibility">领导人责任</a></li>
+        <li class="mdui-menu-item"><a href="#legal_responsibility">法律责任</a></li>
+        <li class="mdui-menu-item"><a href="#oath">宣誓</a></li>
+    </ul>
+
     <div class="mdui-container" style="text-align: center;">
-        <img src="https://michaelzhuo.github.io/IMG_9588.jpeg" alt="卓皓轩的照片" class="mdui-img-rounded" style="max-width: 25%; margin-top: 80px;">
+        <!-- 添加调整大小的照片 -->
+        <img src="https://sdpcs.github.io/IMG_0568.jpg" alt="zmf的照片" class="mdui-img-rounded" style="max-width: 25%; margin-top: 80px;">
 
         <div class="mdui-typo">
-            <h1 style="margin: 20px 0 10px 0;">你好，我是卓皓轩</h1>
-            <h2 style="margin: 0;">Hi, I'm Michael</h2>
+            <h3 id="introduction">序言</h3>
+            <!-- 其他部分内容 -->
+            
+            <h3 id="overview">第一章 总纲</h3>
+            <!-- 其他部分内容 -->
+
+            <h3 id="organization">第二章 组织机构</h3>
+            <!-- 其他部分内容 -->
+
+            <h3 id="it_communist">第三章 信息技术共产</h3>
+            <!-- 其他部分内容 -->
+
+            <h3 id="economic_construction">第四章 经济建设</h3>
+            <!-- 其他部分内容 -->
+
+            <h3 id="leadership_responsibility">第五章 领导人责任</h3>
+            <!-- 其他部分内容 -->
+
+            <h3 id="legal_responsibility">第六章 法律责任</h3>
+            <!-- 其他部分内容 -->
+
+            <h3 id="oath">第七章 宣誓</h3>
+            <!-- 其他部分内容 -->
+
+            <h3>附则</h3>
+            <!-- 其他部分内容 -->
         </div>
-
-        <!-- 作品集板块 -->
-        <div id="welcome-section" class="mdui-card mdui-shadow-0">
-            <div class="mdui-card-content">
-                <h2>欢迎</h2>
-                <p>欢迎来到我的个人网站，我是卓皓轩。</p>
-            </div>
-        </div>
-        <div class="divider"></div>
-
-        <!-- 作品集板块 -->
-        <div id="portfolio-section" class="mdui-card mdui-shadow-0">
-            <div class="mdui-card-content">
-                <h2>作品集</h2>
-                <p>这里展示一些我参与过的项目和作品。</p>
-                <!-- 添加项目的介绍、链接等 -->
-            </div>
-        </div>
-        <div class="divider"></div>
-
-        <!-- 技能图表板块 -->
-        <div id="skills-section" class="mdui-card mdui-shadow-0">
-            <div class="mdui-card-content">
-                <h2>技能图表</h2>
-                <!-- 添加技能图表或其他视觉元素 -->
-            </div>
-        </div>
-        <div class="divider"></div>
-
-        <!-- 时间轴板块 -->
-        <div id="timeline-section" class="mdui-card mdui-shadow-0">
-            <div class="mdui-card-content">
-                <h2>时间轴</h2>
-                <!-- 添加个人或职业发展历程 -->
-            </div>
-        </div>
-        <div class="divider"></div>
-
-        <!-- 教育经历板块 -->
-        <div id="education-section" class="mdui-card mdui-shadow-0">
-            <div class="mdui-card-content">
-                <h2>教育经历</h2>
-                <!-- 添加教育经历的信息 -->
-            </div>
-        </div>
-        <div class="divider"></div>
-
-        <!-- 其他板块 ... -->
-
     </div>
 
-    <!-- 导航按钮 -->
-    <button id="nav-fab" class="mdui-fab mdui-color-theme">
-        <i class="mdui-icon material-icons">menu</i>
-    </button>
-
     <script src="https://cdn.jsdelivr.net/npm/mdui@0.4.3/dist/js/mdui.min.js"></script>
-
     <script>
         function toggleDarkMode() {
             var body = document.body;
             body.classList.toggle("mdui-theme-layout-dark");
-        }
 
-        function share() {
-            alert("分享功能正在开发中！");
-        }
-
-        // 初始化 mdui
-        mdui.mutation();
-
-        // 滑动到指定板块
-        function scrollToSection(sectionId) {
-            var element = document.getElementById(sectionId);
-            mdui.scrollTo('#' + sectionId);
+            // 切换深色模式时调整标题颜色和标题栏背景颜色
+            var titleElement = document.querySelector('.mdui-typo-title');
+            var toolbarElement = document.querySelector('.mdui-toolbar');
+            
+            if (body.classList.contains("mdui-theme-layout-dark")) {
+                titleElement.classList.remove('mdui-text-color-white');
+                titleElement.classList.add('mdui-text-color-black');
+                toolbarElement.classList.remove('mdui-color-black');
+                toolbarElement.classList.add('mdui-color-white');
+            } else {
+                titleElement.classList.remove('mdui-text-color-black');
+                titleElement.classList.add('mdui-text-color-white');
+                toolbarElement.classList.remove('mdui-color-white');
+                toolbarElement.classList.add('mdui-color-black');
+            }
         }
     </script>
 </body>
