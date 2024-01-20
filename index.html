@@ -113,12 +113,12 @@
             <i class="mdui-icon material-icons">menu</i>
         </button>
         <div class="mdui-fab-drawer mdui-fab-drawer-right mdui-shadow-3">
-            <ul class="mdui-list">
-                <li class="mdui-list-item" onclick="scrollToSection('welcome-section')">欢迎</li>
-                <li class="mdui-list-item" onclick="scrollToSection('portfolio-section')">作品集</li>
-                <li class="mdui-list-item" onclick="scrollToSection('skills-section')">技能图表</li>
-                <li class="mdui-list-item" onclick="scrollToSection('timeline-section')">时间轴</li>
-                <li class="mdui-list-item" onclick="scrollToSection('education-section')">教育经历</li>
+            <ul class="mdui-menu" id="menu">
+                <li class="mdui-menu-item"><a href="#welcome-section">欢迎</a></li>
+                <li class="mdui-menu-item"><a href="#portfolio-section">作品集</a></li>
+                <li class="mdui-menu-item"><a href="#skills-section">技能图表</a></li>
+                <li class="mdui-menu-item"><a href="#timeline-section">时间轴</a></li>
+                <li class="mdui-menu-item"><a href="#education-section">教育经历</a></li>
                 <!-- 添加更多板块 -->
             </ul>
         </div>
@@ -141,6 +141,9 @@
             var element = document.getElementById(sectionId);
             mdui.scrollTo(element, 0, 300);
         }
+
+        // 初始化弹出菜单
+        var inst = new mdui.Fab('#nav-fab', '#nav-menu');
     </script>
 </body>
 </html>
