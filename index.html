@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>卓皓轩官网</title>
+    <title>卓皓轩官网 - Official Home Page of Michael Zhuo</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@0.4.3/dist/css/mdui.min.css">
     <style>
         /* 分隔线样式 */
@@ -17,56 +17,89 @@
             cursor: pointer;
             margin-right: 20px;
         }
-
-        /* 侧边栏样式 */
-        #sidenav {
-            position: fixed;
-            top: 0;
-            left: -250px;
-            width: 250px;
-            height: 100%;
-            background-color: #263238;
-            overflow-x: hidden;
-            padding-top: 20px;
-            transition: 0.5s;
-            z-index: 1;
-        }
-
-        #sidenav a {
-            padding: 8px 8px 8px 32px;
-            text-decoration: none;
-            font-size: 18px;
-            color: #ffffff;
-            display: block;
-            transition: 0.3s;
-        }
-
-        #sidenav a:hover {
-            color: #ff4081;
-        }
     </style>
 </head>
 <body class="mdui-theme-primary-indigo">
 
-    <!-- 侧边栏 -->
-    <div id="sidenav">
-        <a href="#" onclick="scrollToSection('welcome-section')">欢迎</a>
-        <a href="#" onclick="scrollToSection('portfolio-section')">作品集</a>
-        <a href="#" onclick="scrollToSection('skills-section')">技能图表</a>
-        <a href="#" onclick="scrollToSection('timeline-section')">时间轴</a>
-        <a href="#" onclick="scrollToSection('education-section')">教育经历</a>
-        <!-- 添加其他板块的链接 -->
-    </div>
-
     <header class="mdui-appbar mdui-appbar-fixed">
-        <!-- ... 此处保持不变 ... -->
+        <div class="mdui-container mdui-color-black">
+            <div class="mdui-toolbar mdui-color-black">
+                <!-- 导航按钮 -->
+                <div id="nav-btn" onclick="scrollToSection('welcome-section')">
+                    <i class="mdui-icon material-icons">menu</i>
+                </div>
+                <a href="#" class="mdui-typo-title mdui-text-color-white" style="margin: 0;">卓皓轩官网</a>
+                <div class="mdui-toolbar-spacer"></div>
+                <a href="#" class="mdui-typo-subheading mdui-text-color-white">Official Home Page of Michael Zhuo</a>
+                <button class="mdui-btn mdui-btn-icon" onclick="toggleDarkMode()">
+                    <i class="mdui-icon material-icons">brightness_4</i>
+                </button>
+                <button class="mdui-btn mdui-btn-icon" onclick="share()">
+                    <i class="mdui-icon material-icons">share</i>
+                </button>
+            </div>
+        </div>
     </header>
 
     <div class="mdui-container" style="text-align: center;">
-        <!-- ... 此处保持不变 ... -->
+        <img src="https://michaelzhuo.github.io/IMG_9588.jpeg" alt="卓皓轩的照片" class="mdui-img-rounded" style="max-width: 25%; margin-top: 80px;">
+
+        <div class="mdui-typo">
+            <h1 style="margin: 20px 0 10px 0;">你好，我是卓皓轩</h1>
+            <h2 style="margin: 0;">Hi, I'm Michael</h2>
+        </div>
+
+        <!-- 作品集板块 -->
+        <div id="welcome-section" class="mdui-card mdui-shadow-0">
+            <div class="mdui-card-content">
+                <h2>欢迎</h2>
+                <p>欢迎来到我的个人网站，我是卓皓轩。</p>
+            </div>
+        </div>
+        <div class="divider"></div>
+
+        <!-- 作品集板块 -->
+        <div id="portfolio-section" class="mdui-card mdui-shadow-0">
+            <div class="mdui-card-content">
+                <h2>作品集</h2>
+                <p>这里展示一些我参与过的项目和作品。</p>
+                <!-- 添加项目的介绍、链接等 -->
+            </div>
+        </div>
+        <div class="divider"></div>
+
+        <!-- 技能图表板块 -->
+        <div id="skills-section" class="mdui-card mdui-shadow-0">
+            <div class="mdui-card-content">
+                <h2>技能图表</h2>
+                <!-- 添加技能图表或其他视觉元素 -->
+            </div>
+        </div>
+        <div class="divider"></div>
+
+        <!-- 时间轴板块 -->
+        <div id="timeline-section" class="mdui-card mdui-shadow-0">
+            <div class="mdui-card-content">
+                <h2>时间轴</h2>
+                <!-- 添加个人或职业发展历程 -->
+            </div>
+        </div>
+        <div class="divider"></div>
+
+        <!-- 教育经历板块 -->
+        <div id="education-section" class="mdui-card mdui-shadow-0">
+            <div class="mdui-card-content">
+                <h2>教育经历</h2>
+                <!-- 添加教育经历的信息 -->
+            </div>
+        </div>
+        <div class="divider"></div>
+
+        <!-- 其他板块 ... -->
+
     </div>
 
-    <script src="https://unpkg.com/mdui@2.0.3/mdui.global.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mdui@0.4.3/dist/js/mdui.min.js"></script>
 
     <script>
         function toggleDarkMode() {
@@ -82,12 +115,6 @@
         function scrollToSection(sectionId) {
             var element = document.getElementById(sectionId);
             element.scrollIntoView({ behavior: 'smooth' });
-        }
-
-        // 打开/关闭侧边栏
-        function toggleSidenav() {
-            var sidenav = document.getElementById('sidenav');
-            sidenav.style.left = (sidenav.style.left === '0px') ? '-250px' : '0px';
         }
     </script>
 </body>
