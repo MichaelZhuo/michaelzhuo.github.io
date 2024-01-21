@@ -11,26 +11,78 @@
             border-top: 2px solid #e0e0e0;
             margin: 50px 0;
         }
+
+        /* 目录按钮样式 */
+        #nav-drawer-btn {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 999;
+        }
+
+        /* 切换模式按钮样式 */
+        #mode-switch-btn {
+            position: fixed;
+            top: 80px;
+            left: 20px;
+            z-index: 999;
+        }
     </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
 </head>
 <body class="mdui-theme-primary-indigo">
 
     <header class="mdui-appbar mdui-appbar-fixed">
         <div class="mdui-container mdui-color-black">
             <div class="mdui-toolbar mdui-color-black">
+                <!-- 目录按钮 -->
+                <button id="nav-drawer-btn" class="mdui-btn mdui-btn-icon">
+                    <i class="mdui-icon material-icons">menu</i>
+                </button>
+                <!-- 切换模式按钮 -->
+                <button id="mode-switch-btn" class="mdui-btn mdui-btn-icon">
+                    <i class="mdui-icon material-icons">brightness_4</i>
+                </button>
                 <a href="#" class="mdui-typo-title mdui-text-color-white" style="margin: 0;">卓皓轩官网</a>
                 <div class="mdui-toolbar-spacer"></div>
                 <a href="#" class="mdui-typo-subheading mdui-text-color-white">Official Home Page of Michael Zhuo</a>
                 <button class="mdui-btn mdui-btn-icon" onclick="toggleDarkMode()">
                     <i class="mdui-icon material-icons">brightness_4</i>
                 </button>
-                <button class="mdui-btn mdui-btn-icon" onclick="share()">
+                <!-- 分享按钮 -->
+                <button class="mdui-btn mdui-btn-icon share-btn" onclick="share()">
                     <i class="mdui-icon material-icons">share</i>
                 </button>
+
             </div>
         </div>
     </header>
 
+    <div class="mdui-drawer" id="mode-switch-drawer">
+        <mdui-button-icon slot="trigger" class="auto" id="mode-switch-trigger">
+            <i class="mdui-icon material-icons">brightness_4</i>
+        </mdui-button-icon>
+        <mdui-menu selects="single" value="auto" class="menu" mdui-menu="{ 'position': 'right', 'covered': true }">
+            <mdui-menu-item value="light">亮色模式</mdui-menu-item>
+            <mdui-menu-item value="dark">暗色模式</mdui-menu-item>
+            <mdui-divider></mdui-divider>
+            <mdui-menu-item value="auto">跟随系统</mdui-menu-item>
+        </mdui-menu>
+    </div>
+
+    <!-- 目录弹出侧边栏 -->
+    <div class="mdui-drawer" id="nav-drawer">
+        <ul class="mdui-list">
+            <!-- 添加板块链接 -->
+            <li class="mdui-list-item" onclick="scrollToSection('welcome-section')">欢迎</li>
+            <li class="mdui-list-item" onclick="scrollToSection('introduction-section')">简介</li>
+            <li class="mdui-list-item" onclick="scrollToSection('portfoli-section')">作品集</li>
+            <li class="mdui-list-item" onclick="scrollToSection('skills-section')">技能图标</li>
+            <li class="mdui-list-item" onclick="scrollToSection('timeline-section')">时间轴</li>
+            <li class="mdui-list-item" onclick="scrollToSection('education-section')">教育经历</li>
+        </ul>
+    </div>
+    
     <div class="mdui-container" style="text-align: center;">
         <img src="https://michaelzhuo.github.io/IMG_9588.jpeg" alt="卓皓轩的照片" class="mdui-img-rounded" style="max-width: 25%; margin-top: 80px;">
 
@@ -102,13 +154,47 @@
     <script src="https://cdn.jsdelivr.net/npm/mdui@0.4.3/dist/js/mdui.min.js"></script>
 
     <script>
-        function toggleDarkMode() {
-            var body = document.body;
-            body.classList.toggle("mdui-theme-layout-dark");
-        }
+        // 初始化弹出菜单
+        new mdui.Fab('#nav-drawer-btn', '#nav-drawer');
+        
+        // 初始化切换模式按钮
+        var modeSwitchDrawer = new mdui.Drawer('#mode-switch-drawer');
+        var modeSwitchBtn = document.getElementById('mode-switch-btn');
+        var modeSwitchTrigger = document.getElementById('mode-switch-trigger');
 
+        modeSwitchBtn.addEventListener('click', function () {
+            modeSwitchDrawer.toggle();
+        });
+
+        modeSwitchTrigger.addEventListener('click', function () {
+            modeSwitchDrawer.close();
+        });
+
+        // 滚动到指定板块
+        function scrollToSection(sectionId) {
+            var element = document.getElementById(sectionId);
+            mdui.scrollTo(element, 0, 300);
+        }
+        
+        document.addEventListener('DOMContentLoaded', function () {
+        // 初始化 clipboard.js
+        var clipboard = new ClipboardJS('.share-btn');
+
+        // 复制成功时的提示
+        clipboard.on('success', function (e) {
+            alert('已复制到剪贴板：' + e.text);
+        });
+
+        // 复制失败时的提示
+        clipboard.on('error', function () {
+            alert('复制失败，请手动复制链接。');
+        });
+
+         // 分享按钮点击事件
         function share() {
-            alert("分享功能正在开发中！");
+         // 复制链接到剪贴板
+        var copyText = 'https://michaelzhuo.github.io/';
+        navigator.clipboard.writeText(copyText);
         }
     </script>
 </body>
