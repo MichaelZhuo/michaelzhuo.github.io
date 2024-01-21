@@ -27,6 +27,14 @@
             left: 20px;
             z-index: 999;
         }
+
+        /* 分享按钮样式 */
+        #share-btn {
+            position: fixed;
+            top: 140px;
+            left: 20px;
+            z-index: 999;
+        }
     </style>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
 </head>
@@ -43,17 +51,13 @@
                 <button id="mode-switch-btn" class="mdui-btn mdui-btn-icon">
                     <i class="mdui-icon material-icons">brightness_4</i>
                 </button>
+                <!-- 分享按钮 -->
+                <button id="share-btn" class="mdui-btn mdui-btn-icon">
+                    <i class="mdui-icon material-icons">share</i>
+                </button>
                 <a href="#" class="mdui-typo-title mdui-text-color-white" style="margin: 0;">卓皓轩官网</a>
                 <div class="mdui-toolbar-spacer"></div>
                 <a href="#" class="mdui-typo-subheading mdui-text-color-white">Official Home Page of Michael Zhuo</a>
-                <button class="mdui-btn mdui-btn-icon" onclick="toggleDarkMode()">
-                    <i class="mdui-icon material-icons">brightness_4</i>
-                </button>
-                <!-- 分享按钮 -->
-                <button class="mdui-btn mdui-btn-icon" onclick="share()">
-                    <i class="mdui-icon material-icons">share</i>
-                </button>
-
             </div>
         </div>
     </header>
@@ -147,7 +151,16 @@
         </div>
         <div class="divider"></div>
 
-        <!-- 其他板块 ... -->
+        <!-- 分享板块 -->
+        <div id="share-section" class="mdui-card mdui-shadow-0">
+            <div class="mdui-card-content">
+                <h2>分享</h2>
+                <button id="share-btn" class="mdui-btn mdui-btn-icon" onclick="share()">
+                    <i class="mdui-icon material-icons">share</i>
+                </button>
+            </div>
+        </div>
+        <div class="divider"></div>
 
     </div>
 
@@ -176,27 +189,13 @@
             mdui.scrollTo(element, 0, 300);
         }
 
-        document.addEventListener('DOMContentLoaded', function () {
-            // 初始化 clipboard.js
-            var clipboard = new ClipboardJS('.share-btn');
-
-            // 复制成功时的提示
-            clipboard.on('success', function (e) {
-                alert('已复制到剪贴板：' + e.text);
-            });
-
-            // 复制失败时的提示
-            clipboard.on('error', function () {
-                alert('复制失败，请手动复制链接。');
-            });
-
-            // 分享按钮点击事件
-            function share() {
-                // 复制链接到剪贴板
-                var copyText = 'https://michaelzhuo.github.io/';
-                navigator.clipboard.writeText(copyText);
-            }
-        });
+        // 分享按钮点击事件
+        function share() {
+            // 复制链接到剪贴板
+            var copyText = 'https://michaelzhuo.github.io/';
+            navigator.clipboard.writeText(copyText);
+            alert('已复制到剪贴板：' + copyText);
+        }
     </script>
 </body>
 </html>
