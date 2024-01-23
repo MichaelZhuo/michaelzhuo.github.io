@@ -21,8 +21,11 @@
         <a href="#" class="mdui-typo-title mdui-text-color-white" style="margin: 0;">卓皓轩官网</a>
         <div class="mdui-toolbar-spacer"></div>
         <a href="#" class="mdui-typo-subheading mdui-text-color-white">Official Home Page of Michael Zhuo</a>
-            </div>
+        <button class="mdui-btn mdui-btn-icon" onclick="toggleDarkMode()">
+            <i class="mdui-icon material-icons">brightness_4</i>
+        </button>
         </div>
+    </div>
     </header>
 
     <div class="mdui-container" style="text-align: center;">
@@ -93,6 +96,12 @@
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/mdui@0.4.3/dist/js/mdui.min.js"></script>
+    <script>
+        function toggleDarkMode() {
+            var body = document.body;
+            body.classList.toggle("mdui-theme-layout-dark");
+        }
+    </script>
 
 </body>
 </html>
