@@ -116,7 +116,7 @@
         
         <div class="card" >
             <div style="font-size: x-large; color:#F44336; font-weight: bold;">Notifications</div>
-            <div class="content" style="font-size: small; margin-top: 10px;">birthday</div>
+            <div class="content" style=" margin-top: 10px;">2-17 Birthday</div>
         </div>
         <div class="card">
             <div class="title">Beijing (Capital) Time</div>
@@ -133,24 +133,22 @@
         </div>
         <div class="card">
             <div class="title">Timer-</div>
-            <div>
-                <label style="color:#fff;" for="countdownHour">Hour</label>
-                <input style="background-color:#323232; color: #fff;" type="number" id="countdownHour" min="0" max="23" value="0" class="countdown-input">
-                <label style="color:#ffffff;" for="countdownMinute">  Minute</label>
-                <input style="background-color:#323232; color: #fff;" type="number" id="countdownMinute" min="0" max="59" value="0" class="countdown-input">
-                <label style="color:#fff;" for="countdownSecond">  Second</label>
-                <input style="background-color:#323232; color: #fff;" type="number" id="countdownSecond" min="0" max="59" value="0" class="countdown-input">
-            </div>
-            <div style="margin-bottom: 20px;"></div>
+            
+            
             <div class="content" id="countdownTimer">00:00:00.000</div>
             <div class="button-container">
                 <button class="button" id="startCountdown">Start</button>
                 <button class="button" id="pauseCountdown">Stop</button>
                 <button class="button" id="resetCountdown">Reset</button>
             </div>
+            <div class="button-container" style="margin-top: 20px;">
+                <input style="background-color:#323232; color: #fff; width: 50px;" type="number" id="countdownHour" min="0" max="23" placeholder="Hour" class="countdown-input">
+                <input style="background-color:#323232; color: #fff; width: 50px;" type="number" id="countdownMinute" min="0" max="59" placeholder="Min" class="countdown-input">
+                <input style="background-color:#323232; color: #fff; width: 50px;" type="number" id="countdownSecond" min="0" max="59" placeholder="Sec" class="countdown-input">
+            </div>
         </div>
         <div class="card">
-            <div class="title">Random Name Copilot</div> 
+            <div class="title">Random Name </div> 
             <div class="content" id="randomNameDisplay">Click to start</div>
             <div class="button-container">
                 <button class="button" id="pickRandomName">Name</button>
@@ -167,7 +165,7 @@
         </div>
         
     </div>
-    <div class="weather">
+    <div class="weather" style="max-width: 920px;"">
             <div id="currentWeather">
                 <h2>Current Weather</h2>
                 <div class="weather-content" id="currentWeatherData"></div>
@@ -234,79 +232,80 @@
     }
 
     document.getElementById('startTimer').addEventListener('click', startTimer);
-document.getElementById('stopTimer').addEventListener('click', stopTimer);
-document.getElementById('resetTimer').addEventListener('click', resetTimer);
+    document.getElementById('stopTimer').addEventListener('click', stopTimer);
+    document.getElementById('resetTimer').addEventListener('click', resetTimer);
 
-document.addEventListener('DOMContentLoaded', function () {
-    const hourInput = document.getElementById('countdownHour');
-    const minuteInput = document.getElementById('countdownMinute');
-    const secondInput = document.getElementById('countdownSecond');
-    const countdownTimer = document.getElementById('countdownTimer');
-    const startButton = document.getElementById('startCountdown');
-    const pauseButton = document.getElementById('pauseCountdown');
-    const resetButton = document.getElementById('resetCountdown');
+    document.addEventListener('DOMContentLoaded', function () {
+            const hourInput = document.getElementById('countdownHour');
+            const minuteInput = document.getElementById('countdownMinute');
+            const secondInput = document.getElementById('countdownSecond');
+            const countdownTimer = document.getElementById('countdownTimer');
+            const startButton = document.getElementById('startCountdown');
+            const pauseButton = document.getElementById('pauseCountdown');
+            const resetButton = document.getElementById('resetCountdown');
 
-    let interval;
-    let totalMilliseconds = 0;
-    let remainingTime = 0;
-    let paused = false;
+            let interval;
+            let totalMilliseconds = 0;
+            let remainingTime = 0;
+            let paused = false;
 
-    function updateTimer() {
-        let hours = Math.floor(remainingTime / (1000 * 60 * 60));
-        let minutes = Math.floor((remainingTime % (1000 * 60 * 60)) / (1000 * 60));
-        let seconds = Math.floor((remainingTime % (1000 * 60)) / 1000);
-        let milliseconds = remainingTime % 1000;
+            function updateTimer() {
+                let hours = Math.floor(remainingTime / (1000 * 60 * 60));
+                let minutes = Math.floor((remainingTime % (1000 * 60 * 60)) / (1000 * 60));
+                let seconds = Math.floor((remainingTime % (1000 * 60)) / 1000);
+                let milliseconds = remainingTime % 1000;
 
-        hours = String(hours).padStart(2, '0');
-        minutes = String(minutes).padStart(2, '0');
-        seconds = String(seconds).padStart(2, '0');
-        milliseconds = String(milliseconds).padStart(3, '0');
+                hours = String(hours).padStart(2, '0');
+                minutes = String(minutes).padStart(2, '0');
+                seconds = String(seconds).padStart(2, '0');
+                milliseconds = String(milliseconds).padStart(3, '0');
 
-        countdownTimer.textContent = `${hours}:${minutes}:${seconds}.${milliseconds}`;
-    }
-
-    function startTimer() {
-        interval = setInterval(function () {
-            if (remainingTime > 0) {
-                remainingTime -= 10;
-                updateTimer();
-            } else {
-                clearInterval(interval);
-                updateTimer();
-                alert('倒计时结束！');
+                countdownTimer.textContent = `${hours}:${minutes}:${seconds}.${milliseconds}`;
             }
-        }, 10);
-    }
 
-    function pauseTimer() {
-        clearInterval(interval);
-        paused = true;
-    }
+            function startTimer() {
+                interval = setInterval(function () {
+                    if (remainingTime > 0) {
+                        remainingTime -= 10;
+                        updateTimer();
+                    } else {
+                        clearInterval(interval);
+                        updateTimer();
+                        alert('倒计时结束！');
+                    }
+                }, 10);
+            }
 
-    function resetTimer() {
-        clearInterval(interval);
-        totalMilliseconds = 0;
-        remainingTime = 0;
-        updateTimer();
-        paused = false;
-    }
+            function pauseTimer() {
+                clearInterval(interval);
+                paused = true;
+                remainingTime = totalMilliseconds - (totalMilliseconds - remainingTime);
+            }
 
-    startButton.addEventListener('click', function () {
-        if (!paused) {
-            totalMilliseconds =
-                (parseInt(hourInput.value) * 60 * 60 * 1000) +
-                (parseInt(minuteInput.value) * 60 * 1000) +
-                (parseInt(secondInput.value) * 1000);
-            remainingTime = totalMilliseconds;
-        }
-        paused = false;
-        startTimer();
-    });
+            function resetTimer() {
+                clearInterval(interval);
+                totalMilliseconds = 0;
+                remainingTime = 0;
+                updateTimer();
+                paused = false;
+            }
 
-    pauseButton.addEventListener('click', pauseTimer);
+            startButton.addEventListener('click', function () {
+                if (!paused) {
+                    totalMilliseconds =
+                        (parseInt(hourInput.value) * 60 * 60 * 1000) +
+                        (parseInt(minuteInput.value) * 60 * 1000) +
+                        (parseInt(secondInput.value) * 1000);
+                    remainingTime = totalMilliseconds;
+                }
+                paused = false;
+                startTimer();
+            });
 
-    resetButton.addEventListener('click', resetTimer);
-});
+            pauseButton.addEventListener('click', pauseTimer);
+
+            resetButton.addEventListener('click', resetTimer);
+        });
 
 
     // 获取当前天气信息
