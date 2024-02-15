@@ -11,21 +11,21 @@
       src="//res.realtvop.eu.org/mdui/js/mdui.js"
     ></script>
     <style>
-        
         body {
-            background-color: #f5f5f5;
+            background-color: #1d1d1d;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         .container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
+            display:grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 50px;
             padding: 40px;
+            align-content: center;
         }
         .card {
-            background-color: #ffffff;
+            background-color: #000000;
             border-radius: 20px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             padding: 40px;
@@ -33,15 +33,15 @@
         .title {
             font-size: 25px;
             font-weight: bold;
-            color: #333333;
+            color: #ffffff;
             margin-bottom: 10px;
         }
         .content {
-            background-color: #e8e7e7;
+            background-color: #1e1e1e;
             border-radius: 15px;
             padding: 20px;
             font-size: 200%;
-            color: #666666;
+            color: #ffffff;
             line-height: 1.6;
         }
         .button-container {
@@ -50,7 +50,7 @@
             margin-top: 20px;
         }
         .button {
-            background-color: #008cff;
+            background-color: #0077ff;
             border: none;
             color: white;
             padding: 15px 10px;
@@ -66,7 +66,10 @@
             background-color: #0f3696;
         }
         .weather {
-            background-color: #ffffff;
+            background-color: #000000;
+            width:77%;
+            margin-left: auto;
+            margin-right: auto;
             border-radius: 20px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             padding: 40px;
@@ -74,119 +77,107 @@
         .weather h2 {
             font-size: 24px;
             font-weight: bold;
-            color: #333333;
+            color: #ffffff;
             margin-bottom: 20px;
         }
         .weather-content {
-            background-color: #e8e7e7;
+            background-color: #1e1e1e;
             border-radius: 15px;
             padding: 20px;
             font-size: 16px;
-            color: #666666;
+            color: #ffffff;
             line-height: 1.6;
+            text-align: center;
         }
-
         .countdown-input {
-            width: 35px; /* 设置输入框宽度 */
-            padding: 5px; /* 设置输入框内边距 */
-            border: 1px solid #ccc; /* 设置边框样式 */
-            border-radius: 10px; /* 设置边框圆角 */
-            font-size: 16px; /* 设置字体大小 */
-            color: #333; /* 设置字体颜色 */
-            background-color: #fff; /* 设置背景颜色 */
-            outline: none; /* 去除聚焦时的外边框 */
+            width: 35px;
+            padding: 5px;
+            border: 1px solid #000000;
+            border-radius: 10px;
+            font-size: 16px;
+            color: #333;
+            background-color: #fff;
+            outline: none;
         }
-
-        /* 当输入框聚焦时的样式 */
         .countdown-input:focus {
-            border-color: #007bff; /* 设置聚焦时的边框颜色 */
-            box-shadow: 0 0 5px #007bff; /* 设置聚焦时的阴影效果 */
+            border-color: #007bff;
+            box-shadow: 0 0 5px #007bff;
         }
     </style>
 </head>
 <body>
     <header class="appbar mdui-appbar mdui-appbar-fixed mdui-color-black">
         <div class="mdui-toolbar mdui-color-red" style="background-color: black !important;">
-          <a class="mdui-typo-headline mdui-hidden-xs mdui-text-color-white">Michael's Copilot</a>
+            <a class="mdui-typo-headline mdui-text-color-white">Michael's Copilot</a>
         </div>
-      </header>
-      
-
-
-<div class="container" style="padding-top: 40px;">
-    <div class="card" >
-        <div style="font-size: x-large; color:#F44336; font-weight: bold;">Notifications</div>
-        <div class="content" style="font-size: small; margin-top: 10px;">birthday</div>
-    </div>
-    <!-- 时钟 -->
-    <div class="card">
-        <div class="title">Beijing(Capital) Time</div>
-        <div class="content" id="clock"></div>
+    </header>
+    
+    <div class="container" style="padding-top: 100px; max-width: 1000px; margin-left: auto; margin-right: auto;">
+        
+        <div class="card" >
+            <div style="font-size: x-large; color:#F44336; font-weight: bold;">Notifications</div>
+            <div class="content" style="font-size: small; margin-top: 10px;">birthday</div>
+        </div>
+        <div class="card">
+            <div class="title">Beijing (Capital) Time</div>
+            <div class="content" id="clock"></div>
+        </div>
+        <div class="card">
+            <div class="title">Timer+</div>
+            <div class="content" id="timer">00:00:00.000</div>
+            <div class="button-container">
+                <button class="button" id="startTimer">Start</button>
+                <button class="button" id="stopTimer">Stop</button>
+                <button class="button" id="resetTimer">Reset</button>
+            </div>
+        </div>
+        <div class="card">
+            <div class="title">Timer-</div>
+            <div>
+                <label style="color:#fff;" for="countdownHour">Hour</label>
+                <input style="background-color:#323232; color: #fff;" type="number" id="countdownHour" min="0" max="23" value="0" class="countdown-input">
+                <label style="color:#ffffff;" for="countdownMinute">  Minute</label>
+                <input style="background-color:#323232; color: #fff;" type="number" id="countdownMinute" min="0" max="59" value="0" class="countdown-input">
+                <label style="color:#fff;" for="countdownSecond">  Second</label>
+                <input style="background-color:#323232; color: #fff;" type="number" id="countdownSecond" min="0" max="59" value="0" class="countdown-input">
+            </div>
+            <div style="margin-bottom: 20px;"></div>
+            <div class="content" id="countdownTimer">00:00:00.000</div>
+            <div class="button-container">
+                <button class="button" id="startCountdown">Start</button>
+                <button class="button" id="pauseCountdown">Stop</button>
+                <button class="button" id="resetCountdown">Reset</button>
+            </div>
+        </div>
+        <div class="card">
+            <div class="title">Random Name Copilot</div> 
+            <div class="content" id="randomNameDisplay">Click to start</div>
+            <div class="button-container">
+                <button class="button" id="pickRandomName">Name</button>
+            </div>
+        </div>
+        <div class="card">
+            <div class="title">Search</div>
+            <form id="searchForm" >
+                <input type="text" class="content" style="border: none; width: 85%; "id="searchInput" placeholder="Search Bing">
+                <div class="button-container">
+                    <button type="button" class="button" onclick="searchBing()">Search</button>
+                </div>
+            </form>
+        </div>
         
     </div>
-
-    <!-- 计时器 -->
-    <div class="card">
-        <div class="title">Timer+</div>
-        <div class="content" id="timer">00:00:00.000</div>
-        <div class="button-container">
-            <button class="button" id="startTimer">Start</button>
-            <button class="button" id="stopTimer">Stop</button>
-            <button class="button" id="resetTimer">Reset</button>
-        </div>
-    </div>
-
-        <!-- 倒计时器 -->
-    <div class="card">
-        <div class="title">Timer-</div>
-        <div>
-            <label for="countdownHour">Hour</label>
-            <input type="number" id="countdownHour" min="0" max="23" value="0" class="countdown-input">
-            <label for="countdownMinute">  Minute</label>
-            <input type="number" id="countdownMinute" min="0" max="59" value="0" class="countdown-input">
-            <label for="countdownSecond">  Second</label>
-            <input type="number" id="countdownSecond" min="0" max="59" value="0" class="countdown-input">
-        </div>
-        <div style="margin-bottom: 20px;"></div>
-        <div class="content" id="countdownTimer">00:00:00.000</div>
-        <div class="button-container">
-            <button class="button" id="startCountdown">Start</button>
-            <button class="button" id="pauseCountdown">Stop</button>
-            <button class="button" id="resetCountdown">Reset</button>
-        </div>
-    </div>
-    <div class="card">
-        <div class="title">Random Name Copilot</div> 
-        <div class="content" id="randomNameDisplay">Click to start</div>
-        <div class="button-container">
-            <button class="button" id="pickRandomName">Name</button>
-        </div>
-    </div>
-
-    <div class="card">
-        <div class="title">Search</div>
-        <form id="searchForm" >
-            <input type="text" class="content" style="border: none; width: 85%;"id="searchInput" placeholder="Search Bing">
-            <div class="button-container">
-            <button type="button" class="button" onclick="searchBing()">Search</button>
+    <div class="weather">
+            <div id="currentWeather">
+                <h2>Current Weather</h2>
+                <div class="weather-content" id="currentWeatherData"></div>
             </div>
-        </form>
-    </div>
-
-
-    <!-- 当前天气部分 -->
-<div class="weather">
-    <div id="currentWeather">
-        <h2>CurrentWeather</h2>
-        <div class="weather-content" id="currentWeatherData"></div>
-    </div>
-    <div id="forecastWeather">
-    <h2>ForecastWeather</h2>
-    <div class="weather-content" id="forecastWeatherData" style="font-size: 17px;"></div>
-    </div>
-</div>
-</div>
-
+            <div id="forecastWeather">
+                <h2>Forecast Weather</h2>
+                <div class="weather-content" id="forecastWeatherData" style="font-size: 17px;"></div>
+            </div>
+        </div>
+</body>
 <!-- JavaScript -->
 <script>
     
