@@ -30,6 +30,7 @@
             border-radius: 20px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             padding: 40px;
+            transition: transform 0.4s ease;
         }
         .title {
             font-size: 25px;
@@ -44,6 +45,7 @@
             font-size: 200%;
             color: #ffffff;
             line-height: 1.6;
+            transition: transform 0.4s ease;
         }
         .button-container {
             display: flex;
@@ -62,9 +64,11 @@
             cursor: pointer;
             border-radius: 10px;
             transition: background-color 0.9s ease;
+            transition: transform 0.4s ease;
         }
         .button:hover {
             background-color: #0f3696;
+            transform: scale(1.25);
         }
         .weather {
             background-color: #000000;
@@ -74,6 +78,7 @@
             border-radius: 20px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             padding: 40px;
+            transition: transform 0.4s ease;
         }
         .weather h2 {
             font-size: 24px;
@@ -89,6 +94,7 @@
             color: #ffffff;
             line-height: 1.6;
             text-align: center;
+            transition: transform 0.4s ease;
         }
         .countdown-input {
             width: 35px;
@@ -104,7 +110,18 @@
             border-color: #007bff;
             box-shadow: 0 0 5px #007bff;
         }
-        
+        .card:hover {
+            transform: scale(1.05);
+        }
+        .content:hover {
+            transform: scale(1.15);
+        }
+        .weather:hover {
+            transform: scale(1.01);
+        }
+        .weather-content:hover {
+            transform: scale(1.05);
+        }
     </style>
 </head>
 <body>
