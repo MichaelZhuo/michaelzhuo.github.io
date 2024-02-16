@@ -317,7 +317,7 @@ function getCurrentWeather() {
             var currentWeather = `
                 Temperature：${(data.main.temp - 273.15).toFixed(1)}°C<br>
                 Moisture Content：${data.main.humidity}%<br>
-                Wind Speed：${data.wind.speed} 米/秒，${data.wind.deg}°<br>
+                Wind Speed：${data.wind.speed} m/s，${data.wind.deg}°<br>
                 Atmospheric Pressure：${data.main.pressure} hPa<br>
                 Weather：${data.weather[0].description}<br>
                 Sunrise Time：${new Date(data.sys.sunrise * 1000).toLocaleTimeString()}<br>
@@ -356,7 +356,7 @@ function getForecastWeather() {
             document.getElementById('forecastWeatherData').innerHTML = forecastWeather;
         })
         .catch(error => {
-            console.error('获取未来天气预报信息时出错:', error);
+            console.error('error:', error);
         });
 }
 
@@ -439,7 +439,7 @@ window.onload = function() {
                 // 跳转到搜索结果页面
                 window.location.href = bingSearchURL;
             } else {
-                alert("请输入搜索内容");
+                alert("Please input what you want to search!");
             }
         }
 </script>
