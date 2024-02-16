@@ -7,45 +7,33 @@
     <title>Michael's Copilot</title>
     <!-- MDUI CSS -->
     <link rel="stylesheet" href="//res.realtvop.eu.org/mdui/css/mdui.css" />
-    <script
-      type="text/javascript"
-      src="//res.realtvop.eu.org/mdui/js/mdui.js"
-    ></script>
     <style>
         body {
-            background-color: #1d1d1d;
+            background-color: #171717;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         .container {
-            display:grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 50px;
-            padding: 40px;
-            align-content: center;
-        }
-    
-        .button-container {
             display: flex;
-            justify-content: space-between;
-            margin-top: 20px;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
         }
-        .button {
-            background-color: #0077ff;
-            border: none;
+        #randomNameDisplay {
+            background-color: #353535;
             color: white;
-            padding: 25px 25px;
+            border-radius: 30px;
+            padding: 20px 40px;
+            font-size: 48px;
             text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 20px;
+            margin-bottom: 20px;
+            transition: transform 0.3s ease;
             cursor: pointer;
-            border-radius: 20px;
-            transition: background-color 0.9s ease;
         }
-        .button:hover {
-            background-color: #0f3696;
+        #randomNameDisplay:hover {
+            transform: scale(1.25);
         }
     </style>
 </head>
@@ -57,82 +45,36 @@
         </div>
     </header>
     
-    <div class="container" style="padding-top: 100px; max-width: 1000px; margin-left: auto; margin-right: auto;">
-        
-        
-        <div>
-            <div class="content" style="background-color: #353535; width: 100%; height: 60%; border-radius: 30px; color: white; text-align:center; font-size: 90px; margin:auto;"id="randomNameDisplay">Click to start</div>
-            <div class="button-container">
-                <button class="button" style="margin-left: auto; margin-right: auto;"id="pickRandomName">Name</button>
-        </div>
-        
+    <div class="container">
+        <div id="randomNameDisplay">Click to start</div>
     </div>
 
-<!-- JavaScript -->
-<script>
-    // 学生信息
-    var students = {
-            "1": "曾梓涵",
-            "2": "陈嘉昊",
-            "3": "陈锦泽",
-            "4": "陈昕昊",
-            "5": "陈旭睿",
-            "6": "方子荣",
-            "7": "何羿",
-            "8": "吉思宇",
-            "9": "纪明希",
-            "10": "李君昊",
-            "11": "沈安南",
-            "12": "吴展鹏",
-            "13": "向吉可",
-            "14": "许智轩",
-            "15": "易宇宸",
-            "16": "郑铭峰",
-            "17": "钟浩宇",
-            "18": "钟盛昌",
-            "19": "周彦君",
-            "20": "卓皓轩",
-            "21": "曹茜",
-            "22": "曾婧恩",
-            "23": "陈彦君",
-            "24": "陈英悦",
-            "25": "陈芷瑶",
-            "26": "龚子涵",
-            "27": "洪懿",
-            "28": "胡书勤",
-            "29": "黄若菡",
-            "30": "雷诗涵",
-            "31": "李琛慧",
-            "32": "梁靖悦",
-            "33": "秦华穗",
-            "34": "唐瑄",
-            "35": "陶婧萱",
-            "36": "王爱岚",
-            "37": "王静怡",
-            "38": "王雨昕",
-            "39": "吴诗瑜",
-            "40": "徐采玥",
-            "41": "许原菲",
-            "42": "易可欣",
-            "43": "张蕊",
-            "44": "赵书佳",
-            "45": "钟雨霖"
-        };
+    <!-- JavaScript -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('/sw.js').then(function(registration) {
+                    console.log('ServiceWorker registration successful with scope: ', registration.scope);
+                }, function(err) {
+                    console.log('ServiceWorker registration failed: ', err);
+                });
+            });
+        }
+        var students = [
+            "曾梓涵", "陈嘉昊", "陈锦泽", "陈昕昊", "陈旭睿", "方子荣", "何羿", "吉思宇", "纪明希", "李君昊",
+            "沈安南", "吴展鹏", "向吉可", "许智轩", "易宇宸", "郑铭峰", "钟浩宇", "钟盛昌", "周彦君", "卓皓轩",
+            "曹茜", "曾婧恩", "陈彦君", "陈英悦", "陈芷瑶", "龚子涵", "洪懿", "胡书勤", "黄若菡", "雷诗涵",
+            "李琛慧", "梁靖悦", "秦华穗", "唐瑄", "陶婧萱", "王爱岚", "王静怡", "王雨昕", "吴诗瑜", "徐采玥",
+            "许原菲", "易可欣", "张蕊", "赵书佳", "钟雨霖"
+        ];
 
-    // 点名事件处理函数
-    document.getElementById('pickRandomName').addEventListener('click', function() {
-        // 随机选择一个学生
-        var studentIds = Object.keys(students);
-        var randomIndex = Math.floor(Math.random() * studentIds.length);
-        var randomStudentId = studentIds[randomIndex];
-        var randomStudentName = students[randomStudentId];
+        document.getElementById('randomNameDisplay').addEventListener('click', function() {
+            var randomIndex = Math.floor(Math.random() * students.length);
+            var randomStudentName = students[randomIndex];
 
-        // 显示随机选中的学生姓名和学号
-        var displayElement = document.getElementById('randomNameDisplay');
-        displayElement.innerHTML =  randomStudentId +  randomStudentName;
-    });
-
-</script>
-
+            var displayElement = document.getElementById('randomNameDisplay');
+            displayElement.innerHTML =  randomStudentName;
+        });
+    </script>
 </body>
 </html>
