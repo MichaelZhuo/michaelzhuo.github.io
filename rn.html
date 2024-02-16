@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="//res.realtvop.eu.org/mdui/css/mdui.css" />
     <style>
         body {
-            background-color: #171717;
+            background-color: #0e0e0e;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
@@ -24,22 +24,22 @@
         #randomNameDisplay {
             background-color: #353535;
             color: white;
-            border-radius: 50px;
-            padding: 20px 20px;
-            font-size: 100px;
+            border-radius: 30px;
+            padding: 20px 40px;
+            font-size: 48px;
             text-align: center;
             margin-bottom: 20px;
-            transition: transform 0.3s ease;
             cursor: pointer;
+            transition: transform 0.5s ease; /* 添加过渡效果 */
         }
         #randomNameDisplay:hover {
             transform: scale(1.25);
     
         }
+        /* 定义放大效果的类 */
         .enlarged {
             transform: scale(1.25); /* 将元素放大到 1.1 倍 */
-        } 
-        
+        }
     </style>
 </head>
 <body>
@@ -56,15 +56,6 @@
 
     <!-- JavaScript -->
     <script>
-        if ('serviceWorker' in navigator) {
-            window.addEventListener('load', function() {
-                navigator.serviceWorker.register('/sw.js').then(function(registration) {
-                    console.log('ServiceWorker registration successful with scope: ', registration.scope);
-                }, function(err) {
-                    console.log('ServiceWorker registration failed: ', err);
-                });
-            });
-        }
         var students = [
             "曾梓涵", "陈嘉昊", "陈锦泽", "陈昕昊", "陈旭睿", "方子荣", "何羿", "吉思宇", "纪明希", "李君昊",
             "沈安南", "吴展鹏", "向吉可", "许智轩", "易宇宸", "郑铭峰", "钟浩宇", "钟盛昌", "周彦君", "卓皓轩",
@@ -73,7 +64,7 @@
             "许原菲", "易可欣", "张蕊", "赵书佳", "钟雨霖"
         ];
 
-          // 触发点名函数
+        // 触发点名函数
         function pickRandomName() {
             var randomIndex = Math.floor(Math.random() * students.length);
             var randomStudentName = students[randomIndex];
@@ -92,7 +83,6 @@
         document.getElementById('randomNameDisplay').addEventListener('click', pickRandomName);
         // 按下键盘任意键触发点名
         document.addEventListener('keydown', pickRandomName);
-    </script>
     </script>
 </body>
 </html>
