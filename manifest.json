@@ -1,0 +1,15 @@
+{
+  "name": "Michael's Copilot",
+  "short_name": "Copilot",
+  "icons": [
+    {
+      "src": "/mz.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#F44336"
+}
