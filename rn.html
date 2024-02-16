@@ -36,6 +36,9 @@
             transform: scale(1.25);
     
         }
+        .enlarged {
+            transform: scale(1.25); /* 将元素放大到 1.1 倍 */
+        } 
         
     </style>
 </head>
@@ -70,13 +73,26 @@
             "许原菲", "易可欣", "张蕊", "赵书佳", "钟雨霖"
         ];
 
-        document.getElementById('randomNameDisplay').addEventListener('click', function() {
+          // 触发点名函数
+        function pickRandomName() {
             var randomIndex = Math.floor(Math.random() * students.length);
             var randomStudentName = students[randomIndex];
 
             var displayElement = document.getElementById('randomNameDisplay');
             displayElement.innerHTML =  randomStudentName;
-        });
+            // 添加放大效果
+            displayElement.classList.add('enlarged');
+            // 在一段时间后移除放大效果
+            setTimeout(function() {
+                displayElement.classList.remove('enlarged');
+            }, 500); // 500 毫秒后移除放大效果
+        }
+
+        // 点击 #randomNameDisplay 区域触发点名
+        document.getElementById('randomNameDisplay').addEventListener('click', pickRandomName);
+        // 按下键盘任意键触发点名
+        document.addEventListener('keydown', pickRandomName);
+    </script>
     </script>
 </body>
 </html>
