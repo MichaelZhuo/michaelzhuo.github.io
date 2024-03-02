@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>阅读《动物庄园》</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #fceedd;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #f5e9db;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            border-radius: 15px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        p {
+            text-align: justify;
+            margin-bottom: 15px;
+            font-size: 18px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>《动物庄园》</h1>
+        <div id="book-content">
+            <!-- 书籍内容将在此处填充 -->
+        </div>
+    </div>
+
+    <script>
+        // 书籍内容的文本文件路径
+        var bookPath = '《动物庄园》 (乔治·奥威尔) (Z-Library).txt';
+
+        // 使用 Fetch API 加载书籍内容
+        fetch(bookPath)
+            .then(response => response.text())
+            .then(text => {
+                // 将书籍内容填充到页面
+                var bookContent = document.getElementById('book-content');
+                var paragraphs = text.split('\n\n');
+                paragraphs.forEach(paragraphText => {
+                    var paragraph = document.createElement('p');
+                    paragraph.textContent = paragraphText;
+                    bookContent.appendChild(paragraph);
+                });
+            })
+            .catch(error => console.error('Error fetching book content:', error));
+    </script>
+</body>
+</html>
