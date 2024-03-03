@@ -136,8 +136,8 @@
     <div class="container" style="padding-top: 100px; max-width: 1000px; margin-left: auto; margin-right: auto;">
         
         <div class="card" >
-            <div style="font-size: x-large; color:#F44336; font-weight: bold;">Notifications</div>
-            <div class="content" style=" margin-top: 10px;">2-17 Birthday</div>
+            <div class="title">中考倒计时</div>
+    <div class="content" id="countdown"></div>
         </div>
         <div class="card">
             <div class="title">Beijing (Capital) Time</div>
@@ -202,6 +202,31 @@
 </body>
 <!-- JavaScript -->
 <script>
+
+    // 目标日期
+    var targetDate = new Date('2024-06-30').getTime();
+
+    // 更新倒计时
+    function updateCountdown() {
+        var now = new Date().getTime();
+        var distance = targetDate - now;
+
+        // 计算天、时、分、秒
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        // 在页面上显示倒计时
+        document.getElementById('countdown').innerHTML = days + " days " + hours + " hours "
+            + minutes + " mins " + seconds + " secs ";
+    }
+
+    // 每秒更新一次倒计时
+    setInterval(updateCountdown, 1000);
+
+    // 页面加载时立即更新一次倒计时
+    updateCountdown();
     
     // 实时北京时间时钟
     function updateClock() {
