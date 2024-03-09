@@ -213,13 +213,9 @@
 
         // 计算天、时、分、秒
         var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
         // 在页面上显示倒计时
-        document.getElementById('countdown').innerHTML = days + " days " + hours + " hours "
-            + minutes + " mins " + seconds + " secs ";
+        document.getElementById('countdown').innerHTML = days + " days " ;
     }
 
     // 每秒更新一次倒计时
