@@ -5,6 +5,11 @@ const CACHE_NAME = 'offline-page-cache';
 const urlsToCache = [
     '/',
     '/index.html'
+    '/rn.html'
+    'manifest.json'
+    'man.json'
+    'mz.png'
+    'mzhuo.png'
     // 在这里添加要缓存的其他静态资源，如样式表、脚本、图像等
 ];
 
