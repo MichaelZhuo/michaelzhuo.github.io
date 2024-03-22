@@ -13,9 +13,14 @@
       src="//res.realtvop.eu.org/mdui/js/mdui.js"
     ></script>
     <style>
+        @font-face {
+    font-family: 'YourCustomFont';
+    src: url('galbasic.ttf') format('truetype');
+    /* 添加其他字体格式的引用，根据需要 */
+       }
         body {
             background-color: #1d1d1d;
-            font-family: Arial, sans-serif;
+             font-family: 'YourCustomFont', Arial, sans-serif; /* 使用自定义字体，如果找不到则使用 Arial */
             margin: 0;
             padding: 0;
         }
